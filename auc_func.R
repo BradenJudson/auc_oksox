@@ -91,22 +91,31 @@ auc <- function(data, date, count) {
              fishdays = case_when(                          
                is.na(xbar) ~ .data[[count]] * 11/2,         
                # First survey, calculate left tail.
+               
                !is.na(xbar) ~ tdiff * xbar
                # If not last survey, follow algorithmin of Hillborn.
              ),
              # Counts are time diff * average count.
              cumulative = collapse::fcumsum(fishdays)) %>%  
-            # Cumulative summary vals - ignores NAs,
-      group_by(year) %>%                                    
+        
+      # Cumulative summary vals - ignores NAs,
+      group_by(year) %>%     
+      
       summarise(total_auc = max(cumulative, na.rm = TRUE) +
                   # Take the total count...
+                  
                   (.data[[count]][which.max(date)]*(11/2)),
                   # ... and estimate right-most tail with known residency time.
+                
                 nerkids = round(total_auc/11,0))
                   # Divide the whole thing by the residency time.
   
+  # Saves outcome as list with 1) plots and 2) summary of the data.
   list(plots = plot,
        summ = aucs)
+  
+  # Prints plot automatically. 
+  print(plot)
   
 }
 
@@ -125,7 +134,7 @@ counts <- read.csv("lowerOSO_counts.csv", na.strings = "") %>%
   arrange(date); head(counts)
 
 # Run plotting function.
-(oso_plots <- auc(data = counts, date = "date", count = "live"))
+oso_plots <- auc(data = counts, date = "date", count = "live")
 
 # Save figures.
 ggsave("plots/oso_auc.png", units = "px", 
@@ -141,7 +150,7 @@ pen <- read.csv("nerkids_all_yrs.csv") %>%
   select(1,3); head(pen)
   # Check that date format is interpretable by function.
 
-(pen_plots <- auc(data = pen, date = "date", count = "count"))
+pen_plots <- auc(data = pen, date = "date", count = "count")
 
 ggsave("plots/pen_auc.png", units = "px", 
        width = 2000, height = 1300)
