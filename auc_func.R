@@ -2,7 +2,7 @@
 # Function for making AUC plots.
 
 # Set project directory.
-setwd("~/auc_code")
+setwd("~/oksox_auc/aucs")
 
 # Load libraries.
 library(tidyverse); library(lubridate)
@@ -22,7 +22,7 @@ auc <- function(data, date, count) {
   ylim <- function(y) {c(min(y) - 0.25*max(y), max(y) + max(y)*0.15)}
   
   # Reformat variables.
-  data$year = as.factor(lubridate::year(data$date))
+  data$year = as.factor(lubridate::year(data[[date]]))
   data$date = yday(data$date)
   data[[count]] = as.numeric(data[[count]])
   
@@ -128,7 +128,8 @@ counts <- read.csv("lowerOSO_counts.csv", na.strings = "") %>%
   filter(!is.na(index_date)) %>% 
   mutate(index_date = dmy(index_date)) %>% 
   mutate_if(is.character, as.numeric) %>% 
-  mutate(total = rowSums(.[,c(2,3)], na.rm = TRUE)) %>% 
+  mutate(total = rowSums(.[,c(2,3)],
+                         na.rm = TRUE)) %>% 
   select(c(1,ncol(.))) %>% 
   `colnames<-`(., c("date", "live")) %>% 
   arrange(date); head(counts)
@@ -155,5 +156,39 @@ pen_plots <- auc(data = pen, date = "date", count = "count")
 ggsave("plots/pen_auc.png", units = "px", 
        width = 2000, height = 1300)
 
-# -------------------------------------------------------------------------
+# Shingle ----------------------------------------------------------------------
 
+# x axis marks are weird for shingle and mcintyre - needs fixing.
+
+library(lubridate)
+
+shingle <- read.csv("nerkids_all_yrs.csv") %>% 
+  arrange(date) %>% 
+  filter(stream == "Shingle Creek") %>%
+  filter(lubridate::year(ymd(date)) > 2014) %>% 
+  select(1,3); head(shingle)
+# Check that date format is interpretable by function.
+
+shinplots <- auc(data = shingle, date = "date", count = "count") 
+
+ggsave("plots/shin_auc.png", units = "px", 
+       width = 2000, height = 1300)
+
+
+# Above McIntyre ---------------------------------------------------------------
+
+# CHECK 2011 point, seems incorrect? maybe 2010 too
+
+mcin <- read.csv("midOSO_counts.csv", na.strings = "") %>% 
+  select(1:2) %>% 
+  filter(!is.na(Date)) %>% 
+  mutate(date = dmy(Date)) %>%  
+  select(2:3) %>% 
+  `colnames<-`(., tolower(colnames(.)))
+
+mcinplots <- auc(data = mcin, 
+                 date = "date", 
+                 count = "live")
+
+ggsave("plots/mcintyre_auc.png", units = "px", 
+       width = 2000, height = 2000)
