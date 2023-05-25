@@ -15,11 +15,16 @@ auc <- function(data, date, count) {
                {f(x/accuracy)*accuracy}
   
   # Function for setting year-specific y-axis breaks (n=3).
-  cbs <- function(y) {c(0, round_any(max(y)/2.1, 100),
-                        round_any(max(y) - 0.05*(max(y)), 100))}
+  cbs <- function(y) {c(0, round_any(max(y)/2.1, 10),
+                        round_any(max(y) - 0.05*(max(y)), 10))}
   
-  # Function for extending y axis limits to best see the data.
+  cxb <- function(x) {c(round_any(min(x) + 0.02*min(x), 1), 
+                        round_any(mean(c(min(x), max(x))), 1),
+                        round_any(max(x) - 0.02*max(x), 1))}
+  
+  # Functions for extending axis limits to best see the data.
   ylim <- function(y) {c(min(y) - 0.25*max(y), max(y) + max(y)*0.15)}
+  xlim <- function(x) {c(min(x) - 0.05*min(x), max(x) + max(x)*0.05)}
   
   # Reformat variables.
   data$year = as.factor(lubridate::year(data[[date]]))
@@ -60,13 +65,16 @@ auc <- function(data, date, count) {
                          limits = ylim) +
       
       # Keep x-axis consistent.
-      scale_x_continuous(breaks = c(240, 280, 320)) +
+      scale_x_continuous(breaks = cxb,
+                         expand = c(0,0),
+                         limits = xlim) +
       
       # Black and white theme.
       theme_bw() +
       
       # Remove grid lines.
-      theme(panel.grid = element_blank()) +
+      theme(panel.grid = element_blank(),
+            axis.text.x = element_text(size = 8)) +
       xlab("Day of the year") + 
       ylab("Spawner Abundance (# of live individuals)") +
       
@@ -111,11 +119,8 @@ auc <- function(data, date, count) {
                   # Divide the whole thing by the residency time.
   
   # Saves outcome as list with 1) plots and 2) summary of the data.
-  list(plots = plot,
-       summ = aucs)
-  
-  # Prints plot automatically. 
-  print(plot)
+  l1 <- list(plot = plot, aucs = aucs)
+  return(l1)
   
 }
 
@@ -135,7 +140,10 @@ counts <- read.csv("lowerOSO_counts.csv", na.strings = "") %>%
   arrange(date); head(counts)
 
 # Run plotting function.
-oso_plots <- auc(data = counts, date = "date", count = "live")
+oso_plots <- auc(data = counts, 
+                 date = "date",
+                 count = "live") 
+oso_plots$plot; oso_plots$aucs
 
 # Save figures.
 ggsave("plots/oso_auc.png", units = "px", 
@@ -151,7 +159,10 @@ pen <- read.csv("nerkids_all_yrs.csv") %>%
   select(1,3); head(pen)
   # Check that date format is interpretable by function.
 
-pen_plots <- auc(data = pen, date = "date", count = "count")
+pen_plots <- auc(data = pen,
+                 date = "date", 
+                 count = "count")
+pen_plots$plot; pen_plots$aucs
 
 ggsave("plots/pen_auc.png", units = "px", 
        width = 2000, height = 1300)
@@ -165,11 +176,17 @@ library(lubridate)
 shingle <- read.csv("nerkids_all_yrs.csv") %>% 
   arrange(date) %>% 
   filter(stream == "Shingle Creek") %>%
+  # Pre-2014 data are not usable. 
   filter(lubridate::year(ymd(date)) > 2014) %>% 
+  # Data for 2016 are not usable.
+  filter(lubridate::year(ymd(date)) != 2016) %>% 
   select(1,3); head(shingle)
 # Check that date format is interpretable by function.
 
-shinplots <- auc(data = shingle, date = "date", count = "count") 
+shinplots <- auc(data = shingle,
+                 date = "date", 
+                 count = "count") 
+shinplots$plot; head(shinplots$aucs)
 
 ggsave("plots/shin_auc.png", units = "px", 
        width = 2000, height = 1300)
@@ -189,6 +206,7 @@ mcin <- read.csv("midOSO_counts.csv", na.strings = "") %>%
 mcinplots <- auc(data = mcin, 
                  date = "date", 
                  count = "live")
+mcinplots$plot; head(mcinplots$aucs)
 
 ggsave("plots/mcintyre_auc.png", units = "px", 
        width = 2000, height = 2000)
