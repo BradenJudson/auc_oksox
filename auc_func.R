@@ -149,6 +149,10 @@ oso_plots$plot; oso_plots$aucs
 ggsave("plots/oso_auc.png", units = "px", 
        width = 2000, height = 2000)
 
+write.csv(oso_plots$aucs, 
+          "aucs/oso_auc.csv",
+          row.names = FALSE)
+
 
 # Penticton --------------------------------------------------------------------
 
@@ -167,11 +171,12 @@ pen_plots$plot; pen_plots$aucs
 ggsave("plots/pen_auc.png", units = "px", 
        width = 2000, height = 1300)
 
+write.csv(pen_plots$aucs, 
+          "aucs/pen_auc.csv",
+          row.names = FALSE)
+
+
 # Shingle ----------------------------------------------------------------------
-
-# x axis marks are weird for shingle and mcintyre - needs fixing.
-
-library(lubridate)
 
 shingle <- read.csv("nerkids_all_yrs.csv") %>% 
   arrange(date) %>% 
@@ -191,10 +196,12 @@ shinplots$plot; head(shinplots$aucs)
 ggsave("plots/shin_auc.png", units = "px", 
        width = 2000, height = 1300)
 
+write.csv(shinplots$aucs, 
+          "aucs/shin_auc.csv",
+          row.names = FALSE)
+
 
 # Above McIntyre ---------------------------------------------------------------
-
-# CHECK 2011 point, seems incorrect? maybe 2010 too
 
 mcin <- read.csv("midOSO_counts.csv", na.strings = "") %>% 
   select(1:2) %>% 
@@ -210,3 +217,7 @@ mcinplots$plot; head(mcinplots$aucs)
 
 ggsave("plots/mcintyre_auc.png", units = "px", 
        width = 2000, height = 2000)
+
+write.csv(mcinplots$aucs, 
+          "aucs/mcin_auc.csv",
+          row.names = FALSE)
