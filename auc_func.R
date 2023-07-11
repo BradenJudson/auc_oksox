@@ -2,7 +2,7 @@
 # Function for making AUC plots.
 
 # Set project directory.
-setwd("~/oksox_auc/aucs")
+setwd(dirname(rstudioapi::getSourceEditorContext()$path)); getwd()
 
 # Load libraries.
 library(tidyverse); library(lubridate)
@@ -128,7 +128,8 @@ auc <- function(data, date, count) {
 # Lower Osoyoos River ----------------------------------------------------------
 
 # Read enumeration data in and manipulate it into two columns.
-counts <- read.csv("lowerOSO_counts.csv", na.strings = "") %>% 
+counts <- read.csv("osoyoos/lowerOSO_counts.csv", 
+                   na.strings = "") %>% 
   select(c(1,2,7)) %>% 
   filter(!is.na(index_date)) %>% 
   mutate(index_date = dmy(index_date)) %>% 
@@ -150,14 +151,14 @@ ggsave("plots/oso_auc.png", units = "px",
        width = 2000, height = 2000)
 
 write.csv(oso_plots$aucs, 
-          "aucs/oso_auc.csv",
+          "osoyoos/oso_auc.csv",
           row.names = FALSE)
 
 
 # Penticton --------------------------------------------------------------------
 
 # Read in data. Requires some manipulation.
-pen <- read.csv("nerkids_all_yrs.csv") %>% 
+pen <- read.csv("pen_channel/nerkids_all_yrs.csv") %>% 
   arrange(date) %>% 
   filter(stream != "Shingle Creek") %>% 
   select(1,3); head(pen)
@@ -172,9 +173,10 @@ ggsave("plots/pen_auc.png", units = "px",
        width = 2000, height = 1300)
 
 write.csv(pen_plots$aucs, 
-          "aucs/pen_auc.csv",
+          "pen_channel/pen_auc.csv",
           row.names = FALSE)
 
+source("pen_channel/pen_channel_props.R")
 
 # Shingle ----------------------------------------------------------------------
 
@@ -221,3 +223,5 @@ ggsave("plots/mcintyre_auc.png", units = "px",
 write.csv(mcinplots$aucs, 
           "aucs/mcin_auc.csv",
           row.names = FALSE)
+
+
