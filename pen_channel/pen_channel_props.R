@@ -1,6 +1,6 @@
 
-library(tidyverse)
-setwd(dirname(rstudioapi::getSourceEditorContext()$path)); getwd()
+library(tidyverse); library(flextable)
+setwd("~/oksox_auc/aucs/pen_channel")
 
 auc <- read.csv("pen_auc.csv")
 

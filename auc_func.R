@@ -1,4 +1,4 @@
-# Braden Judson
+
 # Function for making AUC plots.
 
 # Set project directory.
@@ -154,6 +154,7 @@ write.csv(oso_plots$aucs,
           "osoyoos/oso_auc.csv",
           row.names = FALSE)
 
+source(file = paste0(getwd(), "/pen_channel/pen_channel_props.R"))
 
 # Penticton --------------------------------------------------------------------
 
@@ -176,7 +177,8 @@ write.csv(pen_plots$aucs,
           "pen_channel/pen_auc.csv",
           row.names = FALSE)
 
-source("pen_channel/pen_channel_props.R")
+source(file = paste0(getwd(), "/pen_channel/pen_channel_props.R"))
+
 
 # Shingle ----------------------------------------------------------------------
 

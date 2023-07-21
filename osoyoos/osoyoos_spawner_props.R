@@ -1,6 +1,6 @@
-setwd(dirname(rstudioapi::getSourceEditorContext()$path)); getwd()
+setwd("~/oksox_auc/aucs/osoyoos")
 
-library(tidyverse)
+library(tidyverse); library(flextable)
 
 auc <- read.csv("oso_auc.csv")
 
@@ -66,7 +66,8 @@ kok <- soko[soko$fish == "kokanee", ] %>%
 
 total <- merge(sox, kok, by = "year", all = TRUE) %>% 
   replace(is.na(.), 0) %>% 
-  filter(year != 0)
+  filter(year != 0) %>% 
+  mutate(propNO = round(propNO*100,1))
 
 library(flextable); library(officer)
 
@@ -76,7 +77,7 @@ set_flextable_defaults(background.color = "white",
 
 (ft <- total %>% 
     mutate(propSox = round(1 - propKokanee, 3) * 100,
-           propHO = round(1 - propNO, 3) * 100,
+           propHO = round(100 - propNO, 1),
            Sockeye = round(nerkids * propSox/100, 0),
            propKokanee = round(propKokanee, 3) * 100,
            year = as.factor(year)) %>% 
@@ -112,7 +113,7 @@ set_flextable_defaults(background.color = "white",
 
 fc <- total %>% 
   mutate(propSox = round(1 - propKokanee, 3) * 100,
-         propHO = round(1 - propNO, 3) * 100,
+         propHO = round(100 - propNO, 3) * 100,
          Sockeye = round(nerkids * propSox, 0),
          propKokanee = round(propKokanee, 3) * 100,
          year = as.factor(year)) %>% 
