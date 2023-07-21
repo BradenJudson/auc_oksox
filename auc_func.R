@@ -182,48 +182,48 @@ source(file = paste0(getwd(), "/pen_channel/pen_channel_props.R"))
 
 # Shingle ----------------------------------------------------------------------
 
-shingle <- read.csv("nerkids_all_yrs.csv") %>% 
-  arrange(date) %>% 
-  filter(stream == "Shingle Creek") %>%
-  # Pre-2014 data are not usable. 
-  filter(lubridate::year(ymd(date)) > 2014) %>% 
-  # Data for 2016 are not usable.
-  filter(lubridate::year(ymd(date)) != 2016) %>% 
-  select(1,3); head(shingle)
-# Check that date format is interpretable by function.
-
-shinplots <- auc(data = shingle,
-                 date = "date", 
-                 count = "count") 
-shinplots$plot; head(shinplots$aucs)
-
-ggsave("plots/shin_auc.png", units = "px", 
-       width = 2000, height = 1300)
-
-write.csv(shinplots$aucs, 
-          "aucs/shin_auc.csv",
-          row.names = FALSE)
+# shingle <- read.csv("nerkids_all_yrs.csv") %>% 
+#   arrange(date) %>% 
+#   filter(stream == "Shingle Creek") %>%
+#   # Pre-2014 data are not usable. 
+#   filter(lubridate::year(ymd(date)) > 2014) %>% 
+#   # Data for 2016 are not usable.
+#   filter(lubridate::year(ymd(date)) != 2016) %>% 
+#   select(1,3); head(shingle)
+# # Check that date format is interpretable by function.
+# 
+# shinplots <- auc(data = shingle,
+#                  date = "date", 
+#                  count = "count") 
+# shinplots$plot; head(shinplots$aucs)
+# 
+# ggsave("plots/shin_auc.png", units = "px", 
+#        width = 2000, height = 1300)
+# 
+# write.csv(shinplots$aucs, 
+#           "aucs/shin_auc.csv",
+#           row.names = FALSE)
 
 
 # Above McIntyre ---------------------------------------------------------------
 
-mcin <- read.csv("midOSO_counts.csv", na.strings = "") %>% 
-  select(1:2) %>% 
-  filter(!is.na(Date)) %>% 
-  mutate(date = dmy(Date)) %>%  
-  select(2:3) %>% 
-  `colnames<-`(., tolower(colnames(.)))
-
-mcinplots <- auc(data = mcin, 
-                 date = "date", 
-                 count = "live")
-mcinplots$plot; head(mcinplots$aucs)
-
-ggsave("plots/mcintyre_auc.png", units = "px", 
-       width = 2000, height = 2000)
-
-write.csv(mcinplots$aucs, 
-          "aucs/mcin_auc.csv",
-          row.names = FALSE)
+# mcin <- read.csv("midOSO_counts.csv", na.strings = "") %>% 
+#   select(1:2) %>% 
+#   filter(!is.na(Date)) %>% 
+#   mutate(date = dmy(Date)) %>%  
+#   select(2:3) %>% 
+#   `colnames<-`(., tolower(colnames(.)))
+# 
+# mcinplots <- auc(data = mcin, 
+#                  date = "date", 
+#                  count = "live")
+# mcinplots$plot; head(mcinplots$aucs)
+# 
+# ggsave("plots/mcintyre_auc.png", units = "px", 
+#        width = 2000, height = 2000)
+# 
+# write.csv(mcinplots$aucs, 
+#           "aucs/mcin_auc.csv",
+#           row.names = FALSE)
 
 

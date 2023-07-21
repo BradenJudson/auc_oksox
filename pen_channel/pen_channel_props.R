@@ -58,11 +58,16 @@ deadpitch <- read.csv("skaha_deadpitch_tidy.csv") %>%   # Read in all the skaha 
       colwidths = c(1,1,2,6)
     ))
 
-save_as_image(x = penft, 
-              path = paste0(getwd(), "/penauc.png"))
+write.csv(fc, "./tables/pen_summary.csv", 
+          row.names = FALSE)
 
-# save_as_docx(x = penft,
-#              pr_section = prop_section(page_size = page_size(
-#                orient = "landscape")),
-#              path = paste0(getwd(), "/penauc.docx"))
+save_as_image(x = penft, 
+              path = paste0(getwd(),
+              "./tables/pen_summary.png"))
+
+save_as_docx(x = penft,
+             pr_section = prop_section(page_size = page_size(
+               orient = "landscape")),
+             path = paste0(getwd(), 
+             "./tables/pen_summary.docx"))
 

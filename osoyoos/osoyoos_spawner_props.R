@@ -123,13 +123,16 @@ fc <- total %>%
          "propHO") %>% 
   replace(. == "0 (0)", NA) 
 
-write.csv(fc, "oso_summ.csv", row.names = FALSE)
+write.csv(fc, "./tables/oso_summary.csv", 
+          row.names = FALSE)
 
 save_as_image(x = ft, 
-              path = paste0(getwd(), "/osoauc.png"))
+              path = paste0(getwd(), 
+                     "./tables/oso_summary.png"))
 
 save_as_docx(x = ft,
              pr_section = prop_section(page_size = page_size(
                orient = "landscape")),
-             path = paste0(getwd(), "/osoauc.docx"))
+             path = paste0(getwd(), 
+             "./tables/oso_summary.docx"))
 
