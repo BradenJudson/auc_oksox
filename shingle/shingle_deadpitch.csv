@@ -1,0 +1,767 @@
+sampling.event,date,run.time,ona.fish,okr.section,reach,fork_length_cm,poh_cm,otolith,otolith_vial,total.age,european.age,age.sample.quality,aging.comments,origin,hatchery,sex,spawned,fecundity,dna_yn,dna_vial,dna.results,tagged_yn,tag.type,tag,comments,year,doy,flreg,fish
+Deadpitch,10/9/2014,Week 1,129471,Shingle Creek,NA,34,28,2,1,NA,NA,NA,NA,NA,NA,M,n/a,NA,Y,1,NA,NA,NA,NA,NA,2014,282,34,Kokanee
+Deadpitch,10/9/2014,Week 1,129472,Shingle Creek,NA,30.5,25,2,2,NA,NA,NA,NA,NA,NA,F,P,NA,Y,2,NA,NA,NA,NA,eggs still in fish,2014,282,30.5,Kokanee
+Deadpitch,10/9/2014,Week 1,129473,Shingle Creek,NA,38.5,33.5,2,3,NA,NA,NA,NA,NA,NA,F,S,NA,Y,3,NA,NA,NA,NA,tail deteriated,2014,282,38.5,Sockeye
+Deadpitch,10/9/2014,Week 1,129474,Shingle Creek,NA,NA,22.5,2,4,NA,NA,NA,NA,NA,NA,F,S,NA,Y,4,NA,NA,NA,NA,"no tail fin, DNA from dorsal",2014,282,28.5,Kokanee
+Deadpitch,10/9/2014,Week 1,129475,Shingle Creek,NA,NA,28.5,1,5,NA,NA,NA,NA,NA,NA,F,S,NA,Y,5,NA,NA,NA,NA,NA,2014,282,36,Sockeye
+Deadpitch,10/9/2014,Week 1,129476,Shingle Creek,NA,NA,31,1,6,NA,NA,NA,NA,NA,NA,F,S,NA,Y,6,NA,NA,NA,NA,DNA from dorsal,2014,282,39.2,Sockeye
+Deadpitch,10/9/2014,Week 1,129477,Shingle Creek,NA,NA,31,2,7,NA,NA,NA,NA,NA,NA,F,S,NA,Y,7,NA,NA,NA,NA,DNA too thick; falls off sheet,2014,282,39.2,Sockeye
+Deadpitch,10/15/2014,Week 2,129478,Shingle Creek,NA,NA,24,2,8,NA,NA,NA,NA,NA,NA,F,S,NA,Y,8,NA,NA,NA,NA,NA,2014,288,30.4,Kokanee
+Deadpitch,10/15/2014,Week 2,129479,Shingle Creek,NA,NA,25,2,9,NA,NA,NA,NA,NA,NA,F,S,NA,Y,9,NA,NA,NA,NA,NA,2014,288,31.6,Kokanee
+Deadpitch,10/15/2014,Week 2,129480,Shingle Creek,NA,26.5,21.5,2,10,NA,NA,NA,NA,NA,NA,M,n/a,NA,Y,10,NA,NA,NA,NA,NA,2014,288,26.5,Kokanee
+Deadpitch,10/15/2014,Week 2,129481,Shingle Creek,NA,24,19,2,11,NA,NA,NA,NA,NA,NA,M,n/a,NA,Y,11,NA,NA,NA,NA,NA,2014,288,24,Kokanee
+Deadpitch,10/15/2014,Week 2,129482,Shingle Creek,NA,NA,24,2,12,NA,NA,NA,NA,NA,NA,F,S,NA,Y,12,NA,NA,NA,NA,NA,2014,288,30.4,Kokanee
+Deadpitch,10/15/2014,Week 2,129483,Shingle Creek,NA,30.5,23.5,2,13,NA,NA,NA,NA,NA,NA,M,n/a,NA,Y,13,NA,NA,NA,NA,NA,2014,288,30.5,Kokanee
+Deadpitch,10/20/2014,Week 3,129484,Shingle Creek,NA,35,26.5,2,14,NA,NA,NA,NA,NA,NA,M,n/a,NA,Y,14,NA,NA,NA,NA,NA,2014,293,35,Sockeye
+Deadpitch,10/20/2014,Week 3,129485,Shingle Creek,NA,NA,19,2,15,NA,NA,NA,NA,NA,NA,F,S,NA,Y,15,NA,NA,NA,NA,NA,2014,293,24.1,Kokanee
+Deadpitch,10/20/2014,Week 3,129486,Shingle Creek,NA,NA,23.5,2,16,NA,NA,NA,NA,NA,NA,M,n/a,NA,Y,16,NA,NA,NA,NA,NA,2014,293,29.7,Kokanee
+Deadpitch,10/20/2014,Week 3,129487,Shingle Creek,NA,NA,36.5,2,17,NA,NA,NA,NA,NA,NA,F,N,NA,Y,17,NA,NA,NA,NA,NA,2014,293,46.1,Sockeye
+Deadpitch,10/20/2014,Week 3,129488,Shingle Creek,NA,40,31.5,2,18,NA,NA,NA,NA,NA,NA,M,n/a,NA,Y,18,NA,NA,NA,NA,NA,2014,293,40,Sockeye
+Deadpitch,10/20/2014,Week 3,129489,Shingle Creek,NA,43,34.5,2,19,NA,NA,NA,NA,NA,NA,F,N,NA,Y,19,NA,NA,NA,NA,NA,2014,293,43,Sockeye
+Deadpitch,10/20/2014,Week 3,129490,Shingle Creek,NA,NA,30.5,2,20,NA,NA,NA,NA,NA,NA,M,n/a,NA,Y,20,NA,NA,NA,NA,one otolith deformed,2014,293,38.6,Sockeye
+Deadpitch,10/20/2014,Week 3,129491,Shingle Creek,NA,41,33.5,2,21,NA,NA,NA,NA,NA,NA,M,n/a,NA,Y,21,NA,NA,NA,NA,NA,2014,293,41,Sockeye
+Deadpitch,10/20/2014,Week 3,129492,Shingle Creek,NA,40.5,32.5,2,22,NA,NA,NA,NA,NA,NA,M,n/a,NA,Y,22,NA,NA,NA,NA,NA,2014,293,40.5,Sockeye
+Deadpitch,10/20/2014,Week 3,129493,Shingle Creek,NA,39,30.5,0,23,NA,NA,NA,NA,NA,NA,F,P,NA,Y,23,NA,NA,NA,NA,"squished fish, missing eyes",2014,293,39,Sockeye
+Deadpitch,10/25/2014,Week 3,129494,Shingle Creek,NA,NA,39,2,24,NA,NA,NA,NA,NA,NA,F,S,NA,Y,24,NA,NA,NA,NA,NA,2014,298,49.3,Sockeye
+Deadpitch,10/25/2014,Week 3,129495,Shingle Creek,NA,NA,40,2,25,NA,NA,NA,NA,NA,NA,F,S,NA,Y,25,NA,NA,NA,NA,NA,2014,298,50.5,Sockeye
+Deadpitch,10/25/2014,Week 3,129496,Shingle Creek,NA,NA,36.5,2,26,NA,NA,NA,NA,NA,NA,F,S,NA,Y,26,NA,NA,NA,NA,NA,2014,298,46.1,Sockeye
+Deadpitch,10/25/2014,Week 3,129497,Shingle Creek,NA,NA,24.5,2,27,NA,NA,NA,NA,NA,NA,F,S,NA,Y,27,NA,NA,NA,NA,NA,2014,298,31,Kokanee
+Deadpitch,10/25/2014,Week 3,129498,Shingle Creek,NA,46,36.5,2,28,NA,NA,NA,NA,NA,NA,M,n/a,NA,Y,28,NA,NA,NA,NA,NA,2014,298,46,Sockeye
+Deadpitch,10/25/2014,Week 3,129499,Shingle Creek,NA,50,39.5,2,29,NA,NA,NA,NA,NA,NA,M,n/a,NA,Y,29,NA,NA,NA,NA,NA,2014,298,50,Sockeye
+Deadpitch,10/25/2014,Week 3,129500,Shingle Creek,NA,NA,40,2,30,NA,NA,NA,NA,NA,NA,F,S,NA,Y,30,NA,NA,NA,NA,NA,2014,298,50.5,Sockeye
+Deadpitch,10/25/2014,Week 3,129501,Shingle Creek,NA,NA,26.5,2,31,NA,NA,NA,NA,NA,NA,M,n/a,NA,Y,31,NA,NA,NA,NA,NA,2014,298,33.5,Kokanee
+Deadpitch,10/25/2014,Week 3,129502,Shingle Creek,NA,NA,23.5,2,32,NA,NA,NA,NA,NA,NA,M,n/a,NA,Y,32,NA,NA,NA,NA,NA,2014,298,29.7,Kokanee
+Deadpitch,10/25/2014,Week 3,129503,Shingle Creek,NA,NA,38.5,2,33,NA,NA,NA,NA,NA,NA,M,n/a,NA,Y,33,NA,NA,NA,NA,NA,2014,298,48.6,Sockeye
+Deadpitch,10/25/2014,Week 3,129504,Shingle Creek,NA,NA,42,2,34,NA,NA,NA,NA,NA,NA,F,P,NA,Y,34,NA,NA,NA,NA,NA,2014,298,53.1,Sockeye
+Deadpitch,10/25/2014,Week 3,129505,Shingle Creek,NA,NA,35.5,2,35,NA,NA,NA,NA,NA,NA,M,n/a,NA,Y,35,NA,NA,spaghetti & PIT,#4564 & 3DD003BAD2FB3,NA,2014,298,44.9,Sockeye
+Deadpitch,10/25/2014,Week 3,129506,Shingle Creek,NA,NA,32,2,36,NA,NA,NA,NA,NA,NA,M,n/a,NA,Y,36,NA,NA,NA,NA,NA,2014,298,40.5,Sockeye
+Deadpitch,10/25/2014,Week 3,129507,Shingle Creek,NA,36.5,28.5,2,37,NA,NA,NA,NA,NA,NA,M,n/a,NA,Y,37,NA,NA,NA,NA,NA,2014,298,36.5,Sockeye
+Deadpitch,10/25/2014,Week 3,129508,Shingle Creek,NA,38.5,30,2,38,NA,NA,NA,NA,NA,NA,M,n/a,NA,Y,38,NA,NA,NA,NA,NA,2014,298,38.5,Sockeye
+Deadpitch,10/25/2014,Week 3,129509,Shingle Creek,NA,NA,33,2,39,NA,NA,NA,NA,NA,NA,M,n/a,NA,Y,39,NA,NA,NA,NA,NA,2014,298,41.7,Sockeye
+Deadpitch,10/25/2014,Week 3,129510,Shingle Creek,NA,NA,38.5,2,40,NA,NA,NA,NA,NA,NA,M,n/a,NA,Y,40,NA,NA,NA,NA,NA,2014,298,48.6,Sockeye
+Deadpitch,10/25/2014,Week 3,129511,Shingle Creek,NA,NA,39,2,41,NA,NA,NA,NA,NA,NA,F,S,NA,Y,41,NA,NA,NA,NA,NA,2014,298,49.3,Sockeye
+Deadpitch,10/25/2014,Week 3,129512,Shingle Creek,NA,NA,36,1,42,NA,NA,NA,NA,NA,NA,M,n/a,NA,Y,42,NA,NA,NA,NA,NA,2014,298,45.5,Sockeye
+Deadpitch,10/25/2014,Week 3,129513,Shingle Creek,NA,NA,24.5,2,43,NA,NA,NA,NA,NA,NA,M,n/a,NA,Y,43,NA,NA,NA,NA,NA,2014,298,31,Kokanee
+Deadpitch,10/31/2014,Week 4,129514,Shingle Creek,NA,NA,43.5,2,44,NA,NA,NA,NA,NA,NA,M,n/a,NA,Y,44,NA,NA,NA,NA,NA,2014,304,55,Sockeye
+Deadpitch,10/31/2014,Week 4,129515,Shingle Creek,NA,39,29,2,45,NA,NA,NA,NA,NA,NA,M,n/a,NA,Y,45,NA,NA,NA,NA,NA,2014,304,39,Sockeye
+Deadpitch,10/31/2014,Week 4,129516,Shingle Creek,NA,35.5,28.5,2,46,NA,NA,NA,NA,NA,NA,M,n/a,NA,Y,46,NA,NA,NA,NA,NA,2014,304,35.5,Sockeye
+Deadpitch,10/31/2014,Week 4,129517,Shingle Creek,NA,NA,37.5,2,47,NA,NA,NA,NA,NA,NA,M,n/a,NA,Y,47,NA,NA,NA,NA,NA,2014,304,47.4,Sockeye
+Deadpitch,10/31/2014,Week 4,129518,Shingle Creek,NA,NA,36,2,48,NA,NA,NA,NA,NA,NA,M,n/a,NA,Y,48,NA,NA,NA,NA,NA,2014,304,45.5,Sockeye
+Deadpitch,10/31/2014,Week 4,129519,Shingle Creek,NA,NA,38.5,2,49,NA,NA,NA,NA,NA,NA,F,S,NA,Y,49,NA,NA,NA,NA,NA,2014,304,48.6,Sockeye
+Deadpitch,10/31/2014,Week 4,129520,Shingle Creek,NA,NA,38.5,2,50,NA,NA,NA,NA,NA,NA,F,S,NA,Y,50,NA,NA,NA,NA,NA,2014,304,48.6,Sockeye
+Deadpitch,10/31/2014,Week 4,129521,Shingle Creek,NA,NA,41,2,51,NA,NA,NA,NA,NA,NA,F,S,NA,Y,51,NA,NA,NA,NA,NA,2014,304,51.8,Sockeye
+Deadpitch,10/31/2014,Week 4,129522,Shingle Creek,NA,NA,38.5,2,52,NA,NA,NA,NA,NA,NA,F,S,NA,Y,52,NA,NA,NA,NA,NA,2014,304,48.6,Sockeye
+Deadpitch,10/31/2014,Week 4,129523,Shingle Creek,NA,40,33,2,53,NA,NA,NA,NA,NA,NA,M,n/a,NA,Y,53,NA,NA,NA,NA,NA,2014,304,40,Sockeye
+Deadpitch,10/31/2014,Week 4,129524,Shingle Creek,NA,NA,34,2,54,NA,NA,NA,NA,NA,NA,M,n/a,NA,Y,54,NA,NA,NA,NA,NA,2014,304,43,Sockeye
+Deadpitch,10/31/2014,Week 4,129525,Shingle Creek,NA,NA,30.5,2,55,NA,NA,NA,NA,NA,NA,M,n/a,NA,Y,55,NA,NA,NA,NA,both otoliths deformed,2014,304,38.6,Sockeye
+Deadpitch,10/31/2014,Week 4,129526,Shingle Creek,NA,NA,33,2,56,NA,NA,NA,NA,NA,NA,F,S,NA,Y,56,NA,NA,NA,NA,NA,2014,304,41.7,Sockeye
+Deadpitch,10/31/2014,Week 4,129527,Shingle Creek,NA,40,32,2,57,NA,NA,NA,NA,NA,NA,M,n/a,NA,Y,57,NA,NA,NA,NA,one otolith broken,2014,304,40,Sockeye
+Deadpitch,8/27/2015,#N/A,140441,Shingle,4,50,38.5,2,NA,NA,NA,NA,NA,NA,NA,M,n/a,n/a,Y,1,NA,NA,NA,NA,NA,2015,239,50,Sockeye
+Deadpitch,9/15/2015,#N/A,140442,Shingle,4,NA,26.5,2,NA,NA,NA,NA,NA,NA,NA,unk,n/a,n/a,Y,2,NA,NA,NA,NA,insides eaten,2015,258,33.5,Kokanee
+Deadpitch,9/15/2015,#N/A,140443,Shingle,4,NA,33.5,2,NA,NA,NA,NA,NA,NA,NA,F,S,n/a,Y,3,NA,NA,NA,NA,NA,2015,258,42.3,Sockeye
+Deadpitch,9/15/2015,#N/A,140444,Shingle,4,NA,32,2,NA,NA,NA,NA,NA,NA,NA,M,n/a,n/a,Y,4,NA,NA,NA,NA,NA,2015,258,40.5,Sockeye
+Deadpitch,9/15/2015,#N/A,140445,Shingle,4,NA,24.5,2,NA,NA,NA,NA,NA,NA,NA,F,S,n/a,Y,5,NA,NA,NA,NA,NA,2015,258,31,Kokanee
+Deadpitch,9/15/2015,#N/A,140446,Shingle,4,NA,22,2,NA,NA,NA,NA,NA,NA,NA,F,S,n/a,Y,6,NA,NA,NA,NA,NA,2015,258,27.8,Kokanee
+Deadpitch,9/15/2015,#N/A,140447,Shingle,4,NA,21.5,2,NA,NA,NA,NA,NA,NA,NA,M,n/a,n/a,Y,7,NA,NA,NA,NA,NA,2015,258,27.2,Kokanee
+Deadpitch,9/15/2015,#N/A,140448,Shingle,4,NA,24,2,NA,NA,NA,NA,NA,NA,NA,M,n/a,n/a,Y,8,NA,NA,NA,NA,NA,2015,258,30.4,Kokanee
+Deadpitch,9/15/2015,#N/A,140449,Shingle,4,NA,31,2,NA,NA,NA,NA,NA,NA,NA,M,n/a,n/a,Y,9,NA,NA,NA,NA,NA,2015,258,39.2,Sockeye
+Deadpitch,9/15/2015,#N/A,140450,Shingle,4,NA,23,2,NA,NA,NA,NA,NA,NA,NA,M,n/a,n/a,Y,10,NA,NA,NA,NA,NA,2015,258,29.1,Kokanee
+Deadpitch,9/15/2015,#N/A,140451,Shingle,4,NA,20,1,NA,NA,NA,NA,NA,NA,NA,M,n/a,n/a,Y,11,NA,NA,NA,NA,NA,2015,258,25.3,Kokanee
+Deadpitch,9/15/2015,#N/A,140452,Shingle,4,NA,19,2,NA,NA,NA,NA,NA,NA,NA,M,n/a,n/a,Y,12,NA,NA,NA,NA,NA,2015,258,24.1,Kokanee
+Deadpitch,9/15/2015,#N/A,140453,Shingle,4,NA,21,2,NA,NA,NA,NA,NA,NA,NA,F,S,n/a,Y,13,NA,NA,NA,NA,NA,2015,258,26.6,Kokanee
+Deadpitch,9/15/2015,#N/A,140454,Shingle,4,NA,23,2,NA,NA,NA,NA,NA,NA,NA,F,S,n/a,Y,14,NA,NA,NA,NA,NA,2015,258,29.1,Kokanee
+Deadpitch,9/15/2015,#N/A,140455,Shingle,4,NA,25,2,NA,NA,NA,NA,NA,NA,NA,M,n/a,n/a,Y,15,NA,NA,NA,NA,NA,2015,258,31.6,Kokanee
+Deadpitch,9/15/2015,#N/A,140456,Shingle,4,NA,21.5,2,NA,NA,NA,NA,NA,NA,NA,F,S,n/a,Y,16,NA,NA,NA,NA,NA,2015,258,27.2,Kokanee
+Deadpitch,9/15/2015,#N/A,140457,Shingle,4,NA,28,2,NA,NA,NA,NA,NA,NA,NA,M,n/a,n/a,Y,17,NA,NA,NA,NA,NA,2015,258,35.4,Sockeye
+Deadpitch,9/15/2015,#N/A,140458,Shingle,4,42.5,33,2,NA,NA,NA,NA,NA,NA,NA,M,n/a,n/a,Y,18,NA,NA,NA,NA,NA,2015,258,42.5,Sockeye
+Deadpitch,9/15/2015,#N/A,140459,Shingle,4,NA,22.5,2,NA,NA,NA,NA,NA,NA,NA,M,n/a,n/a,Y,19,NA,NA,NA,NA,NA,2015,258,28.5,Kokanee
+Deadpitch,9/15/2015,#N/A,140460,Shingle,4,NA,31,2,NA,NA,NA,NA,NA,NA,NA,F,S,n/a,Y,20,NA,NA,NA,NA,NA,2015,258,39.2,Sockeye
+Deadpitch,9/15/2015,#N/A,140461,Shingle,4,30.5,24,1,NA,NA,NA,NA,NA,NA,NA,M,n/a,n/a,Y,21,NA,NA,NA,NA,NA,2015,258,30.5,Kokanee
+Deadpitch,9/15/2015,#N/A,140462,Shingle,4,NA,20,1,NA,NA,NA,NA,NA,NA,NA,M,n/a,n/a,Y,22,NA,NA,NA,NA,NA,2015,258,25.3,Kokanee
+Deadpitch,9/15/2015,#N/A,140463,Shingle,4,39,32,2,NA,NA,NA,NA,NA,NA,NA,F,N,n/a,Y,23,NA,NA,NA,NA,NA,2015,258,39,Sockeye
+Deadpitch,9/15/2015,#N/A,140464,Shingle,4,NA,30,2,NA,NA,NA,NA,NA,NA,NA,M,n/a,n/a,Y,24,NA,NA,NA,NA,NA,2015,258,37.9,Sockeye
+Deadpitch,9/15/2015,#N/A,140465,Shingle,4,NA,22,2,NA,NA,NA,NA,NA,NA,NA,M,n/a,n/a,Y,25,NA,NA,NA,NA,NA,2015,258,27.8,Kokanee
+Deadpitch,9/15/2015,#N/A,140466,Shingle,4,NA,39,2,NA,NA,NA,NA,NA,NA,NA,M,n/a,n/a,Y,26,NA,NA,NA,NA,NA,2015,258,49.3,Sockeye
+Deadpitch,9/15/2015,#N/A,140467,Shingle,4,NA,30,2,NA,NA,NA,NA,NA,NA,NA,F,S,n/a,Y,27,NA,NA,NA,NA,NA,2015,258,37.9,Sockeye
+Deadpitch,9/15/2015,#N/A,140468,Shingle,4,NA,29,2,NA,NA,NA,NA,NA,NA,NA,F,S,n/a,Y,28,NA,NA,NA,NA,NA,2015,258,36.7,Sockeye
+Deadpitch,9/15/2015,#N/A,140469,Shingle,4,NA,30,2,NA,NA,NA,NA,NA,NA,NA,F,S,n/a,Y,29,NA,NA,NA,NA,NA,2015,258,37.9,Sockeye
+Deadpitch,9/15/2015,#N/A,140470,Shingle,4,27.5,22.5,2,NA,NA,NA,NA,NA,NA,NA,M,n/a,n/a,Y,30,NA,NA,NA,NA,NA,2015,258,27.5,Kokanee
+Deadpitch,9/15/2015,#N/A,140471,Shingle,4,NA,35.5,2,NA,NA,NA,NA,NA,NA,NA,F,S,n/a,Y,31,NA,NA,NA,NA,NA,2015,258,44.9,Sockeye
+Deadpitch,9/15/2015,#N/A,140472,Shingle,4,NA,21.5,2,NA,NA,NA,NA,NA,NA,NA,F,S,n/a,Y,32,NA,NA,NA,NA,NA,2015,258,27.2,Kokanee
+Deadpitch,9/15/2015,#N/A,140473,Shingle,4,NA,26.5,2,NA,NA,NA,NA,NA,NA,NA,F,S,n/a,Y,33,NA,NA,NA,NA,NA,2015,258,33.5,Kokanee
+Deadpitch,9/15/2015,#N/A,140474,Shingle,4,27.5,22,2,NA,NA,NA,NA,NA,NA,NA,M,n/a,n/a,Y,34,NA,NA,NA,NA,NA,2015,258,27.5,Kokanee
+Deadpitch,9/15/2015,#N/A,140475,Shingle,4,NA,27.5,2,NA,NA,NA,NA,NA,NA,NA,F,S,n/a,Y,35,NA,NA,NA,NA,NA,2015,258,34.8,Kokanee
+Deadpitch,9/15/2015,#N/A,140476,Shingle,4,NA,22.5,2,NA,NA,NA,NA,NA,NA,NA,F,S,n/a,Y,36,NA,NA,NA,NA,lots of immature eggs,2015,258,28.5,Kokanee
+Deadpitch,9/15/2015,#N/A,140477,Shingle,4,NA,36,2,NA,NA,NA,NA,NA,NA,NA,M,n/a,n/a,Y,37,NA,NA,NA,NA,NA,2015,258,45.5,Sockeye
+Deadpitch,9/15/2015,#N/A,140478,Shingle,4,NA,22.5,2,NA,NA,NA,NA,NA,NA,NA,F,S,n/a,Y,38,NA,NA,NA,NA,NA,2015,258,28.5,Kokanee
+Deadpitch,9/15/2015,#N/A,140479,Shingle,4,NA,27.5,2,NA,NA,NA,NA,NA,NA,NA,F,S,n/a,Y,39,NA,NA,NA,NA,NA,2015,258,34.8,Kokanee
+Deadpitch,9/15/2015,#N/A,140480,Shingle,4,NA,26,2,NA,NA,NA,NA,NA,NA,NA,M,n/a,n/a,Y,40,NA,NA,NA,NA,NA,2015,258,32.9,Kokanee
+Deadpitch,9/22/2015,#N/A,140481,Shingle,4,NA,31,2,NA,NA,NA,NA,NA,NA,NA,M,n/a,n/a,Y,41,NA,NA,NA,NA,NA,2015,265,39.2,Sockeye
+Deadpitch,9/22/2015,#N/A,140482,Shingle,4,NA,32.5,2,NA,NA,NA,NA,NA,NA,NA,M,n/a,n/a,Y,42,NA,NA,NA,NA,NA,2015,265,41.1,Sockeye
+Deadpitch,9/22/2015,#N/A,140483,Shingle,4,NA,35,2,NA,NA,NA,NA,NA,NA,NA,F,S,n/a,Y,43,NA,NA,NA,NA,NA,2015,265,44.2,Sockeye
+Deadpitch,9/29/2015,#N/A,140484,Shingle,4,37.5,29,2,NA,NA,NA,NA,NA,NA,NA,M,n/a,n/a,Y,44,NA,NA,NA,NA,NA,2015,272,37.5,Sockeye
+Deadpitch,10/26/2015,Week 4,140485,Shingle,4,22.5,18,2,NA,NA,NA,NA,NA,NA,NA,M,n/a,n/a,Y,45,NA,NA,NA,NA,NA,2015,299,22.5,Kokanee
+Deadpitch,10/26/2015,Week 4,140486,Shingle,4,25.5,21,2,NA,NA,NA,NA,NA,NA,NA,M,n/a,n/a,Y,46,NA,NA,NA,NA,NA,2015,299,25.5,Kokanee
+Deadpitch,10/26/2015,Week 4,140487,Shingle,4,25,20,2,NA,NA,NA,NA,NA,NA,NA,M,n/a,n/a,Y,47,NA,NA,NA,NA,NA,2015,299,25,Kokanee
+Deadpitch,10/26/2015,Week 4,140488,Shingle,4,26.5,22,2,NA,NA,NA,NA,NA,NA,NA,F,N,n/a,Y,48,NA,NA,NA,NA,NA,2015,299,26.5,Kokanee
+Deadpitch,10/26/2015,Week 4,140489,Shingle,4,21.5,17.5,2,NA,NA,NA,NA,NA,NA,NA,M,n/a,n/a,Y,49,NA,NA,NA,NA,gonads look immature,2015,299,21.5,Kokanee
+Deadpitch,10/26/2015,Week 4,140490,Shingle,4,26.5,21.5,2,NA,NA,NA,NA,NA,NA,NA,M,n/a,n/a,Y,50,NA,NA,NA,NA,NA,2015,299,26.5,Kokanee
+Deadpitch,10/26/2015,Week 4,140491,Shingle,4,23,18.5,2,NA,NA,NA,NA,NA,NA,NA,M,n/a,n/a,Y,51,NA,NA,NA,NA,NA,2015,299,23,Kokanee
+Deadpitch,10/26/2015,Week 4,140492,Shingle,4,28,22.5,2,NA,NA,NA,NA,NA,NA,NA,M,n/a,n/a,Y,52,NA,NA,NA,NA,NA,2015,299,28,Kokanee
+Deadpitch,10/26/2015,Week 4,140493,Shingle,4,22,17.5,2,NA,NA,NA,NA,NA,NA,NA,M,n/a,n/a,Y,53,NA,NA,NA,NA,NA,2015,299,22,Kokanee
+Deadpitch,10/26/2015,Week 4,140494,Shingle,4,23,18.5,2,NA,NA,NA,NA,NA,NA,NA,M,n/a,n/a,Y,54,NA,NA,NA,NA,NA,2015,299,23,Kokanee
+Deadpitch,10/26/2015,Week 4,140495,Shingle,4,25.5,20,2,NA,NA,NA,NA,NA,NA,NA,M,n/a,n/a,Y,55,NA,NA,NA,NA,NA,2015,299,25.5,Kokanee
+Deadpitch,10/26/2015,Week 4,140496,Shingle,4,22.5,18,2,NA,NA,NA,NA,NA,NA,NA,M,n/a,n/a,Y,56,NA,NA,NA,NA,NA,2015,299,22.5,Kokanee
+Deadpitch,10/26/2015,Week 4,140497,Shingle,4,21,17,2,NA,NA,NA,NA,NA,NA,NA,F,S,n/a,Y,57,NA,NA,NA,NA,NA,2015,299,21,Kokanee
+Deadpitch,10/26/2015,Week 4,140498,Shingle,4,22,17.5,2,NA,NA,NA,NA,NA,NA,NA,M,n/a,n/a,Y,58,NA,NA,NA,NA,NA,2015,299,22,Kokanee
+Deadpitch,10/26/2015,Week 4,140499,Shingle,4,23.5,18.5,2,NA,NA,NA,NA,NA,NA,NA,M,n/a,n/a,Y,59,NA,NA,NA,NA,NA,2015,299,23.5,Kokanee
+Deadpitch,10/26/2015,Week 4,140500,Shingle,4,23.5,19,2,NA,NA,NA,NA,NA,NA,NA,M,n/a,n/a,Y,60,NA,NA,NA,NA,NA,2015,299,23.5,Kokanee
+Deadpitch,10/26/2015,Week 4,140501,Shingle,4,27,22,2,NA,NA,NA,NA,NA,NA,NA,M,n/a,n/a,Y,61,NA,NA,NA,NA,NA,2015,299,27,Kokanee
+Deadpitch,10/26/2015,Week 4,140502,Shingle,4,22.5,18.5,2,NA,NA,NA,NA,NA,NA,NA,F,S,n/a,Y,62,NA,NA,NA,NA,NA,2015,299,22.5,Kokanee
+Deadpitch,10/26/2015,Week 4,140503,Shingle,4,23,18.5,2,NA,NA,NA,NA,NA,NA,NA,M,n/a,n/a,Y,63,NA,NA,NA,NA,NA,2015,299,23,Kokanee
+Deadpitch,10/26/2015,Week 4,140504,Shingle,4,22,18,2,NA,NA,NA,NA,NA,NA,NA,M,n/a,n/a,Y,64,NA,NA,NA,NA,NA,2015,299,22,Kokanee
+Deadpitch,10/26/2015,Week 4,140505,Shingle,4,22.5,18,2,NA,NA,NA,NA,NA,NA,NA,M,n/a,n/a,Y,65,NA,NA,NA,NA,NA,2015,299,22.5,Kokanee
+Deadpitch,10/26/2015,Week 4,140506,Shingle,4,23,18,2,NA,NA,NA,NA,NA,NA,NA,M,n/a,n/a,Y,66,NA,NA,NA,NA,NA,2015,299,23,Kokanee
+Deadpitch,10/26/2015,Week 4,140507,Shingle,4,22.5,18.5,2,NA,NA,NA,NA,NA,NA,NA,M,n/a,n/a,Y,67,NA,NA,NA,NA,NA,2015,299,22.5,Kokanee
+Deadpitch,10/26/2015,Week 4,140508,Shingle,4,23.5,18.5,2,NA,NA,NA,NA,NA,NA,NA,M,n/a,n/a,Y,68,NA,NA,NA,NA,NA,2015,299,23.5,Kokanee
+Deadpitch,10/26/2015,Week 4,140509,Shingle,4,23,18,2,NA,NA,NA,NA,NA,NA,NA,M,n/a,n/a,Y,69,NA,NA,NA,NA,NA,2015,299,23,Kokanee
+Deadpitch,10/26/2015,Week 4,140510,Shingle,4,NA,19.5,2,NA,NA,NA,NA,NA,NA,NA,M,n/a,n/a,Y,70,NA,NA,NA,NA,NA,2015,299,24.7,Kokanee
+Deadpitch,10/26/2015,Week 4,140511,Shingle,4,21.5,17,2,NA,NA,NA,NA,NA,NA,NA,M,n/a,n/a,Y,71,NA,NA,NA,NA,NA,2015,299,21.5,Kokanee
+Deadpitch,10/26/2015,Week 4,140512,Shingle,4,23.5,19,2,NA,NA,NA,NA,NA,NA,NA,M,n/a,n/a,Y,72,NA,NA,NA,NA,NA,2015,299,23.5,Kokanee
+Deadpitch,10/26/2015,Week 4,140513,Shingle,4,25.5,20,2,NA,NA,NA,NA,NA,NA,NA,M,n/a,n/a,Y,73,NA,NA,NA,NA,NA,2015,299,25.5,Kokanee
+Deadpitch,10/26/2015,Week 4,140514,Shingle,4,NA,18.5,2,NA,NA,NA,NA,NA,NA,NA,M,n/a,n/a,Y,74,NA,NA,NA,NA,NA,2015,299,23.4,Kokanee
+Deadpitch,10/26/2015,Week 4,140515,Shingle,4,NA,18.5,2,NA,NA,NA,NA,NA,NA,NA,F,S,n/a,Y,75,NA,NA,NA,NA,NA,2015,299,23.4,Kokanee
+Deadpitch,10/26/2015,Week 4,140516,Shingle,4,NA,18.5,2,NA,NA,NA,NA,NA,NA,NA,F,N,n/a,Y,76,NA,NA,NA,NA,NA,2015,299,23.4,Kokanee
+Deadpitch,10/26/2015,Week 4,140517,Shingle,4,22,18,2,NA,NA,NA,NA,NA,NA,NA,M,n/a,n/a,Y,77,NA,NA,NA,NA,NA,2015,299,22,Kokanee
+Deadpitch,10/26/2015,Week 4,140518,Shingle,4,25,20.5,2,NA,NA,NA,NA,NA,NA,NA,M,n/a,n/a,Y,78,NA,NA,NA,NA,NA,2015,299,25,Kokanee
+Deadpitch,10/4/2018,Week 1,18420001,Shingle Creek,NA,39,30.5,2,18420001,NA,NA,NA,NA,Unmarked,natural,M,n/a,n/a,Y,18420001,NA,NA,NA,NA,NA,2018,277,39,Sockeye
+Deadpitch,10/4/2018,Week 1,18420002,Shingle Creek,NA,38,29.5,2,18420002,NA,NA,NA,NA,Unmarked,natural,M,n/a,n/a,Y,18420002,NA,NA,NA,NA,NA,2018,277,38,Sockeye
+Deadpitch,10/10/2018,Week 2,18420003,Shingle Creek,NA,NA,27.5,2,18420003,NA,NA,NA,NA,Unmarked,natural,F,S,n/a,Y,18420003,NA,NA,NA,NA,NA,2018,283,34.8,Kokanee
+Deadpitch,10/15/2018,Week 3,18420004,Shingle Creek,NA,NA,17,2,18420004,NA,NA,NA,NA,Unmarked,natural,M,n/a,n/a,Y,18420004,NA,NA,NA,NA,NA,2018,288,21.5,Kokanee
+Deadpitch,10/15/2018,Week 3,18420005,Shingle Creek,NA,NA,22,2,18420005,NA,NA,NA,NA,Unmarked,natural,F,N,n/a,Y,18420005,NA,NA,NA,NA,NA,2018,288,27.8,Kokanee
+Deadpitch,10/15/2018,Week 3,18420006,Shingle Creek,NA,21,16.5,2,18420006,NA,NA,NA,NA,Unmarked,natural,M,n/a,n/a,Y,18420006,NA,NA,NA,NA,NA,2018,288,21,Kokanee
+Deadpitch,10/15/2018,Week 3,18420007,Shingle Creek,NA,29,23,2,18420007,NA,NA,NA,NA,Unmarked,natural,M,n/a,n/a,Y,18420007,NA,NA,NA,NA,NA,2018,288,29,Kokanee
+Deadpitch,10/15/2018,Week 3,18420008,Shingle Creek,NA,43,33.5,2,18420008,NA,NA,NA,NA,Unmarked,natural,M,n/a,n/a,Y,18420008,NA,NA,NA,NA,NA,2018,288,43,Sockeye
+Deadpitch,10/19/2018,Week 3,18420009,Shingle Creek,NA,24,19,2,18420009,NA,NA,NA,NA,Unmarked,natural,M,n/a,n/a,Y,18420009,NA,NA,NA,NA,NA,2018,292,24,Kokanee
+Deadpitch,10/19/2018,Week 3,18420010,Shingle Creek,NA,30,23.5,2,18420010,NA,NA,NA,NA,Unmarked,natural,M,n/a,n/a,Y,18420010,NA,NA,NA,NA,NA,2018,292,30,Kokanee
+Deadpitch,10/19/2018,Week 3,18420011,Shingle Creek,NA,NA,18,2,18420011,NA,NA,NA,NA,Unmarked,natural,M,n/a,n/a,Y,18420011,NA,NA,NA,NA,NA,2018,292,22.8,Kokanee
+Deadpitch,10/19/2018,Week 3,18420012,Shingle Creek,NA,37.5,30,2,18420012,NA,NA,NA,NA,Unmarked,natural,M,n/a,n/a,Y,18420012,NA,NA,NA,NA,NA,2018,292,37.5,Sockeye
+Deadpitch,10/22/2018,Week 4,18420013,Shingle Creek,NA,31,24.5,2,18420013,NA,NA,NA,NA,Unmarked,natural,M,n/a,n/a,Y,18420013,NA,NA,NA,NA,NA,2018,295,31,Kokanee
+Deadpitch,10/22/2018,Week 4,18420014,Shingle Creek,NA,31,24.5,2,18420014,NA,NA,NA,NA,Unmarked,natural,M,n/a,n/a,Y,18420014,NA,NA,NA,NA,NA,2018,295,31,Kokanee
+Deadpitch,10/22/2018,Week 4,18420015,Shingle Creek,NA,NA,40.5,2,18420015,NA,NA,NA,NA,Unmarked,natural,M,n/a,n/a,Y,18420015,NA,NA,NA,NA,NA,2018,295,51.2,Sockeye
+Deadpitch,10/22/2018,Week 4,18420016,Shingle Creek,NA,23.5,18.5,2,18420016,NA,NA,NA,NA,Unmarked,natural,F,S,n/a,Y,18420016,NA,NA,NA,NA,NA,2018,295,23.5,Kokanee
+Deadpitch,10/22/2018,Week 4,18420017,Shingle Creek,NA,NA,36.5,2,18420017,NA,NA,NA,NA,Unmarked,natural,F,P,n/a,Y,18420017,NA,NA,NA,NA,NA,2018,295,46.1,Sockeye
+Deadpitch,10/25/2018,Week 4,18420018,Shingle Creek,NA,NA,40,2,18420018,NA,NA,NA,NA,3.4,hatchery,M,n/a,n/a,Y,18420018,NA,NA,NA,NA,NA,2018,298,50.5,Sockeye
+Deadpitch,10/25/2018,Week 4,18420019,Shingle Creek,NA,NA,37.5,2,18420019,NA,NA,NA,NA,3.4,hatchery,M,n/a,n/a,Y,18420019,NA,NA,NA,NA,NA,2018,298,47.4,Sockeye
+Deadpitch,10/25/2018,Week 4,18420020,Shingle Creek,NA,NA,39.5,2,18420020,NA,NA,NA,NA,3.4,hatchery,M,n/a,n/a,Y,18420020,NA,NA,NA,NA,NA,2018,298,49.9,Sockeye
+Deadpitch,10/25/2018,Week 4,18420021,Shingle Creek,NA,51.5,40.5,2,18420021,NA,NA,NA,NA,Unmarked,natural,M,n/a,n/a,Y,18420021,NA,NA,NA,NA,one otolith deformed,2018,298,51.5,Sockeye
+Deadpitch,10/25/2018,Week 4,18420022,Shingle Creek,NA,NA,42.5,2,18420022,NA,NA,NA,NA,Unmarked,natural,F,N,n/a,Y,18420022,NA,NA,NA,NA,NA,2018,298,53.7,Sockeye
+Deadpitch,10/25/2018,Week 4,18420023,Shingle Creek,NA,NA,40.5,2,18420023,NA,NA,NA,NA,3.4,hatchery,M,n/a,n/a,Y,18420023,NA,NA,NA,NA,NA,2018,298,51.2,Sockeye
+Deadpitch,10/25/2018,Week 4,18420024,Shingle Creek,NA,NA,39.5,2,18420024,NA,NA,NA,NA,Unmarked,natural,F,N,n/a,Y,18420024,NA,NA,NA,NA,NA,2018,298,49.9,Sockeye
+Deadpitch,10/25/2018,Week 4,18420025,Shingle Creek,NA,NA,40.5,2,18420025,NA,NA,NA,NA,3.4,hatchery,F,N,n/a,Y,18420025,NA,NA,NA,NA,NA,2018,298,51.2,Sockeye
+Deadpitch,10/25/2018,Week 4,18420026,Shingle Creek,NA,NA,39.5,2,18420026,NA,NA,NA,NA,Unmarked,natural,M,n/a,n/a,Y,18420026,NA,NA,NA,NA,NA,2018,298,49.9,Sockeye
+Deadpitch,10/25/2018,Week 4,18420027,Shingle Creek,NA,50.5,40.5,2,18420027,NA,NA,NA,NA,3.4,hatchery,F,N,n/a,Y,18420027,NA,NA,NA,NA,NA,2018,298,50.5,Sockeye
+Deadpitch,10/25/2018,Week 4,18420028,Shingle Creek,NA,NA,37.5,2,18420028,NA,NA,NA,NA,Unmarked,natural,M,n/a,n/a,Y,18420028,NA,NA,NA,NA,NA,2018,298,47.4,Sockeye
+Deadpitch,10/25/2018,Week 4,18420029,Shingle Creek,NA,NA,40.5,2,18420029,NA,NA,NA,NA,Unmarked,natural,M,n/a,n/a,Y,18420029,NA,NA,NA,NA,NA,2018,298,51.2,Sockeye
+Deadpitch,10/25/2018,Week 4,18420030,Shingle Creek,NA,NA,38.5,2,18420030,NA,NA,NA,NA,Unmarked,natural,F,S,n/a,Y,18420030,NA,NA,NA,NA,NA,2018,298,48.6,Sockeye
+Deadpitch,10/25/2018,Week 4,18420031,Shingle Creek,NA,NA,39,2,18420031,NA,NA,NA,NA,3.4,hatchery,F,N,n/a,Y,18420031,NA,NA,NA,NA,NA,2018,298,49.3,Sockeye
+Deadpitch,10/25/2018,Week 4,18420032,Shingle Creek,NA,48,39,2,18420032,NA,NA,NA,NA,3.4,hatchery,F,N,n/a,Y,18420032,NA,NA,NA,NA,NA,2018,298,48,Sockeye
+Deadpitch,10/25/2018,Week 4,18420033,Shingle Creek,NA,NA,40,2,18420033,NA,NA,NA,NA,Unmarked,natural,F,S,n/a,Y,18420033,NA,NA,NA,NA,NA,2018,298,50.5,Sockeye
+Deadpitch,10/25/2018,Week 4,18420034,Shingle Creek,NA,NA,24.5,2,18420034,NA,NA,NA,NA,Unmarked,natural,M,n/a,n/a,Y,18420034,NA,NA,NA,NA,NA,2018,298,31,Kokanee
+Deadpitch,10/25/2018,Week 4,18420035,Shingle Creek,NA,NA,38.5,1,18420035,NA,NA,NA,NA,NS,unknown,F,S,n/a,Y,18420035,NA,NA,NA,NA,NA,2018,298,48.6,Sockeye
+Deadpitch,10/25/2018,Week 4,18420036,Shingle Creek,NA,NA,38.5,2,18420036,NA,NA,NA,NA,NS,unknown,F,S,n/a,Y,18420036,NA,NA,NA,NA,NA,2018,298,48.6,Sockeye
+Deadpitch,10/25/2018,Week 4,18420037,Shingle Creek,NA,26.5,21,2,18420037,NA,NA,NA,NA,Unmarked,natural,M,n/a,n/a,Y,18420037,NA,NA,NA,NA,NA,2018,298,26.5,Kokanee
+Deadpitch,10/25/2018,Week 4,18420038,Shingle Creek,NA,NA,22,2,18420038,NA,NA,NA,NA,Unmarked,natural,M,n/a,n/a,Y,18420038,NA,NA,NA,NA,NA,2018,298,27.8,Kokanee
+Deadpitch,10/25/2018,Week 4,18420039,Shingle Creek,NA,26,20.5,2,18420039,NA,NA,NA,NA,Unmarked,natural,M,n/a,n/a,Y,18420039,NA,NA,NA,NA,NA,2018,298,26,Kokanee
+Deadpitch,10/25/2018,Week 4,18420040,Shingle Creek,NA,NA,21,2,18420040,NA,NA,NA,NA,Unmarked,natural,M,n/a,n/a,Y,18420040,NA,NA,NA,NA,NA,2018,298,26.6,Kokanee
+Deadpitch,10/25/2018,Week 4,18420041,Shingle Creek,NA,23.5,19,2,18420041,NA,NA,NA,NA,Unmarked,natural,M,n/a,n/a,Y,18420041,NA,NA,NA,NA,NA,2018,298,23.5,Kokanee
+Deadpitch,10/25/2018,Week 4,18420042,Shingle Creek,NA,24,19,2,18420042,NA,NA,NA,NA,Unmarked,natural,M,n/a,n/a,Y,18420042,NA,NA,NA,NA,NA,2018,298,24,Kokanee
+Deadpitch,10/25/2018,Week 4,18420043,Shingle Creek,NA,23,18.5,2,18420043,NA,NA,NA,NA,Unmarked,natural,M,n/a,n/a,Y,18420043,NA,NA,NA,NA,NA,2018,298,23,Kokanee
+Deadpitch,10/25/2018,Week 4,18420044,Shingle Creek,NA,23.5,18.5,2,18420044,NA,NA,NA,NA,Unmarked,natural,M,n/a,n/a,Y,18420044,NA,NA,NA,NA,NA,2018,298,23.5,Kokanee
+Deadpitch,10/29/2018,Week 5,18420045,Shingle Creek,NA,NA,41,2,18420045,NA,NA,NA,NA,Unmarked,natural,M,n/a,n/a,Y,18420045,NA,NA,NA,NA,NA,2018,302,51.8,Sockeye
+Deadpitch,10/29/2018,Week 5,18420046,Shingle Creek,NA,NA,35.5,2,18420046,NA,NA,NA,NA,Unmarked,natural,F,S,n/a,Y,18420046,NA,NA,NA,NA,NA,2018,302,44.9,Sockeye
+Deadpitch,10/29/2018,Week 5,18420047,Shingle Creek,NA,NA,37,2,18420047,NA,NA,NA,NA,Unmarked,natural,F,S,n/a,Y,18420047,NA,NA,NA,NA,NA,2018,302,46.8,Sockeye
+Deadpitch,10/29/2018,Week 5,18420048,Shingle Creek,NA,NA,38.5,2,18420048,NA,NA,NA,NA,Unmarked,natural,M,n/a,n/a,Y,18420048,NA,NA,NA,NA,NA,2018,302,48.6,Sockeye
+Deadpitch,10/29/2018,Week 5,18420049,Shingle Creek,NA,50.5,39.5,2,18420049,NA,NA,NA,NA,Unmarked,natural,M,n/a,n/a,Y,18420049,NA,NA,NA,NA,NA,2018,302,50.5,Sockeye
+Deadpitch,10/29/2018,Week 5,18420050,Shingle Creek,NA,NA,38,2,18420050,NA,NA,NA,NA,3.4,hatchery,F,S,n/a,Y,18420050,NA,NA,NA,NA,NA,2018,302,48,Sockeye
+Deadpitch,10/29/2018,Week 5,18420051,Shingle Creek,NA,NA,37,2,18420051,NA,NA,NA,NA,3.4,hatchery,F,S,n/a,Y,18420051,NA,NA,NA,NA,NA,2018,302,46.8,Sockeye
+Deadpitch,10/29/2018,Week 5,18420052,Shingle Creek,NA,NA,39.5,2,18420052,NA,NA,NA,NA,3.4,hatchery,M,n/a,n/a,Y,18420052,NA,NA,NA,NA,NA,2018,302,49.9,Sockeye
+Deadpitch,10/29/2018,Week 5,18420053,Shingle Creek,NA,NA,39,2,18420053,NA,NA,NA,NA,Unmarked,natural,F,S,n/a,Y,18420053,NA,NA,NA,NA,NA,2018,302,49.3,Sockeye
+Deadpitch,10/29/2018,Week 5,18420054,Shingle Creek,NA,37.5,29,2,18420054,NA,NA,NA,NA,Unmarked,natural,M,n/a,n/a,Y,18420054,NA,NA,NA,NA,NA,2018,302,37.5,Sockeye
+Deadpitch,10/29/2018,Week 5,18420055,Shingle Creek,NA,NA,21.5,2,18420055,NA,NA,NA,NA,Unmarked,natural,M,n/a,n/a,Y,18420055,NA,NA,NA,NA,NA,2018,302,27.2,Kokanee
+Deadpitch,10/29/2018,Week 5,18420056,Shingle Creek,NA,23,18,2,18420056,NA,NA,NA,NA,Unmarked,natural,M,n/a,n/a,Y,18420056,NA,NA,NA,NA,NA,2018,302,23,Kokanee
+Deadpitch,10/29/2018,Week 5,18420057,Shingle Creek,NA,22.5,17.5,2,18420057,NA,NA,NA,NA,Unmarked,natural,M,n/a,n/a,Y,18420057,NA,NA,NA,NA,NA,2018,302,22.5,Kokanee
+Deadpitch,10/29/2018,Week 5,18420058,Shingle Creek,NA,26,20,2,18420058,NA,NA,NA,NA,Unmarked,natural,M,n/a,n/a,Y,18420058,NA,NA,NA,NA,NA,2018,302,26,Kokanee
+Deadpitch,10/29/2018,Week 5,18420059,Shingle Creek,NA,21.5,17,2,18420059,NA,NA,NA,NA,Unmarked,natural,M,n/a,n/a,Y,18420059,NA,NA,NA,NA,NA,2018,302,21.5,Kokanee
+Deadpitch,10/29/2018,Week 5,18420060,Shingle Creek,NA,23.5,19,2,18420060,NA,NA,NA,NA,Unmarked,natural,M,n/a,n/a,Y,18420060,NA,NA,NA,NA,NA,2018,302,23.5,Kokanee
+Deadpitch,10/29/2018,Week 5,18420061,Shingle Creek,NA,24,18.5,2,18420061,NA,NA,NA,NA,Unmarked,natural,M,n/a,n/a,Y,18420061,NA,NA,NA,NA,NA,2018,302,24,Kokanee
+Deadpitch,10/29/2018,Week 5,18420062,Shingle Creek,NA,21,16.5,2,18420062,NA,NA,NA,NA,NS,unknown,M,n/a,n/a,Y,18420062,NA,NA,NA,NA,NA,2018,302,21,Kokanee
+Deadpitch,10/29/2018,Week 5,18420063,Shingle Creek,NA,21,16.5,2,18420063,NA,NA,NA,NA,NS,unknown,F,S,n/a,Y,18420063,NA,NA,NA,NA,NA,2018,302,21,Kokanee
+Deadpitch,10/29/2018,Week 5,18420064,Shingle Creek,NA,25,19,2,18420064,NA,NA,NA,NA,Unmarked,natural,M,n/a,n/a,Y,18420064,NA,NA,NA,NA,NA,2018,302,25,Kokanee
+Deadpitch,11/2/2018,Week 5,18420065,Shingle Creek,NA,NA,41,2,18420065,NA,NA,NA,NA,3.4,hatchery,M,n/a,n/a,Y,18420065,NA,NA,NA,NA,NA,2018,306,51.8,Sockeye
+Deadpitch,11/2/2018,Week 5,18420066,Shingle Creek,NA,NA,41,2,18420066,NA,NA,NA,NA,Unmarked,natural,M,n/a,n/a,Y,18420066,NA,NA,NA,NA,NA,2018,306,51.8,Sockeye
+Deadpitch,11/2/2018,Week 5,18420067,Shingle Creek,NA,NA,40.5,2,18420067,NA,NA,NA,NA,3.4,hatchery,M,n/a,n/a,Y,18420067,NA,NA,NA,NA,NA,2018,306,51.2,Sockeye
+Deadpitch,11/2/2018,Week 5,18420068,Shingle Creek,NA,NA,40.5,2,18420068,NA,NA,NA,NA,3.4,hatchery,F,S,n/a,Y,18420068,NA,NA,NA,NA,NA,2018,306,51.2,Sockeye
+Deadpitch,11/2/2018,Week 5,18420069,Shingle Creek,NA,NA,36.5,2,18420069,NA,NA,NA,NA,3.4,hatchery,F,S,n/a,Y,18420069,NA,NA,NA,NA,NA,2018,306,46.1,Sockeye
+Deadpitch,11/2/2018,Week 5,18420070,Shingle Creek,NA,NA,39.5,2,18420070,NA,NA,NA,NA,Unknown,natural,M,n/a,n/a,Y,18420070,NA,NA,NA,NA,NA,2018,306,49.9,Sockeye
+Deadpitch,11/2/2018,Week 5,18420071,Shingle Creek,NA,NA,35.5,2,18420071,NA,NA,NA,NA,Unmarked,natural,F,S,n/a,Y,18420071,NA,NA,NA,NA,NA,2018,306,44.9,Sockeye
+Deadpitch,11/2/2018,Week 5,18420072,Shingle Creek,NA,NA,36.5,2,18420072,NA,NA,NA,NA,Unmarked,natural,F,S,n/a,Y,18420072,NA,NA,NA,NA,NA,2018,306,46.1,Sockeye
+Deadpitch,11/2/2018,Week 5,18420073,Shingle Creek,NA,NA,39.5,2,18420073,NA,NA,NA,NA,3.4,hatchery,F,S,n/a,Y,18420073,NA,NA,NA,NA,NA,2018,306,49.9,Sockeye
+Deadpitch,10/18/2019,Week 3,19440001,Shingle Creek,NA,37.5,31,2,19440001,3,1.1,n/a,NA,3.5,hatchery,F,P,n/a,Y,n/a,NA,N,n/a,n/a,NA,2019,291,37.5,Sockeye
+Deadpitch,10/18/2019,Week 3,19440002,Shingle Creek,NA,38,30.5,2,19440002,3,1.1,n/a,NA,3.4.2,hatchery,M,n/a,n/a,Y,n/a,NA,N,n/a,n/a,NA,2019,291,38,Sockeye
+Deadpitch,10/18/2019,Week 3,19440003,Shingle Creek,NA,NA,24,2,19440003,4,4,n/a,NA,Unmarked,natural,F,S,n/a,Y,n/a,NA,N,n/a,n/a,NA,2019,291,30.4,Kokanee
+Deadpitch,10/18/2019,Week 3,19440004,Shingle Creek,NA,NA,25,2,19440004,4,4,n/a,NA,Unmarked,natural,M,n/a,n/a,N,n/a,NA,N,n/a,n/a,NA,2019,291,31.6,Kokanee
+Deadpitch,10/21/2019,Week 4,19440005,Shingle Creek,NA,41,34,2,19440005,3,1.1,n/a,NA,3.5,hatchery,M,n/a,n/a,Y,n/a,NA,N,n/a,n/a,NA,2019,294,41,Sockeye
+Deadpitch,10/24/2019,Week 4,19440006,Shingle Creek,NA,NA,24,2,19440006,4,4,n/a,NA,Unmarked,natural,F,S,n/a,Y,n/a,NA,N,n/a,n/a,NA,2019,297,30.4,Kokanee
+Deadpitch,10/24/2019,Week 4,19440007,Shingle Creek,NA,NA,24,1,19440007,4,4,n/a,NA,Unmarked,natural,M,n/a,n/a,Y,n/a,NA,N,n/a,n/a,NA,2019,297,30.4,Kokanee
+Deadpitch,10/28/2019,Week 5,19440008,Shingle Creek,NA,NA,34,2,19440008,3,1.1,n/a,NA,3.5,hatchery,M,n/a,n/a,Y,n/a,NA,N,n/a,n/a,NA,2019,301,43,Sockeye
+Deadpitch,10/28/2019,Week 5,19440009,Shingle Creek,NA,36,28,2,19440009,3,1.1,n/a,NA,3.4.1,hatchery,M,n/a,n/a,Y,n/a,NA,Y,PIT,3DD.003D364840,NA,2019,301,36,Sockeye
+Deadpitch,10/28/2019,Week 5,19440010,Shingle Creek,NA,NA,30,2,19440010,3,1.1,n/a,NA,3.5,hatchery,F,S,n/a,Y,n/a,NA,N,n/a,n/a,NA,2019,301,37.9,Sockeye
+Deadpitch,10/28/2019,Week 5,19440011,Shingle Creek,NA,37,29.5,2,19440011,3,1.1,n/a,NA,3.4.2,hatchery,M,n/a,n/a,Y,n/a,NA,N,n/a,n/a,NA,2019,301,37,Sockeye
+Deadpitch,10/28/2019,Week 5,19440012,Shingle Creek,NA,38.5,30.5,2,19440012,3,1.1,n/a,NA,3.5,hatchery,M,n/a,n/a,Y,n/a,NA,N,n/a,n/a,NA,2019,301,38.5,Sockeye
+Deadpitch,10/31/2019,Week 5,19440013,Shingle Creek,NA,NA,30.5,2,19440013,3,1.1,n/a,NA,3.5,hatchery,M,n/a,n/a,Y,n/a,NA,N,n/a,n/a,NA,2019,304,38.6,Sockeye
+Deadpitch,10/31/2019,Week 5,19440014,Shingle Creek,NA,NA,31,2,19440014,3,1.1,n/a,NA,3.5,hatchery,M,n/a,n/a,Y,n/a,NA,N,n/a,n/a,NA,2019,304,39.2,Sockeye
+Deadpitch,10/31/2019,Week 5,19440015,Shingle Creek,NA,NA,32,2,19440015,3,1.1,n/a,NA,3.5,hatchery,M,n/a,n/a,Y,n/a,NA,N,n/a,n/a,NA,2019,304,40.5,Sockeye
+Deadpitch,10/31/2019,Week 5,19440016,Shingle Creek,NA,NA,32.5,2,19440016,3,1.1,n/a,NA,3.5,hatchery,M,n/a,n/a,Y,n/a,NA,N,n/a,n/a,NA,2019,304,41.1,Sockeye
+Deadpitch,10/31/2019,Week 5,19440017,Shingle Creek,NA,NA,30.5,2,19440017,3,1.1,n/a,NA,3.5,hatchery,M,n/a,n/a,Y,n/a,NA,N,n/a,n/a,NA,2019,304,38.6,Sockeye
+Deadpitch,10/31/2019,Week 5,19440018,Shingle Creek,NA,NA,31,2,19440018,3,1.1,n/a,NA,3.5,hatchery,M,n/a,n/a,Y,n/a,NA,N,n/a,n/a,NA,2019,304,39.2,Sockeye
+Deadpitch,10/31/2019,Week 5,19440019,Shingle Creek,NA,42,33.5,2,19440019,3,1.1,n/a,NA,3.5,hatchery,M,n/a,n/a,Y,n/a,NA,N,n/a,n/a,NA,2019,304,42,Sockeye
+Deadpitch,10/31/2019,Week 5,19440020,Shingle Creek,NA,39.5,31,2,19440020,3,1.1,n/a,NA,3.5,hatchery,M,n/a,n/a,Y,n/a,NA,N,n/a,n/a,NA,2019,304,39.5,Sockeye
+Deadpitch,10/31/2019,Week 5,19440021,Shingle Creek,NA,NA,34,2,19440021,3,1.1,n/a,NA,3.5,hatchery,M,n/a,n/a,Y,n/a,NA,Y,PIT,3DD.003D3646FE,NA,2019,304,43,Sockeye
+Deadpitch,10/31/2019,Week 5,19440022,Shingle Creek,NA,40.5,33,2,19440022,3,1.1,n/a,NA,3.4.2,hatchery,M,n/a,n/a,Y,n/a,NA,N,n/a,n/a,NA,2019,304,40.5,Sockeye
+Deadpitch,10/31/2019,Week 5,19440023,Shingle Creek,NA,NA,32,2,19440023,3,1.1,n/a,NA,3.4.1,hatchery,M,n/a,n/a,Y,n/a,NA,N,n/a,n/a,NA,2019,304,40.5,Sockeye
+Deadpitch,10/31/2019,Week 5,19440024,Shingle Creek,NA,NA,29,2,19440024,3,1.1,n/a,NA,3.4.1,hatchery,M,n/a,n/a,Y,n/a,NA,N,n/a,n/a,NA,2019,304,36.7,Sockeye
+Deadpitch,10/31/2019,Week 5,19440025,Shingle Creek,NA,NA,32.5,2,19440025,3,1.1,n/a,NA,3.5,hatchery,M,n/a,n/a,Y,n/a,NA,N,n/a,n/a,NA,2019,304,41.1,Sockeye
+Deadpitch,10/31/2019,Week 5,19440026,Shingle Creek,NA,41.5,33,2,19440026,3,1.1,n/a,NA,3.5,hatchery,M,n/a,n/a,Y,n/a,NA,N,n/a,n/a,NA,2019,304,41.5,Sockeye
+Deadpitch,10/31/2019,Week 5,19440027,Shingle Creek,NA,NA,32,2,19440027,3,1.1,n/a,NA,3.4.2,hatchery,F,S,n/a,Y,n/a,NA,N,n/a,n/a,NA,2019,304,40.5,Sockeye
+Deadpitch,10/31/2019,Week 5,19440028,Shingle Creek,NA,NA,23,2,19440028,3,3,n/a,NA,Unmarked,natural,F,S,n/a,Y,n/a,NA,N,n/a,n/a,NA,2019,304,29.1,Kokanee
+Deadpitch,10/31/2019,Week 5,19440029,Shingle Creek,NA,39,30.5,2,19440029,3,1.1,n/a,NA,NS,unknown,M,n/a,n/a,Y,n/a,NA,N,n/a,n/a,NA,2019,304,39,Sockeye
+Deadpitch,10/31/2019,Week 5,19440030,Shingle Creek,NA,NA,43,2,19440030,5,1.3,n/a,NA,3.4,hatchery,M,n/a,n/a,Y,n/a,NA,N,n/a,n/a,NA,2019,304,54.3,Sockeye
+Deadpitch,11/4/2019,Week 6,19440031,Shingle Creek,NA,NA,29.5,2,19440031,3,1.1,n/a,NA,3.5,hatchery,F,S,n/a,Y,n/a,NA,N,n/a,n/a,NA,2019,308,37.3,Sockeye
+Deadpitch,11/4/2019,Week 6,19440032,Shingle Creek,NA,37.5,31,0,19440032,NA,n/a,n/a,NA,NS,unknown,M,n/a,n/a,Y,n/a,NA,N,n/a,n/a,NA,2019,308,37.5,Sockeye
+Deadpitch,11/4/2019,Week 6,19440033,Shingle Creek,NA,40.5,34,2,19440033,3,1.1,n/a,NA,3.5,hatchery,M,n/a,n/a,Y,n/a,NA,N,n/a,n/a,NA,2019,308,40.5,Sockeye
+Deadpitch,11/4/2019,Week 6,19440034,Shingle Creek,NA,38,31,2,19440034,3,1.1,n/a,NA,3.5,hatchery,M,n/a,n/a,Y,n/a,NA,N,n/a,n/a,NA,2019,308,38,Sockeye
+Deadpitch,11/4/2019,Week 6,19440035,Shingle Creek,NA,38,30.5,2,19440035,3,1.1,n/a,NA,3.5,hatchery,M,n/a,n/a,Y,n/a,NA,N,n/a,n/a,NA,2019,308,38,Sockeye
+Deadpitch,11/4/2019,Week 6,19440036,Shingle Creek,NA,NA,29.5,2,19440036,3,1.1,n/a,NA,3.5,hatchery,F,S,n/a,Y,n/a,NA,N,n/a,n/a,NA,2019,308,37.3,Sockeye
+Deadpitch,11/4/2019,Week 6,19440037,Shingle Creek,NA,41,32.5,2,19440037,3,1.1,n/a,NA,3.5,hatchery,M,n/a,n/a,Y,n/a,NA,N,n/a,n/a,NA,2019,308,41,Sockeye
+Deadpitch,11/4/2019,Week 6,19440038,Shingle Creek,NA,NA,31,2,19440038,3,1.1,n/a,NA,3.5,hatchery,M,n/a,n/a,Y,n/a,NA,N,n/a,n/a,NA,2019,308,39.2,Sockeye
+Deadpitch,11/4/2019,Week 6,19440039,Shingle Creek,NA,39,31,1,19440039,4,4,n/a,NA,NS,unknown,M,n/a,n/a,Y,n/a,NA,N,n/a,n/a,NA,2019,308,39,Sockeye
+Deadpitch,11/4/2019,Week 6,19440040,Shingle Creek,NA,NA,31,1,19440040,NA,n/a,n/a,NA,NS,unknown,M,n/a,n/a,Y,n/a,NA,N,n/a,n/a,NA,2019,308,39.2,Sockeye
+Deadpitch,11/4/2019,Week 6,19440041,Shingle Creek,NA,NA,30.5,2,19440041,3,1.1,n/a,NA,NS,unknown,M,n/a,n/a,Y,n/a,NA,N,n/a,n/a,NA,2019,308,38.6,Sockeye
+Deadpitch,11/4/2019,Week 6,19440042,Shingle Creek,NA,38.5,31.5,2,19440042,3,1.1,n/a,NA,3.4.2,hatchery,M,n/a,n/a,Y,n/a,NA,N,n/a,n/a,NA,2019,308,38.5,Sockeye
+Deadpitch,11/4/2019,Week 6,19440043,Shingle Creek,NA,NA,31,2,19440043,3,1.1,n/a,NA,3.5,hatchery,F,S,n/a,Y,n/a,NA,N,n/a,n/a,NA,2019,308,39.2,Sockeye
+Deadpitch,11/4/2019,Week 6,19440044,Shingle Creek,NA,NA,33,2,19440044,3,1.1,n/a,NA,3.5,hatchery,M,n/a,n/a,Y,n/a,NA,N,n/a,n/a,NA,2019,308,41.7,Sockeye
+Deadpitch,11/4/2019,Week 6,19440045,Shingle Creek,NA,NA,30,2,19440045,3,1.1,n/a,NA,3.5,hatchery,M,n/a,n/a,Y,n/a,NA,N,n/a,n/a,NA,2019,308,37.9,Sockeye
+Deadpitch,11/4/2019,Week 6,19440046,Shingle Creek,NA,NA,29.5,2,19440046,3,1.1,n/a,NA,3.4.1,hatchery,M,n/a,n/a,Y,n/a,NA,N,n/a,n/a,NA,2019,308,37.3,Sockeye
+Deadpitch,11/4/2019,Week 6,19440047,Shingle Creek,NA,NA,32,2,19440047,3,1.1,n/a,NA,3.5,hatchery,F,S,n/a,Y,n/a,NA,N,n/a,n/a,NA,2019,308,40.5,Sockeye
+Deadpitch,11/4/2019,Week 6,19440048,Shingle Creek,NA,NA,30.5,2,19440048,3,1.1,n/a,NA,3.4.2,hatchery,M,n/a,n/a,Y,n/a,NA,N,n/a,n/a,NA,2019,308,38.6,Sockeye
+Deadpitch,11/4/2019,Week 6,19440049,Shingle Creek,NA,NA,33.5,2,19440049,3,1.1,n/a,NA,NS,unknown,F,S,n/a,Y,n/a,NA,N,n/a,n/a,NA,2019,308,42.3,Sockeye
+Deadpitch,11/4/2019,Week 6,19440050,Shingle Creek,NA,NA,30,2,19440050,NA,n/a,n/a,NA,3.5,hatchery,M,n/a,n/a,Y,n/a,NA,N,n/a,n/a,NA,2019,308,37.9,Sockeye
+Deadpitch,11/4/2019,Week 6,19440051,Shingle Creek,NA,NA,33,1,19440051,NA,n/a,n/a,NA,3.5,hatchery,F,S,n/a,Y,n/a,NA,N,n/a,n/a,NA,2019,308,41.7,Sockeye
+Deadpitch,11/4/2019,Week 6,19440052,Shingle Creek,NA,NA,37,2,19440052,4,1.2,n/a,NA,3.3.3,hatchery,F,S,n/a,Y,n/a,NA,N,n/a,n/a,NA,2019,308,46.8,Sockeye
+Deadpitch,11/8/2019,Week 6,19440053,Shingle Creek,NA,NA,31,2,19440053,3,1.1,n/a,NA,3.4.2,hatchery,F,S,n/a,Y,n/a,NA,Y,PIT,3DD.003D36469F,NA,2019,312,39.2,Sockeye
+Deadpitch,11/8/2019,Week 6,19440054,Shingle Creek,NA,NA,30,2,19440054,3,1.1,n/a,NA,3.5,hatchery,M,n/a,n/a,Y,n/a,NA,N,n/a,n/a,NA,2019,312,37.9,Sockeye
+Deadpitch,11/8/2019,Week 6,19440055,Shingle Creek,NA,NA,30.5,2,19440055,3,1.1,n/a,NA,3.5,hatchery,M,n/a,n/a,Y,n/a,NA,N,n/a,n/a,NA,2019,312,38.6,Sockeye
+Deadpitch,11/8/2019,Week 6,19440056,Shingle Creek,NA,NA,39.5,2,19440056,4,2.1,n/a,NA,3.3.3,hatchery,F,S,n/a,Y,n/a,NA,N,n/a,n/a,NA,2019,312,49.9,Sockeye
+Deadpitch,11/14/2019,#N/A,19440057,Shingle Creek,NA,NA,31.5,2,19440057,3,1.1,n/a,NA,3.5,hatchery,M,n/a,n/a,Y,n/a,NA,N,n/a,n/a,NA,2019,318,39.8,Sockeye
+Deadpitch,11/14/2019,#N/A,19440058,Shingle Creek,NA,NA,32,2,19440058,3,1.1,n/a,NA,3.5,hatchery,F,S,n/a,Y,n/a,NA,N,n/a,n/a,NA,2019,318,40.5,Sockeye
+Deadpitch,11/14/2019,#N/A,19440059,Shingle Creek,NA,NA,29.5,2,19440059,3,1.1,n/a,NA,3.4.2,hatchery,M,n/a,n/a,Y,n/a,NA,N,n/a,n/a,NA,2019,318,37.3,Sockeye
+Deadpitch,11/14/2019,#N/A,19440060,Shingle Creek,NA,NA,30.5,2,19440060,3,1.1,n/a,NA,3.5,hatchery,M,n/a,n/a,Y,n/a,NA,N,n/a,n/a,NA,2019,318,38.6,Sockeye
+Deadpitch,10/13/2020,Week 3,20350001,Shingle Creek,NA,48.5,37.5,2,20350001,4,1.2,NA,NA,3.5,hatchery,M,n/a,n/a,Y,n/a,NA,N,n/a,n/a,1 otolith deformed,2020,287,48.5,Sockeye
+Deadpitch,10/13/2020,Week 3,20350002,Shingle Creek,NA,47,37,2,20350002,4,1.2,NA,NA,3.5,hatchery,F,N,n/a,Y,n/a,NA,N,n/a,n/a,NA,2020,287,47,Sockeye
+Deadpitch,10/13/2020,Week 3,20350003,Shingle Creek,NA,51,41,2,20350003,4,1.2,NA,NA,3.5,hatchery,F,N,n/a,Y,n/a,NA,N,n/a,n/a,1 otolith broken,2020,287,51,Sockeye
+Deadpitch,10/13/2020,Week 3,20350004,Shingle Creek,NA,49,38,2,20350004,4,1.2,NA,NA,3.5,hatchery,M,n/a,n/a,Y,n/a,NA,N,n/a,n/a,NA,2020,287,49,Sockeye
+Deadpitch,10/13/2020,Week 3,20350005,Shingle Creek,NA,47.5,36.5,2,20350005,4,1.2,NA,NA,3.5,hatchery,M,n/a,n/a,Y,n/a,NA,N,n/a,n/a,NA,2020,287,47.5,Sockeye
+Deadpitch,10/13/2020,Week 3,20350006,Shingle Creek,NA,44.5,35.5,2,20350006,4,1.2,NA,NA,3.4.1,hatchery,M,n/a,n/a,Y,n/a,NA,N,n/a,n/a,NA,2020,287,44.5,Sockeye
+Deadpitch,10/13/2020,Week 3,20350007,Shingle Creek,NA,46.5,37.5,2,20350007,4,1.2,NA,NA,3.5,hatchery,F,N,n/a,Y,n/a,NA,N,n/a,n/a,NA,2020,287,46.5,Sockeye
+Deadpitch,10/13/2020,Week 3,20350008,Shingle Creek,NA,50,40,2,20350008,4,1.2,NA,NA,3.4.1,hatchery,M,n/a,n/a,Y,n/a,NA,N,n/a,n/a,NA,2020,287,50,Sockeye
+Deadpitch,10/13/2020,Week 3,20350009,Shingle Creek,NA,52,41,2,20350009,4,1.2,NA,NA,3.5,hatchery,M,n/a,n/a,Y,n/a,NA,N,n/a,n/a,1 otolith deformed,2020,287,52,Sockeye
+Deadpitch,10/13/2020,Week 3,20350010,Shingle Creek,NA,50,39,2,20350010,4,1.2,NA,NA,3.4.2,hatchery,M,n/a,n/a,Y,n/a,NA,N,n/a,n/a,NA,2020,287,50,Sockeye
+Deadpitch,10/13/2020,Week 3,20350011,Shingle Creek,NA,51.5,40,2,20350011,4,1.2,NA,NA,3.5,hatchery,M,n/a,n/a,Y,n/a,NA,N,n/a,n/a,NA,2020,287,51.5,Sockeye
+Deadpitch,10/13/2020,Week 3,20350012,Shingle Creek,NA,52,41,2,20350012,4,1.2,NA,NA,3.5,hatchery,M,n/a,n/a,Y,n/a,NA,N,n/a,n/a,NA,2020,287,52,Sockeye
+Deadpitch,10/13/2020,Week 3,20350013,Shingle Creek,NA,50.5,40,2,20350013,4,1.2,NA,NA,3.5,hatchery,M,n/a,n/a,Y,n/a,NA,N,n/a,n/a,NA,2020,287,50.5,Sockeye
+Deadpitch,10/13/2020,Week 3,20350014,Shingle Creek,NA,53,40,2,20350014,4,1.2,NA,NA,3.4.2,hatchery,M,n/a,n/a,Y,n/a,NA,N,n/a,n/a,both otoliths deformed,2020,287,53,Sockeye
+Deadpitch,10/19/2020,Week 4,20350015,Shingle Creek,NA,45,36.5,2,20350015,4,1.2,NA,NA,3.5,hatchery,M,n/a,n/a,Y,n/a,NA,N,n/a,n/a,NA,2020,293,45,Sockeye
+Deadpitch,10/19/2020,Week 4,20350016,Shingle Creek,NA,50,39,2,20350016,4,1.2,NA,NA,3.5,hatchery,M,n/a,n/a,Y,n/a,NA,N,n/a,n/a,NA,2020,293,50,Sockeye
+Deadpitch,10/19/2020,Week 4,20350017,Shingle Creek,NA,51,41,2,20350017,4,1.2,NA,NA,3.5,hatchery,M,n/a,n/a,Y,n/a,NA,N,n/a,n/a,NA,2020,293,51,Sockeye
+Deadpitch,10/19/2020,Week 4,20350018,Shingle Creek,NA,49,38.5,2,20350018,4,1.2,NA,NA,3.4.2,hatchery,M,n/a,n/a,Y,n/a,NA,N,n/a,n/a,NA,2020,293,49,Sockeye
+Deadpitch,10/19/2020,Week 4,20350019,Shingle Creek,NA,44.5,36.5,2,20350019,4,1.2,NA,NA,3.4.1,hatchery,F,S,n/a,Y,n/a,NA,N,n/a,n/a,NA,2020,293,44.5,Sockeye
+Deadpitch,10/19/2020,Week 4,20350020,Shingle Creek,NA,48,41,2,20350020,4,1.2,NA,NA,3.5,hatchery,F,N,n/a,Y,n/a,NA,N,n/a,n/a,NA,2020,293,48,Sockeye
+Deadpitch,10/19/2020,Week 4,20350021,Shingle Creek,NA,49,39,2,20350021,4,1.2,NA,NA,3.5,hatchery,M,n/a,n/a,Y,n/a,NA,N,n/a,n/a,NA,2020,293,49,Sockeye
+Deadpitch,10/19/2020,Week 4,20350022,Shingle Creek,NA,49,39,2,20350022,4,1.2,NA,NA,3.5,hatchery,M,n/a,n/a,Y,n/a,NA,N,n/a,n/a,NA,2020,293,49,Sockeye
+Deadpitch,10/19/2020,Week 4,20350023,Shingle Creek,NA,46.5,38.5,2,20350023,4,1.2,NA,NA,3.4.2,hatchery,F,S,n/a,Y,n/a,NA,N,n/a,n/a,NA,2020,293,46.5,Sockeye
+Deadpitch,10/19/2020,Week 4,20350024,Shingle Creek,NA,54.5,43,2,20350024,4,1.2,NA,NA,3.5,hatchery,M,n/a,n/a,Y,n/a,NA,N,n/a,n/a,NA,2020,293,54.5,Sockeye
+Deadpitch,10/19/2020,Week 4,20350025,Shingle Creek,NA,49,39,2,20350025,4,1.2,NA,NA,3.5,hatchery,M,n/a,n/a,Y,n/a,NA,N,n/a,n/a,NA,2020,293,49,Sockeye
+Deadpitch,10/19/2020,Week 4,20350026,Shingle Creek,NA,47,37,2,20350026,4,1.2,NA,NA,3.4.1,hatchery,F,S,n/a,Y,n/a,NA,N,n/a,n/a,NA,2020,293,47,Sockeye
+Deadpitch,10/19/2020,Week 4,20350027,Shingle Creek,NA,50,42.5,2,20350027,4,1.2,NA,NA,3.4.2,hatchery,F,S,n/a,Y,n/a,NA,N,n/a,n/a,NA,2020,293,50,Sockeye
+Deadpitch,10/19/2020,Week 4,20350028,Shingle Creek,NA,46,38,2,20350028,4,1.2,NA,NA,3.5,hatchery,F,N,n/a,Y,n/a,NA,N,n/a,n/a,NA,2020,293,46,Sockeye
+Deadpitch,10/19/2020,Week 4,20350029,Shingle Creek,NA,52,42.5,2,20350029,4,1.2,NA,NA,3.4.2,hatchery,F,N,n/a,Y,n/a,NA,N,n/a,n/a,NA,2020,293,52,Sockeye
+Deadpitch,10/19/2020,Week 4,20350030,Shingle Creek,NA,48.5,39,2,20350030,4,1.2,NA,NA,3.5,hatchery,F,N,n/a,Y,n/a,NA,N,n/a,n/a,NA,2020,293,48.5,Sockeye
+Deadpitch,10/19/2020,Week 4,20350031,Shingle Creek,NA,47.5,38.5,2,20350031,4,1.2,NA,NA,3.5,hatchery,F,N,n/a,Y,n/a,NA,N,n/a,n/a,NA,2020,293,47.5,Sockeye
+Deadpitch,10/19/2020,Week 4,20350032,Shingle Creek,NA,49.5,40,2,20350032,4,1.2,NA,NA,3.4.1,hatchery,F,S,n/a,Y,n/a,NA,N,n/a,n/a,NA,2020,293,49.5,Sockeye
+Deadpitch,10/19/2020,Week 4,20350033,Shingle Creek,NA,58,39.5,2,20350033,4,1.2,NA,NA,3.4.1,hatchery,M,n/a,n/a,Y,n/a,NA,N,n/a,n/a,NA,2020,293,58,Sockeye
+Deadpitch,10/19/2020,Week 4,20350034,Shingle Creek,NA,48,39,2,20350034,4,1.2,NA,NA,3.5,hatchery,F,N,n/a,Y,n/a,NA,N,n/a,n/a,NA,2020,293,48,Sockeye
+Deadpitch,10/19/2020,Week 4,20350035,Shingle Creek,NA,48.5,39,2,20350035,4,1.2,NA,NA,3.5,hatchery,M,n/a,n/a,Y,n/a,NA,N,n/a,n/a,NA,2020,293,48.5,Sockeye
+Deadpitch,11/3/2020,Week 6,20350036,Shingle Creek,NA,12.6,NA,2,20350036,NA,n/a,NA,NA,NS,unknown,unk,n/a,n/a,Y,n/a,NA,N,n/a,n/a,NA,2020,308,12.6,Kokanee
+Deadpitch,10/22/2020,Week 4,20350036,Shingle Creek,NA,NA,37,2,20350036,4,1.2,NA,NA,NS,unknown,M,n/a,n/a,Y,20350036,NA,N,n/a,n/a,NA,2020,296,46.8,Sockeye
+Deadpitch,10/22/2020,Week 4,20350037,Shingle Creek,NA,NA,39,2,20350037,4,1.2,NA,NA,3.5,hatchery,M,n/a,n/a,Y,20350037,NA,N,n/a,n/a,NA,2020,296,49.3,Sockeye
+Deadpitch,10/22/2020,Week 4,20350038,Shingle Creek,NA,NA,38.5,2,20350038,4,1.2,NA,NA,3.4.2,hatchery,M,n/a,n/a,Y,20350038,NA,N,n/a,n/a,NA,2020,296,48.6,Sockeye
+Deadpitch,10/22/2020,Week 4,20350039,Shingle Creek,NA,NA,40.5,2,20350039,4,1.2,NA,NA,3.5,hatchery,M,n/a,n/a,Y,20350039,NA,N,n/a,n/a,NA,2020,296,51.2,Sockeye
+Deadpitch,10/22/2020,Week 4,20350040,Shingle Creek,NA,47.5,36.5,2,20350040,4,1.2,NA,NA,3.4.1,hatchery,M,n/a,n/a,Y,20350040,NA,N,n/a,n/a,NA,2020,296,47.5,Sockeye
+Deadpitch,10/22/2020,Week 4,20350041,Shingle Creek,NA,NA,43.5,2,20350041,4,1.2,NA,NA,3.5,hatchery,M,n/a,n/a,Y,20350041,NA,N,n/a,n/a,NA,2020,296,55,Sockeye
+Deadpitch,10/22/2020,Week 4,20350042,Shingle Creek,NA,46.5,37.5,2,20350042,NA,n/a,NA,NA,NS,unknown,F,N,n/a,Y,20350042,NA,N,n/a,n/a,NA,2020,296,46.5,Sockeye
+Deadpitch,10/22/2020,Week 4,20350043,Shingle Creek,NA,NA,38.5,2,20350043,4,1.2,NA,NA,3.5,hatchery,M,n/a,n/a,Y,20350043,NA,N,n/a,n/a,NA,2020,296,48.6,Sockeye
+Deadpitch,10/22/2020,Week 4,20350044,Shingle Creek,NA,NA,37,2,20350044,NA,n/a,NA,NA,3.4.1,hatchery,M,n/a,n/a,Y,20350044,NA,N,n/a,n/a,NA,2020,296,46.8,Sockeye
+Deadpitch,10/22/2020,Week 4,20350045,Shingle Creek,NA,NA,37,2,20350045,4,1.2,NA,NA,3.5,hatchery,F,S,n/a,Y,20350045,NA,N,n/a,n/a,NA,2020,296,46.8,Sockeye
+Deadpitch,10/22/2020,Week 4,20350046,Shingle Creek,NA,NA,34,2,20350046,4,1.2,NA,NA,3.5,hatchery,M,n/a,n/a,Y,20350046,NA,N,n/a,n/a,NA,2020,296,43,Sockeye
+Deadpitch,10/22/2020,Week 4,20350047,Shingle Creek,NA,48,37.5,2,20350047,4,1.2,NA,NA,3.5,hatchery,M,n/a,n/a,Y,20350047,NA,N,n/a,n/a,NA,2020,296,48,Sockeye
+Deadpitch,10/22/2020,Week 4,20350048,Shingle Creek,NA,49,38,2,20350048,4,1.2,NA,NA,3.5,hatchery,M,n/a,n/a,Y,20350048,NA,N,n/a,n/a,NA,2020,296,49,Sockeye
+Deadpitch,10/22/2020,Week 4,20350049,Shingle Creek,NA,NA,37.5,2,20350049,4,1.2,NA,NA,3.4.1,hatchery,M,n/a,n/a,Y,20350049,NA,N,n/a,n/a,NA,2020,296,47.4,Sockeye
+Deadpitch,10/22/2020,Week 4,20350050,Shingle Creek,NA,NA,39.5,2,20350050,4,1.2,NA,NA,3.4.1,hatchery,M,n/a,n/a,Y,20350050,NA,N,n/a,n/a,NA,2020,296,49.9,Sockeye
+Deadpitch,10/22/2020,Week 4,20350051,Shingle Creek,NA,NA,36,2,20350051,NA,n/a,NA,NA,3.4.2,hatchery,M,n/a,n/a,Y,20350051,NA,N,n/a,n/a,both otoliths deformed,2020,296,45.5,Sockeye
+Deadpitch,10/22/2020,Week 4,20350052,Shingle Creek,NA,NA,36,2,20350052,4,2.1,NA,NA,3.5,hatchery,M,n/a,n/a,Y,20350052,NA,N,n/a,n/a,NA,2020,296,45.5,Sockeye
+Deadpitch,10/22/2020,Week 4,20350053,Shingle Creek,NA,NA,37,2,20350053,4,1.2,NA,NA,3.5,hatchery,M,n/a,n/a,Y,20350053,NA,N,n/a,n/a,NA,2020,296,46.8,Sockeye
+Deadpitch,10/22/2020,Week 4,20350054,Shingle Creek,NA,NA,36,2,20350054,4,1.2,NA,NA,3.5,hatchery,F,S,n/a,Y,20350054,NA,N,n/a,n/a,1 otolith deformed,2020,296,45.5,Sockeye
+Deadpitch,10/22/2020,Week 4,20350055,Shingle Creek,NA,NA,36,2,20350055,4,1.2,NA,NA,3.4.1,hatchery,M,n/a,n/a,Y,20350055,NA,N,n/a,n/a,NA,2020,296,45.5,Sockeye
+Deadpitch,11/3/2020,Week 6,20350056,Shingle Creek,NA,NA,38,2,20350056,4,1.2,NA,NA,3.5,hatchery,M,n/a,n/a,Y,20350056,NA,N,n/a,n/a,NA,2020,308,48,Sockeye
+Deadpitch,11/3/2020,Week 6,20350057,Shingle Creek,NA,NA,39.5,2,20350057,4,1.2,NA,NA,3.4.1,hatchery,F,S,n/a,Y,20350057,NA,N,n/a,n/a,NA,2020,308,49.9,Sockeye
+Deadpitch,11/3/2020,Week 6,20350058,Shingle Creek,NA,NA,40,2,20350058,4,1.2,NA,NA,3.4.1,hatchery,M,n/a,n/a,Y,20350058,NA,Y,Spaghetti,5235,NA,2020,308,50.5,Sockeye
+Deadpitch,11/3/2020,Week 6,20350059,Shingle Creek,NA,NA,42,2,20350059,4,1.2,NA,NA,3.5,hatchery,M,n/a,n/a,Y,20350059,NA,N,n/a,n/a,NA,2020,308,53.1,Sockeye
+Deadpitch,11/3/2020,Week 6,20350060,Shingle Creek,NA,NA,36.5,2,20350060,4,1.2,NA,NA,3.4.1,hatchery,F,N,n/a,Y,20350060,NA,N,n/a,n/a,NA,2020,308,46.1,Sockeye
+Deadpitch,11/3/2020,Week 6,20350061,Shingle Creek,NA,NA,39.5,2,20350061,4,1.2,NA,NA,3.5,hatchery,F,S,n/a,Y,20350061,NA,N,n/a,n/a,NA,2020,308,49.9,Sockeye
+Deadpitch,11/3/2020,Week 6,20350062,Shingle Creek,NA,NA,38.5,1,20350062,4,1.2,NA,NA,NS,unknown,F,N,n/a,Y,20350062,NA,N,n/a,n/a,NA,2020,308,48.6,Sockeye
+Deadpitch,11/3/2020,Week 6,20350063,Shingle Creek,NA,NA,40.5,2,20350063,4,1.2,NA,NA,3.5,hatchery,M,n/a,n/a,Y,20350063,NA,N,n/a,n/a,NA,2020,308,51.2,Sockeye
+Deadpitch,11/3/2020,Week 6,20350064,Shingle Creek,NA,NA,24,1,20350064,3,3,NA,NA,Unmarked,natural,M,n/a,n/a,Y,20350064,NA,N,n/a,n/a,NA,2020,308,30.4,Kokanee
+Deadpitch,11/3/2020,Week 6,20350065,Shingle Creek,NA,NA,39.5,2,20350065,4,1.2,NA,NA,3.4.2,hatchery,M,n/a,n/a,Y,20350065,NA,N,n/a,n/a,NA,2020,308,49.9,Sockeye
+Deadpitch,11/3/2020,Week 6,20350066,Shingle Creek,NA,NA,35,2,20350066,4,1.2,NA,NA,3.5,hatchery,F,N,n/a,Y,20350066,NA,N,n/a,n/a,NA,2020,308,44.2,Sockeye
+Deadpitch,11/3/2020,Week 6,20350067,Shingle Creek,NA,NA,38,2,20350067,4,1.2,NA,NA,3.4.2,hatchery,M,n/a,n/a,Y,20350067,NA,N,n/a,n/a,NA,2020,308,48,Sockeye
+Deadpitch,11/3/2020,Week 6,20350068,Shingle Creek,NA,NA,40,2,20350068,4,1.2,NA,NA,3.5,hatchery,M,n/a,n/a,Y,20350068,NA,N,n/a,n/a,NA,2020,308,50.5,Sockeye
+Deadpitch,11/3/2020,Week 6,20350069,Shingle Creek,NA,NA,38.5,2,20350069,4,1.2,NA,NA,3.4.1,hatchery,F,S,n/a,Y,20350069,NA,N,n/a,n/a,NA,2020,308,48.6,Sockeye
+Deadpitch,11/3/2020,Week 6,20350070,Shingle Creek,NA,NA,37.5,2,20350070,4,1.2,NA,NA,3.5,hatchery,F,S,n/a,Y,20350070,NA,N,n/a,n/a,NA,2020,308,47.4,Sockeye
+Deadpitch,11/3/2020,Week 6,20350071,Shingle Creek,NA,NA,38.5,2,20350071,4,1.2,NA,NA,3.4.2,hatchery,M,n/a,n/a,Y,20350071,NA,N,n/a,n/a,NA,2020,308,48.6,Sockeye
+Deadpitch,11/3/2020,Week 6,20350072,Shingle Creek,NA,NA,36.5,2,20350072,4,1.2,NA,NA,3.5,hatchery,F,P,n/a,Y,20350072,NA,N,n/a,n/a,NA,2020,308,46.1,Sockeye
+Deadpitch,11/3/2020,Week 6,20350073,Shingle Creek,NA,NA,42,2,20350073,4,1.2,NA,NA,3.4.2,hatchery,M,n/a,n/a,Y,20350073,NA,N,n/a,n/a,NA,2020,308,53.1,Sockeye
+Deadpitch,11/3/2020,Week 6,20350074,Shingle Creek,NA,NA,39,1,20350074,4,1.2,NA,NA,NS,unknown,F,S,n/a,Y,20350074,NA,N,n/a,n/a,NA,2020,308,49.3,Sockeye
+Deadpitch,11/3/2020,Week 6,20350075,Shingle Creek,NA,NA,40.5,2,20350075,4,1.2,NA,NA,3.5,hatchery,F,N,n/a,Y,20350075,NA,N,n/a,n/a,NA,2020,308,51.2,Sockeye
+Deadpitch,11/3/2020,Week 6,20350076,Shingle Creek,NA,NA,40.5,1,20350076,4,1.2,NA,NA,NS,unknown,F,S,n/a,Y,20350076,NA,N,n/a,n/a,NA,2020,308,51.2,Sockeye
+Deadpitch,11/3/2020,Week 6,20350077,Shingle Creek,NA,NA,33,2,20350077,3,1.1,NA,NA,4.3.2,hatchery,M,n/a,n/a,Y,20350077,NA,N,n/a,n/a,NA,2020,308,41.7,Sockeye
+Deadpitch,11/3/2020,Week 6,20350078,Shingle Creek,NA,NA,36.5,2,20350078,4,1.2,NA,NA,3.5,hatchery,M,n/a,n/a,Y,20350078,NA,N,n/a,n/a,NA,2020,308,46.1,Sockeye
+Deadpitch,11/3/2020,Week 6,20350079,Shingle Creek,NA,NA,38.5,2,20350079,NA,n/a,NA,NA,NS,unknown,F,S,n/a,Y,20350079,NA,N,n/a,n/a,NA,2020,308,48.6,Sockeye
+Deadpitch,11/3/2020,Week 6,20350080,Shingle Creek,NA,NA,35.5,2,20350080,4,1.2,NA,NA,3.5,hatchery,F,P,n/a,Y,20350080,NA,N,n/a,n/a,NA,2020,308,44.9,Sockeye
+Deadpitch,11/3/2020,Week 6,20350081,Shingle Creek,NA,46,37,2,20350081,4,1.2,NA,NA,3.4.1,hatchery,M,n/a,n/a,Y,20350081,NA,N,n/a,n/a,NA,2020,308,46,Sockeye
+Deadpitch,11/3/2020,Week 6,20350082,Shingle Creek,NA,NA,37,2,20350082,4,1.2,NA,NA,3.4.2,hatchery,F,S,n/a,Y,20350082,NA,N,n/a,n/a,NA,2020,308,46.8,Sockeye
+Deadpitch,11/3/2020,Week 6,20350083,Shingle Creek,NA,NA,39,2,20350083,4,1.2,NA,NA,3.5,hatchery,F,S,n/a,Y,20350083,NA,N,n/a,n/a,NA,2020,308,49.3,Sockeye
+Deadpitch,11/3/2020,Week 6,20350084,Shingle Creek,NA,NA,23.5,2,20350084,4,4,NA,NA,Unmarked,natural,M,n/a,n/a,Y,20350084,NA,N,n/a,n/a,NA,2020,308,29.7,Kokanee
+Deadpitch,11/3/2020,Week 6,20350085,Shingle Creek,NA,NA,40.5,2,20350085,4,1.2,NA,NA,3.5,hatchery,F,S,n/a,Y,20350085,NA,Y,PIT,3DD.003D53B3E7,NA,2020,308,51.2,Sockeye
+Deadpitch,11/3/2020,Week 6,20350086,Shingle Creek,NA,NA,39,2,20350086,4,1.2,NA,NA,3.4.1,hatchery,M,n/a,n/a,Y,20350086,NA,Y,Spaghetti,5206,radio tag?,2020,308,49.3,Sockeye
+Deadpitch,11/3/2020,Week 6,20350087,Shingle Creek,NA,NA,42,2,20350087,4,1.2,NA,NA,3.5,hatchery,F,N,n/a,Y,20350087,NA,N,n/a,n/a,NA,2020,308,53.1,Sockeye
+Deadpitch,11/3/2020,Week 6,20350088,Shingle Creek,NA,NA,39.5,1,20350088,4,1.2,NA,NA,NS,unknown,F,N,n/a,Y,20350088,NA,N,n/a,n/a,NA,2020,308,49.9,Sockeye
+Deadpitch,11/3/2020,Week 6,20350089,Shingle Creek,NA,NA,40.5,2,20350089,4,1.2,NA,NA,NS,unknown,M,n/a,n/a,Y,20350089,NA,N,n/a,n/a,1 otolith deformed,2020,308,51.2,Sockeye
+Deadpitch,11/3/2020,Week 6,20350090,Shingle Creek,NA,NA,41,2,20350090,4,1.2,NA,NA,3.5,hatchery,M,n/a,n/a,Y,20350090,NA,N,n/a,n/a,NA,2020,308,51.8,Sockeye
+Deadpitch,11/3/2020,Week 6,20350091,Shingle Creek,NA,NA,39,2,20350091,4,1.2,NA,NA,3.4.2,hatchery,F,N,n/a,Y,20350091,NA,N,n/a,n/a,NA,2020,308,49.3,Sockeye
+Deadpitch,11/3/2020,Week 6,20350092,Shingle Creek,NA,NA,42.5,2,20350092,4,1.2,NA,NA,3.5,hatchery,M,n/a,n/a,Y,20350092,NA,N,n/a,n/a,NA,2020,308,53.7,Sockeye
+Deadpitch,11/3/2020,Week 6,20350093,Shingle Creek,NA,NA,39,2,20350093,4,1.2,NA,NA,3.5,hatchery,F,P,n/a,Y,20350093,NA,N,n/a,n/a,NA,2020,308,49.3,Sockeye
+Deadpitch,11/3/2020,Week 6,20350094,Shingle Creek,NA,NA,38,2,20350094,4,1.2,NA,NA,3.4.2,hatchery,M,n/a,n/a,Y,20350094,NA,N,n/a,n/a,NA,2020,308,48,Sockeye
+Deadpitch,11/3/2020,Week 6,20350095,Shingle Creek,NA,NA,35.5,2,20350095,4,1.2,NA,NA,3.4.1,hatchery,M,n/a,n/a,Y,20350095,NA,N,n/a,n/a,NA,2020,308,44.9,Sockeye
+Deadpitch,11/3/2020,Week 6,20350096,Shingle Creek,NA,NA,41.5,2,20350096,4,1.2,NA,NA,3.4.2,hatchery,F,P,n/a,Y,20350096,NA,N,n/a,n/a,NA,2020,308,52.4,Sockeye
+Deadpitch,11/3/2020,Week 6,20350097,Shingle Creek,NA,NA,40,2,20350097,NA,n/a,NA,NA,NS,unknown,M,n/a,n/a,Y,20350097,NA,N,n/a,n/a,otoliths broken,2020,308,50.5,Sockeye
+Deadpitch,11/3/2020,Week 6,20350098,Shingle Creek,NA,NA,38.5,2,20350098,4,1.2,NA,NA,3.5,hatchery,F,N,n/a,Y,20350098,NA,N,n/a,n/a,NA,2020,308,48.6,Sockeye
+Deadpitch,11/3/2020,Week 6,20350099,Shingle Creek,NA,NA,43,2,20350099,4,1.2,NA,NA,3.4.1,hatchery,M,n/a,n/a,Y,20350099,NA,N,n/a,n/a,NA,2020,308,54.3,Sockeye
+Deadpitch,11/3/2020,Week 6,20350100,Shingle Creek,NA,NA,41.5,2,20350100,4,1.2,NA,NA,3.5,hatchery,M,n/a,n/a,Y,20350100,NA,N,n/a,n/a,NA,2020,308,52.4,Sockeye
+Deadpitch,11/3/2020,Week 6,20350101,Shingle Creek,NA,NA,38.5,2,20350101,4,1.2,NA,NA,3.4.2,hatchery,M,n/a,n/a,Y,20350101,NA,N,n/a,n/a,NA,2020,308,48.6,Sockeye
+Deadpitch,11/3/2020,Week 6,20350102,Shingle Creek,NA,NA,37.5,2,20350102,4,1.2,NA,NA,3.5,hatchery,F,P,n/a,Y,20350102,NA,N,n/a,n/a,NA,2020,308,47.4,Sockeye
+Deadpitch,11/3/2020,Week 6,20350103,Shingle Creek,NA,NA,37,2,20350103,4,1.2,NA,NA,3.5,hatchery,M,n/a,n/a,Y,20350103,NA,Y,Spaghetti,5236,NA,2020,308,46.8,Sockeye
+Deadpitch,11/3/2020,Week 6,20350104,Shingle Creek,NA,NA,39,2,20350104,4,1.2,NA,NA,3.5,hatchery,M,n/a,n/a,Y,20350104,NA,N,n/a,n/a,NA,2020,308,49.3,Sockeye
+Deadpitch,11/3/2020,Week 6,20350105,Shingle Creek,NA,NA,39.5,2,20350105,4,1.2,NA,NA,3.4.1,hatchery,F,S,n/a,Y,20350105,NA,N,n/a,n/a,NA,2020,308,49.9,Sockeye
+Deadpitch,11/10/2020,Week 7,20350106,Shingle Creek,NA,NA,37.5,2,20350106,4,1.2,NA,NA,3.4.1,hatchery,F,S,n/a,Y,20350106,NA,N,n/a,n/a,NA,2020,315,47.4,Sockeye
+Deadpitch,11/10/2020,Week 7,20350107,Shingle Creek,NA,NA,40,2,20350107,4,1.2,NA,NA,3.4.2,hatchery,M,n/a,n/a,Y,20350107,NA,N,n/a,n/a,NA,2020,315,50.5,Sockeye
+Deadpitch,11/10/2020,Week 7,20350108,Shingle Creek,NA,NA,39,2,20350108,4,1.2,NA,NA,3.5,hatchery,F,S,n/a,Y,20350108,NA,N,n/a,n/a,NA,2020,315,49.3,Sockeye
+Deadpitch,11/10/2020,Week 7,20350109,Shingle Creek,NA,NA,39.5,2,20350109,4,1.2,NA,NA,3.4.2,hatchery,M,n/a,n/a,Y,20350109,NA,N,n/a,n/a,NA,2020,315,49.9,Sockeye
+Deadpitch,11/10/2020,Week 7,20350110,Shingle Creek,NA,NA,40.5,2,20350110,4,1.2,NA,NA,3.4.1,hatchery,M,n/a,n/a,Y,20350110,NA,N,n/a,n/a,NA,2020,315,51.2,Sockeye
+Deadpitch,11/10/2020,Week 7,20350111,Shingle Creek,NA,NA,39,2,20350111,4,1.2,NA,NA,3.4.1,hatchery,M,n/a,n/a,Y,20350111,NA,N,n/a,n/a,NA,2020,315,49.3,Sockeye
+Deadpitch,11/10/2020,Week 7,20350112,Shingle Creek,NA,NA,38,2,20350112,4,1.2,NA,NA,3.4.1,hatchery,M,n/a,n/a,Y,20350112,NA,N,n/a,n/a,NA,2020,315,48,Sockeye
+Deadpitch,11/10/2020,Week 7,20350113,Shingle Creek,NA,NA,40,2,20350113,4,1.2,NA,NA,3.4.1,hatchery,M,n/a,n/a,Y,20350113,NA,N,n/a,n/a,NA,2020,315,50.5,Sockeye
+Deadpitch,11/10/2020,Week 7,20350114,Shingle Creek,NA,NA,36,2,20350114,4,1.2,NA,NA,3.5,hatchery,M,n/a,n/a,Y,20350114,NA,N,n/a,n/a,NA,2020,315,45.5,Sockeye
+Deadpitch,11/10/2020,Week 7,20350115,Shingle Creek,NA,NA,36,2,20350115,4,1.2,NA,NA,3.4.1,hatchery,F,S,n/a,Y,20350115,NA,N,n/a,n/a,NA,2020,315,45.5,Sockeye
+Deadpitch,11/10/2020,Week 7,20350116,Shingle Creek,NA,NA,39,2,20350116,4,1.2,NA,NA,3.4.1,hatchery,F,P,n/a,Y,20350116,NA,N,n/a,n/a,NA,2020,315,49.3,Sockeye
+Deadpitch,11/10/2020,Week 7,20350117,Shingle Creek,NA,NA,40,2,20350117,4,1.2,NA,NA,3.4.2,hatchery,F,S,n/a,Y,20350117,NA,N,n/a,n/a,NA,2020,315,50.5,Sockeye
+Deadpitch,11/10/2020,Week 7,20350118,Shingle Creek,NA,NA,41,2,20350118,4,1.2,NA,NA,3.4.2,hatchery,F,S,n/a,Y,20350118,NA,N,n/a,n/a,NA,2020,315,51.8,Sockeye
+Deadpitch,11/10/2020,Week 7,20350119,Shingle Creek,NA,47,35.5,2,20350119,4,1.2,NA,NA,3.5,hatchery,M,n/a,n/a,Y,20350119,NA,N,n/a,n/a,NA,2020,315,47,Sockeye
+Deadpitch,11/10/2020,Week 7,20350120,Shingle Creek,NA,NA,39.5,2,20350120,4,1.2,NA,NA,3.5,hatchery,M,n/a,n/a,Y,20350120,NA,N,n/a,n/a,NA,2020,315,49.9,Sockeye
+Deadpitch,11/10/2020,Week 7,20350121,Shingle Creek,NA,NA,38,2,20350121,NA,n/a,NA,NA,3.5,hatchery,M,n/a,n/a,Y,20350121,NA,N,n/a,n/a,both otoliths deformed,2020,315,48,Sockeye
+Deadpitch,11/10/2020,Week 7,20350122,Shingle Creek,NA,NA,38.5,2,20350122,4,1.2,NA,NA,3.4.1,hatchery,M,n/a,n/a,Y,20350122,NA,N,n/a,n/a,NA,2020,315,48.6,Sockeye
+Deadpitch,11/10/2020,Week 7,20350123,Shingle Creek,NA,NA,38,2,20350123,4,1.2,NA,NA,3.5,hatchery,M,n/a,n/a,Y,20350123,NA,N,n/a,n/a,NA,2020,315,48,Sockeye
+Deadpitch,11/10/2020,Week 7,20350124,Shingle Creek,NA,NA,39,2,20350124,4,1.2,NA,NA,3.4.2,hatchery,F,S,n/a,Y,20350124,NA,N,n/a,n/a,NA,2020,315,49.3,Sockeye
+Deadpitch,11/10/2020,Week 7,20350125,Shingle Creek,NA,NA,38.5,2,20350125,4,1.2,NA,NA,3.5,hatchery,M,n/a,n/a,Y,20350125,NA,N,n/a,n/a,NA,2020,315,48.6,Sockeye
+Deadpitch,11/10/2020,Week 7,20350126,Shingle Creek,NA,NA,40,2,20350126,4,1.2,NA,NA,3.5,hatchery,F,S,n/a,Y,20350126,NA,N,n/a,n/a,NA,2020,315,50.5,Sockeye
+Deadpitch,11/10/2020,Week 7,20350127,Shingle Creek,NA,49.5,38.5,2,20350127,4,1.2,NA,NA,3.5,hatchery,M,n/a,n/a,Y,20350127,NA,N,n/a,n/a,NA,2020,315,49.5,Sockeye
+Deadpitch,11/10/2020,Week 7,20350128,Shingle Creek,NA,NA,37,2,20350128,4,1.2,NA,NA,3.4.2,hatchery,F,S,n/a,Y,20350128,NA,N,n/a,n/a,NA,2020,315,46.8,Sockeye
+Deadpitch,11/10/2020,Week 7,20350129,Shingle Creek,NA,NA,36.5,2,20350129,4,1.2,NA,NA,3.5,hatchery,F,S,n/a,Y,20350129,NA,N,n/a,n/a,NA,2020,315,46.1,Sockeye
+Deadpitch,11/10/2020,Week 7,20350130,Shingle Creek,NA,NA,37,2,20350130,4,1.2,NA,NA,3.4.1,hatchery,F,P,n/a,Y,20350130,NA,N,n/a,n/a,NA,2020,315,46.8,Sockeye
+Deadpitch,11/10/2020,Week 7,20350131,Shingle Creek,NA,NA,38,2,20350131,4,1.2,NA,NA,3.4.1,hatchery,F,N,n/a,Y,20350131,NA,N,n/a,n/a,NA,2020,315,48,Sockeye
+Deadpitch,11/10/2020,Week 7,20350132,Shingle Creek,NA,NA,36,2,20350132,4,1.2,NA,NA,3.5,hatchery,F,S,n/a,Y,20350132,NA,N,n/a,n/a,NA,2020,315,45.5,Sockeye
+Deadpitch,11/10/2020,Week 7,20350133,Shingle Creek,NA,NA,39,2,20350133,4,1.2,NA,NA,3.5,hatchery,M,n/a,n/a,Y,20350133,NA,Y,PIT,3DD.0077C6D966,NA,2020,315,49.3,Sockeye
+Deadpitch,11/10/2020,Week 7,20350134,Shingle Creek,NA,NA,36,2,20350134,4,1.2,NA,NA,3.5,hatchery,M,n/a,n/a,Y,20350134,NA,N,n/a,n/a,NA,2020,315,45.5,Sockeye
+Deadpitch,11/10/2020,Week 7,20350135,Shingle Creek,NA,NA,41,2,20350135,4,1.2,NA,NA,3.4.1,hatchery,F,P,n/a,Y,20350135,NA,N,n/a,n/a,NA,2020,315,51.8,Sockeye
+Deadpitch,11/10/2020,Week 7,20350136,Shingle Creek,NA,NA,38,2,20350136,NA,n/a,NA,NA,3.5,hatchery,F,S,n/a,Y,20350136,NA,N,n/a,n/a,both otoliths deformed,2020,315,48,Sockeye
+Deadpitch,11/10/2020,Week 7,20350137,Shingle Creek,NA,46.5,37,2,20350137,4,1.2,NA,NA,3.4.1,hatchery,F,N,n/a,Y,20350137,NA,N,n/a,n/a,NA,2020,315,46.5,Sockeye
+Deadpitch,11/10/2020,Week 7,20350138,Shingle Creek,NA,NA,37.5,2,20350138,4,1.2,NA,NA,3.4.2,hatchery,F,N,n/a,Y,20350138,NA,N,n/a,n/a,NA,2020,315,47.4,Sockeye
+Deadpitch,11/10/2020,Week 7,20350139,Shingle Creek,NA,NA,38,2,20350139,4,1.2,NA,NA,3.4.2,hatchery,F,S,n/a,Y,20350139,NA,N,n/a,n/a,NA,2020,315,48,Sockeye
+Deadpitch,11/10/2020,Week 7,20350140,Shingle Creek,NA,NA,38.5,2,20350140,NA,n/a,NA,NA,3.5,hatchery,M,n/a,n/a,Y,20350140,NA,N,n/a,n/a,both otoliths deformed,2020,315,48.6,Sockeye
+Deadpitch,11/10/2020,Week 7,20350141,Shingle Creek,NA,NA,39,2,20350141,4,1.2,NA,NA,3.5,hatchery,M,n/a,n/a,Y,20350141,NA,N,n/a,n/a,NA,2020,315,49.3,Sockeye
+Deadpitch,11/10/2020,Week 7,20350142,Shingle Creek,NA,NA,36,2,20350142,4,1.2,NA,NA,3.5,hatchery,F,P,n/a,Y,20350142,NA,N,n/a,n/a,NA,2020,315,45.5,Sockeye
+Deadpitch,11/10/2020,Week 7,20350143,Shingle Creek,NA,NA,36.5,2,20350143,4,1.2,NA,NA,3.4.2,hatchery,M,n/a,n/a,Y,20350143,NA,N,n/a,n/a,NA,2020,315,46.1,Sockeye
+Deadpitch,11/10/2020,Week 7,20350144,Shingle Creek,NA,NA,38,2,20350144,4,1.2,NA,NA,3.5,hatchery,M,n/a,n/a,Y,20350144,NA,N,n/a,n/a,NA,2020,315,48,Sockeye
+Deadpitch,11/10/2020,Week 7,20350145,Shingle Creek,NA,NA,40,2,20350145,4,1.2,NA,NA,3.4.2,hatchery,F,N,n/a,Y,20350145,NA,N,n/a,n/a,NA,2020,315,50.5,Sockeye
+Deadpitch,11/10/2020,Week 7,20350146,Shingle Creek,NA,NA,37.5,2,20350146,4,1.2,NA,NA,3.4.2,hatchery,F,S,n/a,Y,20350146,NA,N,n/a,n/a,NA,2020,315,47.4,Sockeye
+Deadpitch,11/10/2020,Week 7,20350147,Shingle Creek,NA,NA,38.5,2,20350147,4,1.2,NA,NA,3.5,hatchery,F,S,n/a,Y,20350147,NA,N,n/a,n/a,NA,2020,315,48.6,Sockeye
+Deadpitch,11/10/2020,Week 7,20350148,Shingle Creek,NA,NA,38,2,20350148,4,1.2,NA,NA,3.5,hatchery,M,n/a,n/a,Y,20350148,NA,N,n/a,n/a,1 otolith deformed,2020,315,48,Sockeye
+Deadpitch,11/10/2020,Week 7,20350149,Shingle Creek,NA,NA,40,2,20350149,4,1.2,NA,NA,3.5,hatchery,M,n/a,n/a,Y,20350149,NA,N,n/a,n/a,NA,2020,315,50.5,Sockeye
+Deadpitch,11/10/2020,Week 7,20350150,Shingle Creek,NA,NA,39,2,20350150,4,1.2,NA,NA,3.4.2,hatchery,M,n/a,n/a,Y,20350150,NA,N,n/a,n/a,NA,2020,315,49.3,Sockeye
+Deadpitch,11/10/2020,Week 7,20350151,Shingle Creek,NA,NA,38.5,2,20350151,4,1.2,NA,NA,3.4.1,hatchery,F,P,n/a,Y,20350151,NA,N,n/a,n/a,NA,2020,315,48.6,Sockeye
+Deadpitch,11/10/2020,Week 7,20350152,Shingle Creek,NA,NA,40.5,2,20350152,4,1.2,NA,NA,3.5,hatchery,F,N,n/a,Y,20350152,NA,Y,PIT,3DD.003D53B4B6,NA,2020,315,51.2,Sockeye
+Deadpitch,11/10/2020,Week 7,20350153,Shingle Creek,NA,NA,38.5,2,20350153,4,1.2,NA,NA,3.5,hatchery,F,P,n/a,Y,20350153,NA,N,n/a,n/a,NA,2020,315,48.6,Sockeye
+Deadpitch,11/10/2020,Week 7,20350154,Shingle Creek,NA,NA,37,2,20350154,4,1.2,NA,NA,3.4.1,hatchery,M,n/a,n/a,Y,20350154,NA,N,n/a,n/a,NA,2020,315,46.8,Sockeye
+Deadpitch,11/10/2020,Week 7,20350155,Shingle Creek,NA,NA,36.5,2,20350155,4,1.2,NA,NA,3.5,hatchery,F,S,n/a,Y,20350155,NA,N,n/a,n/a,NA,2020,315,46.1,Sockeye
+Deadpitch,10/26/2020,Week 5,20350156,Shingle Creek,NA,NA,36,0,NA,NA,n/a,NA,NA,NS,unknown,F,S,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,300,45.5,Sockeye
+Deadpitch,10/26/2020,Week 5,20350157,Shingle Creek,NA,NA,39.5,0,NA,NA,n/a,NA,NA,NS,unknown,F,S,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,300,49.9,Sockeye
+Deadpitch,10/26/2020,Week 5,20350158,Shingle Creek,NA,NA,38.5,0,NA,NA,n/a,NA,NA,NS,unknown,F,S,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,300,48.6,Sockeye
+Deadpitch,10/26/2020,Week 5,20350159,Shingle Creek,NA,NA,36.5,0,NA,NA,n/a,NA,NA,NS,unknown,M,n/a,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,300,46.1,Sockeye
+Deadpitch,10/26/2020,Week 5,20350160,Shingle Creek,NA,NA,37,0,NA,NA,n/a,NA,NA,NS,unknown,M,n/a,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,300,46.8,Sockeye
+Deadpitch,10/26/2020,Week 5,20350161,Shingle Creek,NA,NA,40.5,0,NA,NA,n/a,NA,NA,NS,unknown,M,n/a,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,300,51.2,Sockeye
+Deadpitch,10/26/2020,Week 5,20350162,Shingle Creek,NA,NA,40,0,NA,NA,n/a,NA,NA,NS,unknown,M,n/a,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,300,50.5,Sockeye
+Deadpitch,10/26/2020,Week 5,20350163,Shingle Creek,NA,NA,35.5,0,NA,NA,n/a,NA,NA,NS,unknown,M,n/a,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,300,44.9,Sockeye
+Deadpitch,10/26/2020,Week 5,20350164,Shingle Creek,NA,NA,35.5,0,NA,NA,n/a,NA,NA,NS,unknown,F,S,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,300,44.9,Sockeye
+Deadpitch,10/26/2020,Week 5,20350165,Shingle Creek,NA,NA,39,0,NA,NA,n/a,NA,NA,NS,unknown,M,n/a,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,300,49.3,Sockeye
+Deadpitch,10/26/2020,Week 5,20350166,Shingle Creek,NA,NA,36,0,NA,NA,n/a,NA,NA,NS,unknown,M,n/a,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,300,45.5,Sockeye
+Deadpitch,10/26/2020,Week 5,20350167,Shingle Creek,NA,NA,38,0,NA,NA,n/a,NA,NA,NS,unknown,F,S,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,300,48,Sockeye
+Deadpitch,10/26/2020,Week 5,20350168,Shingle Creek,NA,NA,38,0,NA,NA,n/a,NA,NA,NS,unknown,F,S,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,300,48,Sockeye
+Deadpitch,10/26/2020,Week 5,20350169,Shingle Creek,NA,NA,38.5,0,NA,NA,n/a,NA,NA,NS,unknown,M,n/a,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,300,48.6,Sockeye
+Deadpitch,10/26/2020,Week 5,20350170,Shingle Creek,NA,NA,37,0,NA,NA,n/a,NA,NA,NS,unknown,M,n/a,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,300,46.8,Sockeye
+Deadpitch,10/26/2020,Week 5,20350171,Shingle Creek,NA,NA,38,0,NA,NA,n/a,NA,NA,NS,unknown,F,S,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,300,48,Sockeye
+Deadpitch,10/26/2020,Week 5,20350172,Shingle Creek,NA,NA,37,0,NA,NA,n/a,NA,NA,NS,unknown,M,n/a,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,300,46.8,Sockeye
+Deadpitch,10/26/2020,Week 5,20350173,Shingle Creek,NA,NA,38,0,NA,NA,n/a,NA,NA,NS,unknown,M,n/a,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,300,48,Sockeye
+Deadpitch,10/26/2020,Week 5,20350174,Shingle Creek,NA,NA,37,0,NA,NA,n/a,NA,NA,NS,unknown,F,S,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,300,46.8,Sockeye
+Deadpitch,10/26/2020,Week 5,20350175,Shingle Creek,NA,NA,38.5,0,NA,NA,n/a,NA,NA,NS,unknown,M,n/a,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,300,48.6,Sockeye
+Deadpitch,10/26/2020,Week 5,20350176,Shingle Creek,NA,NA,39,0,NA,NA,n/a,NA,NA,NS,unknown,F,S,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,300,49.3,Sockeye
+Deadpitch,10/26/2020,Week 5,20350177,Shingle Creek,NA,NA,39,0,NA,NA,n/a,NA,NA,NS,unknown,M,n/a,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,300,49.3,Sockeye
+Deadpitch,10/26/2020,Week 5,20350178,Shingle Creek,NA,NA,37.5,0,NA,NA,n/a,NA,NA,NS,unknown,M,n/a,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,300,47.4,Sockeye
+Deadpitch,10/26/2020,Week 5,20350179,Shingle Creek,NA,NA,37,0,NA,NA,n/a,NA,NA,NS,unknown,M,n/a,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,300,46.8,Sockeye
+Deadpitch,10/26/2020,Week 5,20350180,Shingle Creek,NA,NA,36.5,0,NA,NA,n/a,NA,NA,NS,unknown,M,n/a,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,300,46.1,Sockeye
+Deadpitch,10/26/2020,Week 5,20350181,Shingle Creek,NA,NA,40.5,0,NA,NA,n/a,NA,NA,NS,unknown,M,n/a,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,300,51.2,Sockeye
+Deadpitch,10/26/2020,Week 5,20350182,Shingle Creek,NA,NA,38,0,NA,NA,n/a,NA,NA,NS,unknown,F,S,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,300,48,Sockeye
+Deadpitch,10/26/2020,Week 5,20350183,Shingle Creek,NA,NA,41,0,NA,NA,n/a,NA,NA,NS,unknown,M,n/a,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,300,51.8,Sockeye
+Deadpitch,10/26/2020,Week 5,20350184,Shingle Creek,NA,NA,38.5,0,NA,NA,n/a,NA,NA,NS,unknown,M,n/a,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,300,48.6,Sockeye
+Deadpitch,11/3/2020,Week 6,20350185,Shingle Creek,NA,NA,38,0,NA,NA,n/a,NA,NA,NS,unknown,M,n/a,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,308,48,Sockeye
+Deadpitch,11/3/2020,Week 6,20350186,Shingle Creek,NA,NA,39,0,NA,NA,n/a,NA,NA,NS,unknown,M,n/a,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,308,49.3,Sockeye
+Deadpitch,11/3/2020,Week 6,20350187,Shingle Creek,NA,NA,36.5,0,NA,NA,n/a,NA,NA,NS,unknown,F,P,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,308,46.1,Sockeye
+Deadpitch,11/3/2020,Week 6,20350188,Shingle Creek,NA,NA,39,0,NA,NA,n/a,NA,NA,NS,unknown,F,P,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,308,49.3,Sockeye
+Deadpitch,11/3/2020,Week 6,20350189,Shingle Creek,NA,NA,37,0,NA,NA,n/a,NA,NA,NS,unknown,M,n/a,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,308,46.8,Sockeye
+Deadpitch,11/3/2020,Week 6,20350190,Shingle Creek,NA,NA,40.5,0,NA,NA,n/a,NA,NA,NS,unknown,M,n/a,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,308,51.2,Sockeye
+Deadpitch,11/3/2020,Week 6,20350191,Shingle Creek,NA,NA,37.5,0,NA,NA,n/a,NA,NA,NS,unknown,M,n/a,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,308,47.4,Sockeye
+Deadpitch,11/3/2020,Week 6,20350192,Shingle Creek,NA,NA,34.5,0,NA,NA,n/a,NA,NA,NS,unknown,F,S,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,308,43.6,Sockeye
+Deadpitch,11/3/2020,Week 6,20350193,Shingle Creek,NA,NA,40.5,0,NA,NA,n/a,NA,NA,NS,unknown,M,n/a,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,308,51.2,Sockeye
+Deadpitch,11/3/2020,Week 6,20350194,Shingle Creek,NA,NA,39.5,0,NA,NA,n/a,NA,NA,NS,unknown,F,N,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,308,49.9,Sockeye
+Deadpitch,11/3/2020,Week 6,20350195,Shingle Creek,NA,NA,39,0,NA,NA,n/a,NA,NA,NS,unknown,F,S,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,308,49.3,Sockeye
+Deadpitch,11/3/2020,Week 6,20350196,Shingle Creek,NA,NA,36,0,NA,NA,n/a,NA,NA,NS,unknown,F,S,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,308,45.5,Sockeye
+Deadpitch,11/3/2020,Week 6,20350197,Shingle Creek,NA,NA,36.5,0,NA,NA,n/a,NA,NA,NS,unknown,F,P,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,308,46.1,Sockeye
+Deadpitch,11/3/2020,Week 6,20350198,Shingle Creek,NA,NA,39.5,0,NA,NA,n/a,NA,NA,NS,unknown,M,n/a,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,308,49.9,Sockeye
+Deadpitch,11/3/2020,Week 6,20350199,Shingle Creek,NA,NA,40.5,0,NA,NA,n/a,NA,NA,NS,unknown,M,n/a,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,308,51.2,Sockeye
+Deadpitch,11/3/2020,Week 6,20350200,Shingle Creek,NA,NA,38.5,0,NA,NA,n/a,NA,NA,NS,unknown,F,S,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,308,48.6,Sockeye
+Deadpitch,11/3/2020,Week 6,20350201,Shingle Creek,NA,NA,37,0,NA,NA,n/a,NA,NA,NS,unknown,F,N,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,308,46.8,Sockeye
+Deadpitch,11/3/2020,Week 6,20350202,Shingle Creek,NA,NA,39.5,0,NA,NA,n/a,NA,NA,NS,unknown,M,n/a,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,308,49.9,Sockeye
+Deadpitch,11/3/2020,Week 6,20350203,Shingle Creek,NA,NA,40,0,NA,NA,n/a,NA,NA,NS,unknown,F,S,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,308,50.5,Sockeye
+Deadpitch,11/3/2020,Week 6,20350204,Shingle Creek,NA,NA,36,0,NA,NA,n/a,NA,NA,NS,unknown,F,P,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,308,45.5,Sockeye
+Deadpitch,11/3/2020,Week 6,20350205,Shingle Creek,NA,NA,38.5,0,NA,NA,n/a,NA,NA,NS,unknown,M,n/a,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,308,48.6,Sockeye
+Deadpitch,11/3/2020,Week 6,20350206,Shingle Creek,NA,NA,37,0,NA,NA,n/a,NA,NA,NS,unknown,F,N,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,308,46.8,Sockeye
+Deadpitch,11/3/2020,Week 6,20350207,Shingle Creek,NA,NA,38,0,NA,NA,n/a,NA,NA,NS,unknown,M,n/a,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,308,48,Sockeye
+Deadpitch,11/3/2020,Week 6,20350208,Shingle Creek,NA,NA,40,0,NA,NA,n/a,NA,NA,NS,unknown,M,n/a,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,308,50.5,Sockeye
+Deadpitch,11/3/2020,Week 6,20350209,Shingle Creek,NA,NA,41,0,NA,NA,n/a,NA,NA,NS,unknown,F,S,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,308,51.8,Sockeye
+Deadpitch,11/3/2020,Week 6,20350210,Shingle Creek,NA,NA,40,0,NA,NA,n/a,NA,NA,NS,unknown,M,n/a,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,308,50.5,Sockeye
+Deadpitch,11/3/2020,Week 6,20350211,Shingle Creek,NA,NA,40.5,0,NA,NA,n/a,NA,NA,NS,unknown,M,n/a,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,308,51.2,Sockeye
+Deadpitch,11/3/2020,Week 6,20350212,Shingle Creek,NA,NA,40.5,0,NA,NA,n/a,NA,NA,NS,unknown,F,S,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,308,51.2,Sockeye
+Deadpitch,11/3/2020,Week 6,20350213,Shingle Creek,NA,NA,39,0,NA,NA,n/a,NA,NA,NS,unknown,M,n/a,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,308,49.3,Sockeye
+Deadpitch,11/3/2020,Week 6,20350214,Shingle Creek,NA,NA,38,0,NA,NA,n/a,NA,NA,NS,unknown,M,n/a,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,308,48,Sockeye
+Deadpitch,11/3/2020,Week 6,20350215,Shingle Creek,NA,NA,37,0,NA,NA,n/a,NA,NA,NS,unknown,F,N,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,308,46.8,Sockeye
+Deadpitch,11/3/2020,Week 6,20350216,Shingle Creek,NA,NA,40,0,NA,NA,n/a,NA,NA,NS,unknown,M,n/a,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,308,50.5,Sockeye
+Deadpitch,11/3/2020,Week 6,20350217,Shingle Creek,NA,NA,40,0,NA,NA,n/a,NA,NA,NS,unknown,M,n/a,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,308,50.5,Sockeye
+Deadpitch,11/3/2020,Week 6,20350218,Shingle Creek,NA,NA,25,0,NA,NA,n/a,NA,NA,NS,unknown,F,N,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,308,31.6,Kokanee
+Deadpitch,11/3/2020,Week 6,20350219,Shingle Creek,NA,NA,41.5,0,NA,NA,n/a,NA,NA,NS,unknown,F,S,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,308,52.4,Sockeye
+Deadpitch,11/3/2020,Week 6,20350220,Shingle Creek,NA,NA,30,0,NA,NA,n/a,NA,NA,NS,unknown,M,n/a,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,308,37.9,Sockeye
+Deadpitch,11/3/2020,Week 6,20350221,Shingle Creek,NA,NA,35.5,0,NA,NA,n/a,NA,NA,NS,unknown,M,n/a,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,308,44.9,Sockeye
+Deadpitch,11/3/2020,Week 6,20350222,Shingle Creek,NA,NA,39,0,NA,NA,n/a,NA,NA,NS,unknown,M,n/a,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,308,49.3,Sockeye
+Deadpitch,11/3/2020,Week 6,20350223,Shingle Creek,NA,NA,38,0,NA,NA,n/a,NA,NA,NS,unknown,M,n/a,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,308,48,Sockeye
+Deadpitch,11/3/2020,Week 6,20350224,Shingle Creek,NA,NA,40,0,NA,NA,n/a,NA,NA,NS,unknown,F,S,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,308,50.5,Sockeye
+Deadpitch,11/3/2020,Week 6,20350225,Shingle Creek,NA,NA,40,0,NA,NA,n/a,NA,NA,NS,unknown,M,n/a,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,308,50.5,Sockeye
+Deadpitch,11/3/2020,Week 6,20350226,Shingle Creek,NA,NA,39,0,NA,NA,n/a,NA,NA,NS,unknown,M,n/a,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,308,49.3,Sockeye
+Deadpitch,11/3/2020,Week 6,20350227,Shingle Creek,NA,NA,42,0,NA,NA,n/a,NA,NA,NS,unknown,M,n/a,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,308,53.1,Sockeye
+Deadpitch,11/3/2020,Week 6,20350228,Shingle Creek,NA,NA,40.5,0,NA,NA,n/a,NA,NA,NS,unknown,F,P,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,308,51.2,Sockeye
+Deadpitch,11/3/2020,Week 6,20350229,Shingle Creek,NA,NA,41,0,NA,NA,n/a,NA,NA,NS,unknown,M,n/a,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,308,51.8,Sockeye
+Deadpitch,11/3/2020,Week 6,20350230,Shingle Creek,NA,NA,35.5,0,NA,NA,n/a,NA,NA,NS,unknown,M,n/a,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,308,44.9,Sockeye
+Deadpitch,11/3/2020,Week 6,20350231,Shingle Creek,NA,NA,39.5,0,NA,NA,n/a,NA,NA,NS,unknown,M,n/a,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,308,49.9,Sockeye
+Deadpitch,11/3/2020,Week 6,20350232,Shingle Creek,NA,NA,41,0,NA,NA,n/a,NA,NA,NS,unknown,F,N,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,308,51.8,Sockeye
+Deadpitch,11/3/2020,Week 6,20350233,Shingle Creek,NA,NA,40,0,NA,NA,n/a,NA,NA,NS,unknown,M,n/a,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,308,50.5,Sockeye
+Deadpitch,11/3/2020,Week 6,20350234,Shingle Creek,NA,NA,39.5,0,NA,NA,n/a,NA,NA,NS,unknown,M,n/a,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,308,49.9,Sockeye
+Deadpitch,11/3/2020,Week 6,20350235,Shingle Creek,NA,NA,38.5,0,NA,NA,n/a,NA,NA,NS,unknown,F,S,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,308,48.6,Sockeye
+Deadpitch,11/3/2020,Week 6,20350236,Shingle Creek,NA,NA,36.5,0,NA,NA,n/a,NA,NA,NS,unknown,F,N,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,308,46.1,Sockeye
+Deadpitch,11/3/2020,Week 6,20350237,Shingle Creek,NA,NA,38,0,NA,NA,n/a,NA,NA,NS,unknown,F,N,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,308,48,Sockeye
+Deadpitch,11/3/2020,Week 6,20350238,Shingle Creek,NA,NA,40,0,NA,NA,n/a,NA,NA,NS,unknown,M,n/a,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,308,50.5,Sockeye
+Deadpitch,11/3/2020,Week 6,20350239,Shingle Creek,NA,NA,41.5,0,NA,NA,n/a,NA,NA,NS,unknown,F,P,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,308,52.4,Sockeye
+Deadpitch,11/3/2020,Week 6,20350240,Shingle Creek,NA,NA,38,0,NA,NA,n/a,NA,NA,NS,unknown,F,P,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,308,48,Sockeye
+Deadpitch,11/3/2020,Week 6,20350241,Shingle Creek,NA,NA,40,0,NA,NA,n/a,NA,NA,NS,unknown,M,n/a,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,308,50.5,Sockeye
+Deadpitch,11/3/2020,Week 6,20350242,Shingle Creek,NA,NA,40,0,NA,NA,n/a,NA,NA,NS,unknown,M,n/a,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,308,50.5,Sockeye
+Deadpitch,11/3/2020,Week 6,20350243,Shingle Creek,NA,NA,37.5,0,NA,NA,n/a,NA,NA,NS,unknown,F,P,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,308,47.4,Sockeye
+Deadpitch,11/3/2020,Week 6,20350244,Shingle Creek,NA,NA,37.5,0,NA,NA,n/a,NA,NA,NS,unknown,F,P,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,308,47.4,Sockeye
+Deadpitch,11/3/2020,Week 6,20350245,Shingle Creek,NA,NA,38,0,NA,NA,n/a,NA,NA,NS,unknown,M,n/a,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,308,48,Sockeye
+Deadpitch,11/3/2020,Week 6,20350246,Shingle Creek,NA,NA,38,0,NA,NA,n/a,NA,NA,NS,unknown,F,S,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,308,48,Sockeye
+Deadpitch,11/3/2020,Week 6,20350247,Shingle Creek,NA,NA,41.5,0,NA,NA,n/a,NA,NA,NS,unknown,F,S,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,308,52.4,Sockeye
+Deadpitch,11/3/2020,Week 6,20350248,Shingle Creek,NA,NA,40,0,NA,NA,n/a,NA,NA,NS,unknown,M,n/a,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,308,50.5,Sockeye
+Deadpitch,11/3/2020,Week 6,20350249,Shingle Creek,NA,NA,40,0,NA,NA,n/a,NA,NA,NS,unknown,M,n/a,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,308,50.5,Sockeye
+Deadpitch,11/3/2020,Week 6,20350250,Shingle Creek,NA,NA,41.5,0,NA,NA,n/a,NA,NA,NS,unknown,F,S,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,308,52.4,Sockeye
+Deadpitch,11/3/2020,Week 6,20350251,Shingle Creek,NA,NA,40,0,NA,NA,n/a,NA,NA,NS,unknown,M,n/a,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,308,50.5,Sockeye
+Deadpitch,11/3/2020,Week 6,20350252,Shingle Creek,NA,NA,40.5,0,NA,NA,n/a,NA,NA,NS,unknown,F,P,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,308,51.2,Sockeye
+Deadpitch,11/3/2020,Week 6,20350253,Shingle Creek,NA,NA,38,0,NA,NA,n/a,NA,NA,NS,unknown,F,S,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,308,48,Sockeye
+Deadpitch,11/3/2020,Week 6,20350254,Shingle Creek,NA,NA,38,0,NA,NA,n/a,NA,NA,NS,unknown,F,S,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,308,48,Sockeye
+Deadpitch,11/3/2020,Week 6,20350255,Shingle Creek,NA,NA,39,0,NA,NA,n/a,NA,NA,NS,unknown,F,S,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,308,49.3,Sockeye
+Deadpitch,11/3/2020,Week 6,20350256,Shingle Creek,NA,NA,39,0,NA,NA,n/a,NA,NA,NS,unknown,F,S,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,308,49.3,Sockeye
+Deadpitch,11/3/2020,Week 6,20350257,Shingle Creek,NA,NA,37,0,NA,NA,n/a,NA,NA,NS,unknown,F,S,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,308,46.8,Sockeye
+Deadpitch,11/3/2020,Week 6,20350258,Shingle Creek,NA,NA,42,0,NA,NA,n/a,NA,NA,NS,unknown,M,n/a,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,308,53.1,Sockeye
+Deadpitch,11/3/2020,Week 6,20350259,Shingle Creek,NA,NA,42.5,0,NA,NA,n/a,NA,NA,NS,unknown,F,P,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,308,53.7,Sockeye
+Deadpitch,11/3/2020,Week 6,20350260,Shingle Creek,NA,NA,40,0,NA,NA,n/a,NA,NA,NS,unknown,F,S,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,308,50.5,Sockeye
+Deadpitch,11/3/2020,Week 6,20350261,Shingle Creek,NA,NA,38,0,NA,NA,n/a,NA,NA,NS,unknown,M,n/a,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,308,48,Sockeye
+Deadpitch,11/3/2020,Week 6,20350262,Shingle Creek,NA,NA,40.5,0,NA,NA,n/a,NA,NA,NS,unknown,F,P,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,308,51.2,Sockeye
+Deadpitch,11/3/2020,Week 6,20350263,Shingle Creek,NA,NA,41.5,0,NA,NA,n/a,NA,NA,NS,unknown,F,S,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,308,52.4,Sockeye
+Deadpitch,11/3/2020,Week 6,20350264,Shingle Creek,NA,NA,40,0,NA,NA,n/a,NA,NA,NS,unknown,F,P,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,308,50.5,Sockeye
+Deadpitch,11/3/2020,Week 6,20350265,Shingle Creek,NA,NA,39.5,0,NA,NA,n/a,NA,NA,NS,unknown,M,n/a,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,308,49.9,Sockeye
+Deadpitch,11/3/2020,Week 6,20350266,Shingle Creek,NA,NA,39.5,0,NA,NA,n/a,NA,NA,NS,unknown,F,N,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,308,49.9,Sockeye
+Deadpitch,11/3/2020,Week 6,20350267,Shingle Creek,NA,NA,42,0,NA,NA,n/a,NA,NA,NS,unknown,M,n/a,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,308,53.1,Sockeye
+Deadpitch,11/3/2020,Week 6,20350268,Shingle Creek,NA,NA,37,0,NA,NA,n/a,NA,NA,NS,unknown,F,S,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,308,46.8,Sockeye
+Deadpitch,11/3/2020,Week 6,20350269,Shingle Creek,NA,NA,39.5,0,NA,NA,n/a,NA,NA,NS,unknown,M,n/a,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,308,49.9,Sockeye
+Deadpitch,11/3/2020,Week 6,20350270,Shingle Creek,NA,NA,43.5,0,NA,NA,n/a,NA,NA,NS,unknown,F,P,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,308,55,Sockeye
+Deadpitch,11/3/2020,Week 6,20350271,Shingle Creek,NA,NA,36.5,0,NA,NA,n/a,NA,NA,NS,unknown,M,n/a,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,308,46.1,Sockeye
+Deadpitch,11/3/2020,Week 6,20350272,Shingle Creek,NA,NA,42,0,NA,NA,n/a,NA,NA,NS,unknown,M,n/a,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,308,53.1,Sockeye
+Deadpitch,11/3/2020,Week 6,20350273,Shingle Creek,NA,NA,30.5,0,NA,NA,n/a,NA,NA,NS,unknown,M,n/a,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,308,38.6,Sockeye
+Deadpitch,11/3/2020,Week 6,20350274,Shingle Creek,NA,NA,37.5,0,NA,NA,n/a,NA,NA,NS,unknown,M,n/a,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,308,47.4,Sockeye
+Deadpitch,11/3/2020,Week 6,20350275,Shingle Creek,NA,47,37.5,0,NA,NA,n/a,NA,NA,NS,unknown,M,n/a,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,308,47,Sockeye
+Deadpitch,11/3/2020,Week 6,20350276,Shingle Creek,NA,NA,38.5,0,NA,NA,n/a,NA,NA,NS,unknown,F,P,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,308,48.6,Sockeye
+Deadpitch,11/3/2020,Week 6,20350277,Shingle Creek,NA,NA,44.5,0,NA,NA,n/a,NA,NA,NS,unknown,F,P,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,308,56.2,Sockeye
+Deadpitch,11/3/2020,Week 6,20350278,Shingle Creek,NA,NA,39.5,0,NA,NA,n/a,NA,NA,NS,unknown,M,n/a,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,308,49.9,Sockeye
+Deadpitch,11/3/2020,Week 6,20350279,Shingle Creek,NA,NA,41.5,0,NA,NA,n/a,NA,NA,NS,unknown,M,n/a,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,308,52.4,Sockeye
+Deadpitch,11/3/2020,Week 6,20350280,Shingle Creek,NA,NA,40,0,NA,NA,n/a,NA,NA,NS,unknown,M,n/a,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,308,50.5,Sockeye
+Deadpitch,11/3/2020,Week 6,20350281,Shingle Creek,NA,NA,39,0,NA,NA,n/a,NA,NA,NS,unknown,F,S,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,308,49.3,Sockeye
+Deadpitch,11/3/2020,Week 6,20350282,Shingle Creek,NA,NA,40,0,NA,NA,n/a,NA,NA,NS,unknown,M,n/a,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,308,50.5,Sockeye
+Deadpitch,11/3/2020,Week 6,20350283,Shingle Creek,NA,NA,39,0,NA,NA,n/a,NA,NA,NS,unknown,F,N,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,308,49.3,Sockeye
+Deadpitch,11/3/2020,Week 6,20350284,Shingle Creek,NA,NA,38,0,NA,NA,n/a,NA,NA,NS,unknown,F,N,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,308,48,Sockeye
+Deadpitch,11/3/2020,Week 6,20350285,Shingle Creek,NA,NA,38,0,NA,NA,n/a,NA,NA,NS,unknown,F,N,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,308,48,Sockeye
+Deadpitch,11/3/2020,Week 6,20350286,Shingle Creek,NA,NA,41,0,NA,NA,n/a,NA,NA,NS,unknown,F,P,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,308,51.8,Sockeye
+Deadpitch,11/3/2020,Week 6,20350287,Shingle Creek,NA,NA,43,0,NA,NA,n/a,NA,NA,NS,unknown,F,P,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,308,54.3,Sockeye
+Deadpitch,11/3/2020,Week 6,20350288,Shingle Creek,NA,NA,40.5,0,NA,NA,n/a,NA,NA,NS,unknown,F,P,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,308,51.2,Sockeye
+Deadpitch,11/3/2020,Week 6,20350289,Shingle Creek,NA,NA,40,0,NA,NA,n/a,NA,NA,NS,unknown,F,P,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,308,50.5,Sockeye
+Deadpitch,11/3/2020,Week 6,20350290,Shingle Creek,NA,NA,40,0,NA,NA,n/a,NA,NA,NS,unknown,M,n/a,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,308,50.5,Sockeye
+Deadpitch,11/3/2020,Week 6,20350291,Shingle Creek,NA,NA,36,0,NA,NA,n/a,NA,NA,NS,unknown,F,S,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,308,45.5,Sockeye
+Deadpitch,11/3/2020,Week 6,20350292,Shingle Creek,NA,NA,38.5,0,NA,NA,n/a,NA,NA,NS,unknown,F,N,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,308,48.6,Sockeye
+Deadpitch,11/3/2020,Week 6,20350293,Shingle Creek,NA,NA,31.5,0,NA,NA,n/a,NA,NA,NS,unknown,M,n/a,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,308,39.8,Sockeye
+Deadpitch,11/3/2020,Week 6,20350294,Shingle Creek,NA,NA,37,0,NA,NA,n/a,NA,NA,NS,unknown,F,P,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,308,46.8,Sockeye
+Deadpitch,11/3/2020,Week 6,20350295,Shingle Creek,NA,NA,39,0,NA,NA,n/a,NA,NA,NS,unknown,M,n/a,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,308,49.3,Sockeye
+Deadpitch,11/3/2020,Week 6,20350296,Shingle Creek,NA,NA,36.5,0,NA,NA,n/a,NA,NA,NS,unknown,F,P,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,308,46.1,Sockeye
+Deadpitch,11/3/2020,Week 6,20350297,Shingle Creek,NA,NA,38,0,NA,NA,n/a,NA,NA,NS,unknown,F,N,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,308,48,Sockeye
+Deadpitch,11/3/2020,Week 6,20350298,Shingle Creek,NA,NA,43,0,NA,NA,n/a,NA,NA,NS,unknown,F,N,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,308,54.3,Sockeye
+Deadpitch,11/3/2020,Week 6,20350299,Shingle Creek,NA,NA,42,0,NA,NA,n/a,NA,NA,NS,unknown,M,n/a,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,308,53.1,Sockeye
+Deadpitch,11/3/2020,Week 6,20350300,Shingle Creek,NA,NA,40,0,NA,NA,n/a,NA,NA,NS,unknown,M,n/a,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,308,50.5,Sockeye
+Deadpitch,11/3/2020,Week 6,20350301,Shingle Creek,NA,NA,39.5,0,NA,NA,n/a,NA,NA,NS,unknown,M,n/a,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,308,49.9,Sockeye
+Deadpitch,11/3/2020,Week 6,20350302,Shingle Creek,NA,NA,35,0,NA,NA,n/a,NA,NA,NS,unknown,M,n/a,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,308,44.2,Sockeye
+Deadpitch,11/3/2020,Week 6,20350303,Shingle Creek,NA,NA,28,0,NA,NA,n/a,NA,NA,NS,unknown,M,n/a,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,308,35.4,Sockeye
+Deadpitch,11/3/2020,Week 6,20350304,Shingle Creek,NA,NA,40,0,NA,NA,n/a,NA,NA,NS,unknown,M,n/a,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,308,50.5,Sockeye
+Deadpitch,11/3/2020,Week 6,20350305,Shingle Creek,NA,NA,42.5,0,NA,NA,n/a,NA,NA,NS,unknown,F,N,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,308,53.7,Sockeye
+Deadpitch,11/3/2020,Week 6,20350306,Shingle Creek,NA,NA,39,0,NA,NA,n/a,NA,NA,NS,unknown,M,n/a,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,308,49.3,Sockeye
+Deadpitch,11/3/2020,Week 6,20350307,Shingle Creek,NA,NA,39.5,0,NA,NA,n/a,NA,NA,NS,unknown,M,n/a,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,308,49.9,Sockeye
+Deadpitch,11/3/2020,Week 6,20350308,Shingle Creek,NA,NA,42,0,NA,NA,n/a,NA,NA,NS,unknown,F,P,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,308,53.1,Sockeye
+Deadpitch,11/3/2020,Week 6,20350309,Shingle Creek,NA,NA,40.5,0,NA,NA,n/a,NA,NA,NS,unknown,F,P,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,308,51.2,Sockeye
+Deadpitch,11/3/2020,Week 6,20350310,Shingle Creek,NA,NA,40,0,NA,NA,n/a,NA,NA,NS,unknown,M,n/a,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,308,50.5,Sockeye
+Deadpitch,11/3/2020,Week 6,20350311,Shingle Creek,NA,NA,41,0,NA,NA,n/a,NA,NA,NS,unknown,M,n/a,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,308,51.8,Sockeye
+Deadpitch,11/3/2020,Week 6,20350312,Shingle Creek,NA,NA,39.5,0,NA,NA,n/a,NA,NA,NS,unknown,M,n/a,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,308,49.9,Sockeye
+Deadpitch,11/3/2020,Week 6,20350313,Shingle Creek,NA,NA,41.5,0,NA,NA,n/a,NA,NA,NS,unknown,M,n/a,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,308,52.4,Sockeye
+Deadpitch,11/3/2020,Week 6,20350314,Shingle Creek,NA,NA,42.5,0,NA,NA,n/a,NA,NA,NS,unknown,M,n/a,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,308,53.7,Sockeye
+Deadpitch,11/3/2020,Week 6,20350315,Shingle Creek,NA,NA,40,0,NA,NA,n/a,NA,NA,NS,unknown,M,n/a,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,308,50.5,Sockeye
+Deadpitch,11/3/2020,Week 6,20350316,Shingle Creek,NA,NA,39.5,0,NA,NA,n/a,NA,NA,NS,unknown,F,S,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,308,49.9,Sockeye
+Deadpitch,11/3/2020,Week 6,20350317,Shingle Creek,NA,NA,38.5,0,NA,NA,n/a,NA,NA,NS,unknown,M,n/a,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,308,48.6,Sockeye
+Deadpitch,11/3/2020,Week 6,20350318,Shingle Creek,NA,NA,39,0,NA,NA,n/a,NA,NA,NS,unknown,F,N,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,308,49.3,Sockeye
+Deadpitch,11/3/2020,Week 6,20350319,Shingle Creek,NA,NA,40,0,NA,NA,n/a,NA,NA,NS,unknown,F,N,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,308,50.5,Sockeye
+Deadpitch,11/3/2020,Week 6,20350320,Shingle Creek,NA,NA,40,0,NA,NA,n/a,NA,NA,NS,unknown,M,n/a,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,308,50.5,Sockeye
+Deadpitch,11/3/2020,Week 6,20350321,Shingle Creek,NA,NA,38.5,0,NA,NA,n/a,NA,NA,NS,unknown,M,n/a,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,308,48.6,Sockeye
+Deadpitch,11/3/2020,Week 6,20350322,Shingle Creek,NA,NA,40,0,NA,NA,n/a,NA,NA,NS,unknown,M,n/a,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,308,50.5,Sockeye
+Deadpitch,11/3/2020,Week 6,20350323,Shingle Creek,NA,NA,39,0,NA,NA,n/a,NA,NA,NS,unknown,M,n/a,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,308,49.3,Sockeye
+Deadpitch,11/3/2020,Week 6,20350324,Shingle Creek,NA,NA,39,0,NA,NA,n/a,NA,NA,NS,unknown,F,P,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,308,49.3,Sockeye
+Deadpitch,11/3/2020,Week 6,20350325,Shingle Creek,NA,NA,37.5,0,NA,NA,n/a,NA,NA,NS,unknown,M,n/a,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,308,47.4,Sockeye
+Deadpitch,11/3/2020,Week 6,20350326,Shingle Creek,NA,NA,41,0,NA,NA,n/a,NA,NA,NS,unknown,M,n/a,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,308,51.8,Sockeye
+Deadpitch,11/3/2020,Week 6,20350327,Shingle Creek,NA,NA,38,0,NA,NA,n/a,NA,NA,NS,unknown,F,P,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,308,48,Sockeye
+Deadpitch,11/3/2020,Week 6,20350328,Shingle Creek,NA,NA,29.5,0,NA,NA,n/a,NA,NA,NS,unknown,M,n/a,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,308,37.3,Sockeye
+Deadpitch,11/3/2020,Week 6,20350329,Shingle Creek,NA,NA,40.5,0,NA,NA,n/a,NA,NA,NS,unknown,M,n/a,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,308,51.2,Sockeye
+Deadpitch,11/3/2020,Week 6,20350330,Shingle Creek,NA,NA,41,0,NA,NA,n/a,NA,NA,NS,unknown,F,P,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,308,51.8,Sockeye
+Deadpitch,11/3/2020,Week 6,20350331,Shingle Creek,NA,NA,45,0,NA,NA,n/a,NA,NA,NS,unknown,M,n/a,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,308,56.8,Sockeye
+Deadpitch,11/3/2020,Week 6,20350332,Shingle Creek,NA,NA,41,0,NA,NA,n/a,NA,NA,NS,unknown,F,N,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,308,51.8,Sockeye
+Deadpitch,11/3/2020,Week 6,20350333,Shingle Creek,NA,NA,41.5,0,NA,NA,n/a,NA,NA,NS,unknown,M,n/a,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,308,52.4,Sockeye
+Deadpitch,11/3/2020,Week 6,20350334,Shingle Creek,NA,NA,21,0,NA,NA,n/a,NA,NA,NS,unknown,F,N,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,308,26.6,Kokanee
+Deadpitch,11/10/2020,Week 7,20350335,Shingle Creek,NA,NA,38.5,0,NA,NA,n/a,NA,NA,NS,unknown,F,N,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,315,48.6,Sockeye
+Deadpitch,11/10/2020,Week 7,20350336,Shingle Creek,NA,NA,41,0,NA,NA,n/a,NA,NA,NS,unknown,M,n/a,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,315,51.8,Sockeye
+Deadpitch,11/10/2020,Week 7,20350337,Shingle Creek,NA,NA,36.5,0,NA,NA,n/a,NA,NA,NS,unknown,M,n/a,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,315,46.1,Sockeye
+Deadpitch,11/10/2020,Week 7,20350338,Shingle Creek,NA,NA,42.5,0,NA,NA,n/a,NA,NA,NS,unknown,F,S,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,315,53.7,Sockeye
+Deadpitch,11/10/2020,Week 7,20350339,Shingle Creek,NA,NA,39,0,NA,NA,n/a,NA,NA,NS,unknown,F,S,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,315,49.3,Sockeye
+Deadpitch,11/10/2020,Week 7,20350340,Shingle Creek,NA,48,37,0,NA,NA,n/a,NA,NA,NS,unknown,M,n/a,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,315,48,Sockeye
+Deadpitch,11/10/2020,Week 7,20350341,Shingle Creek,NA,NA,40.5,0,NA,NA,n/a,NA,NA,NS,unknown,F,P,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,315,51.2,Sockeye
+Deadpitch,11/10/2020,Week 7,20350342,Shingle Creek,NA,NA,39,0,NA,NA,n/a,NA,NA,NS,unknown,F,S,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,315,49.3,Sockeye
+Deadpitch,11/10/2020,Week 7,20350343,Shingle Creek,NA,NA,38.5,0,NA,NA,n/a,NA,NA,NS,unknown,M,n/a,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,315,48.6,Sockeye
+Deadpitch,11/10/2020,Week 7,20350344,Shingle Creek,NA,NA,33,0,NA,NA,n/a,NA,NA,NS,unknown,M,n/a,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,315,41.7,Sockeye
+Deadpitch,11/10/2020,Week 7,20350345,Shingle Creek,NA,NA,38.5,0,NA,NA,n/a,NA,NA,NS,unknown,M,n/a,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,315,48.6,Sockeye
+Deadpitch,11/10/2020,Week 7,20350346,Shingle Creek,NA,NA,36,0,NA,NA,n/a,NA,NA,NS,unknown,F,N,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,315,45.5,Sockeye
+Deadpitch,11/10/2020,Week 7,20350347,Shingle Creek,NA,NA,40,0,NA,NA,n/a,NA,NA,NS,unknown,M,n/a,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,315,50.5,Sockeye
+Deadpitch,11/10/2020,Week 7,20350348,Shingle Creek,NA,NA,36,0,NA,NA,n/a,NA,NA,NS,unknown,M,n/a,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,315,45.5,Sockeye
+Deadpitch,11/10/2020,Week 7,20350349,Shingle Creek,NA,NA,41,0,NA,NA,n/a,NA,NA,NS,unknown,F,S,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,315,51.8,Sockeye
+Deadpitch,11/10/2020,Week 7,20350350,Shingle Creek,NA,NA,39.5,0,NA,NA,n/a,NA,NA,NS,unknown,M,n/a,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,315,49.9,Sockeye
+Deadpitch,11/10/2020,Week 7,20350351,Shingle Creek,NA,NA,41,0,NA,NA,n/a,NA,NA,NS,unknown,F,S,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,315,51.8,Sockeye
+Deadpitch,11/10/2020,Week 7,20350352,Shingle Creek,NA,NA,38,0,NA,NA,n/a,NA,NA,NS,unknown,M,n/a,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,315,48,Sockeye
+Deadpitch,11/10/2020,Week 7,20350353,Shingle Creek,NA,NA,35,0,NA,NA,n/a,NA,NA,NS,unknown,F,S,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,315,44.2,Sockeye
+Deadpitch,11/10/2020,Week 7,20350354,Shingle Creek,NA,NA,38,0,NA,NA,n/a,NA,NA,NS,unknown,M,n/a,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,315,48,Sockeye
+Deadpitch,11/10/2020,Week 7,20350355,Shingle Creek,NA,NA,40,0,NA,NA,n/a,NA,NA,NS,unknown,M,n/a,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,315,50.5,Sockeye
+Deadpitch,11/10/2020,Week 7,20350356,Shingle Creek,NA,NA,36.5,0,NA,NA,n/a,NA,NA,NS,unknown,M,n/a,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,315,46.1,Sockeye
+Deadpitch,11/10/2020,Week 7,20350357,Shingle Creek,NA,NA,39,0,NA,NA,n/a,NA,NA,NS,unknown,M,n/a,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,315,49.3,Sockeye
+Deadpitch,11/10/2020,Week 7,20350358,Shingle Creek,NA,NA,38,0,NA,NA,n/a,NA,NA,NS,unknown,M,n/a,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,315,48,Sockeye
+Deadpitch,11/10/2020,Week 7,20350359,Shingle Creek,NA,NA,36,0,NA,NA,n/a,NA,NA,NS,unknown,M,n/a,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,315,45.5,Sockeye
+Deadpitch,11/10/2020,Week 7,20350360,Shingle Creek,NA,NA,36.5,0,NA,NA,n/a,NA,NA,NS,unknown,M,n/a,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,315,46.1,Sockeye
+Deadpitch,11/10/2020,Week 7,20350361,Shingle Creek,NA,NA,36,0,NA,NA,n/a,NA,NA,NS,unknown,M,n/a,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,315,45.5,Sockeye
+Deadpitch,11/10/2020,Week 7,20350362,Shingle Creek,NA,NA,36,0,NA,NA,n/a,NA,NA,NS,unknown,M,n/a,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,315,45.5,Sockeye
+Deadpitch,11/10/2020,Week 7,20350363,Shingle Creek,NA,NA,39.5,0,NA,NA,n/a,NA,NA,NS,unknown,F,N,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,315,49.9,Sockeye
+Deadpitch,11/10/2020,Week 7,20350364,Shingle Creek,NA,48.5,38.5,0,NA,NA,n/a,NA,NA,NS,unknown,M,n/a,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,315,48.5,Sockeye
+Deadpitch,11/10/2020,Week 7,20350365,Shingle Creek,NA,NA,37,0,NA,NA,n/a,NA,NA,NS,unknown,M,n/a,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,315,46.8,Sockeye
+Deadpitch,11/10/2020,Week 7,20350366,Shingle Creek,NA,NA,34.5,0,NA,NA,n/a,NA,NA,NS,unknown,M,n/a,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,315,43.6,Sockeye
+Deadpitch,11/10/2020,Week 7,20350367,Shingle Creek,NA,NA,37.5,0,NA,NA,n/a,NA,NA,NS,unknown,F,S,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,315,47.4,Sockeye
+Deadpitch,11/10/2020,Week 7,20350368,Shingle Creek,NA,NA,38,0,NA,NA,n/a,NA,NA,NS,unknown,F,S,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,315,48,Sockeye
+Deadpitch,11/10/2020,Week 7,20350369,Shingle Creek,NA,NA,40,0,NA,NA,n/a,NA,NA,NS,unknown,M,n/a,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,315,50.5,Sockeye
+Deadpitch,11/10/2020,Week 7,20350370,Shingle Creek,NA,NA,39,0,NA,NA,n/a,NA,NA,NS,unknown,F,S,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,315,49.3,Sockeye
+Deadpitch,11/10/2020,Week 7,20350371,Shingle Creek,NA,NA,36.5,0,NA,NA,n/a,NA,NA,NS,unknown,M,n/a,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,315,46.1,Sockeye
+Deadpitch,11/10/2020,Week 7,20350372,Shingle Creek,NA,NA,38,0,NA,NA,n/a,NA,NA,NS,unknown,F,S,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,315,48,Sockeye
+Deadpitch,11/10/2020,Week 7,20350373,Shingle Creek,NA,NA,40.5,0,NA,NA,n/a,NA,NA,NS,unknown,F,S,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,315,51.2,Sockeye
+Deadpitch,11/10/2020,Week 7,20350374,Shingle Creek,NA,NA,35.5,0,NA,NA,n/a,NA,NA,NS,unknown,F,S,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,315,44.9,Sockeye
+Deadpitch,11/10/2020,Week 7,20350375,Shingle Creek,NA,NA,31.5,0,NA,NA,n/a,NA,NA,NS,unknown,F,N,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,315,39.8,Sockeye
+Deadpitch,11/10/2020,Week 7,20350376,Shingle Creek,NA,NA,35,0,NA,NA,n/a,NA,NA,NS,unknown,F,P,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,315,44.2,Sockeye
+Deadpitch,11/10/2020,Week 7,20350377,Shingle Creek,NA,NA,38.5,0,NA,NA,n/a,NA,NA,NS,unknown,F,P,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,315,48.6,Sockeye
+Deadpitch,11/10/2020,Week 7,20350378,Shingle Creek,NA,NA,36.5,0,NA,NA,n/a,NA,NA,NS,unknown,M,n/a,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,315,46.1,Sockeye
+Deadpitch,11/10/2020,Week 7,20350379,Shingle Creek,NA,NA,30,0,NA,NA,n/a,NA,NA,NS,unknown,M,n/a,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,315,37.9,Sockeye
+Deadpitch,11/10/2020,Week 7,20350380,Shingle Creek,NA,NA,37,0,NA,NA,n/a,NA,NA,NS,unknown,F,P,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,315,46.8,Sockeye
+Deadpitch,11/10/2020,Week 7,20350381,Shingle Creek,NA,NA,38,0,NA,NA,n/a,NA,NA,NS,unknown,M,n/a,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,315,48,Sockeye
+Deadpitch,11/10/2020,Week 7,20350382,Shingle Creek,NA,NA,40.5,0,NA,NA,n/a,NA,NA,NS,unknown,M,n/a,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,315,51.2,Sockeye
+Deadpitch,11/10/2020,Week 7,20350383,Shingle Creek,NA,NA,38.5,0,NA,NA,n/a,NA,NA,NS,unknown,F,P,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,315,48.6,Sockeye
+Deadpitch,11/10/2020,Week 7,20350384,Shingle Creek,NA,NA,39.5,0,NA,NA,n/a,NA,NA,NS,unknown,F,S,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,315,49.9,Sockeye
+Deadpitch,11/10/2020,Week 7,20350385,Shingle Creek,NA,NA,40,0,NA,NA,n/a,NA,NA,NS,unknown,M,n/a,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,315,50.5,Sockeye
+Deadpitch,11/10/2020,Week 7,20350386,Shingle Creek,NA,NA,36.5,0,NA,NA,n/a,NA,NA,NS,unknown,F,S,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,315,46.1,Sockeye
+Deadpitch,11/10/2020,Week 7,20350387,Shingle Creek,NA,NA,38.5,0,NA,NA,n/a,NA,NA,NS,unknown,M,n/a,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,315,48.6,Sockeye
+Deadpitch,11/10/2020,Week 7,20350388,Shingle Creek,NA,NA,39.5,0,NA,NA,n/a,NA,NA,NS,unknown,M,n/a,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,315,49.9,Sockeye
+Deadpitch,11/10/2020,Week 7,20350389,Shingle Creek,NA,NA,39,0,NA,NA,n/a,NA,NA,NS,unknown,M,n/a,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,315,49.3,Sockeye
+Deadpitch,11/10/2020,Week 7,20350390,Shingle Creek,NA,NA,36,0,NA,NA,n/a,NA,NA,NS,unknown,F,S,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,315,45.5,Sockeye
+Deadpitch,11/10/2020,Week 7,20350391,Shingle Creek,NA,NA,37.5,0,NA,NA,n/a,NA,NA,NS,unknown,M,n/a,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,315,47.4,Sockeye
+Deadpitch,11/10/2020,Week 7,20350392,Shingle Creek,NA,NA,38,0,NA,NA,n/a,NA,NA,NS,unknown,M,n/a,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,315,48,Sockeye
+Deadpitch,11/10/2020,Week 7,20350393,Shingle Creek,NA,NA,38,0,NA,NA,n/a,NA,NA,NS,unknown,M,n/a,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,315,48,Sockeye
+Deadpitch,11/10/2020,Week 7,20350394,Shingle Creek,NA,NA,37.5,0,NA,NA,n/a,NA,NA,NS,unknown,M,n/a,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,315,47.4,Sockeye
+Deadpitch,11/10/2020,Week 7,20350395,Shingle Creek,NA,NA,39,0,NA,NA,n/a,NA,NA,NS,unknown,F,P,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,315,49.3,Sockeye
+Deadpitch,11/10/2020,Week 7,20350396,Shingle Creek,NA,NA,36.5,0,NA,NA,n/a,NA,NA,NS,unknown,F,S,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,315,46.1,Sockeye
+Deadpitch,11/10/2020,Week 7,20350397,Shingle Creek,NA,NA,38,0,NA,NA,n/a,NA,NA,NS,unknown,M,n/a,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,315,48,Sockeye
+Deadpitch,11/10/2020,Week 7,20350398,Shingle Creek,NA,NA,38.5,0,NA,NA,n/a,NA,NA,NS,unknown,M,n/a,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,315,48.6,Sockeye
+Deadpitch,11/10/2020,Week 7,20350399,Shingle Creek,NA,NA,36,0,NA,NA,n/a,NA,NA,NS,unknown,F,P,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,315,45.5,Sockeye
+Deadpitch,11/10/2020,Week 7,20350400,Shingle Creek,NA,NA,38,0,NA,NA,n/a,NA,NA,NS,unknown,M,n/a,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,315,48,Sockeye
+Deadpitch,11/10/2020,Week 7,20350401,Shingle Creek,NA,NA,38.5,0,NA,NA,n/a,NA,NA,NS,unknown,M,n/a,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,315,48.6,Sockeye
+Deadpitch,11/10/2020,Week 7,20350402,Shingle Creek,NA,NA,40,0,NA,NA,n/a,NA,NA,NS,unknown,M,n/a,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,315,50.5,Sockeye
+Deadpitch,11/10/2020,Week 7,20350403,Shingle Creek,NA,NA,37,0,NA,NA,n/a,NA,NA,NS,unknown,F,S,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,315,46.8,Sockeye
+Deadpitch,11/10/2020,Week 7,20350404,Shingle Creek,NA,NA,39.5,0,NA,NA,n/a,NA,NA,NS,unknown,M,n/a,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,315,49.9,Sockeye
+Deadpitch,11/10/2020,Week 7,20350405,Shingle Creek,NA,NA,40,0,NA,NA,n/a,NA,NA,NS,unknown,M,n/a,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,315,50.5,Sockeye
+Deadpitch,11/10/2020,Week 7,20350406,Shingle Creek,NA,NA,40,0,NA,NA,n/a,NA,NA,NS,unknown,F,S,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,315,50.5,Sockeye
+Deadpitch,11/10/2020,Week 7,20350407,Shingle Creek,NA,NA,38.5,0,NA,NA,n/a,NA,NA,NS,unknown,M,n/a,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,315,48.6,Sockeye
+Deadpitch,11/10/2020,Week 7,20350408,Shingle Creek,NA,NA,37,0,NA,NA,n/a,NA,NA,NS,unknown,M,n/a,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,315,46.8,Sockeye
+Deadpitch,11/10/2020,Week 7,20350409,Shingle Creek,NA,NA,40,0,NA,NA,n/a,NA,NA,NS,unknown,F,S,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,315,50.5,Sockeye
+Deadpitch,11/10/2020,Week 7,20350410,Shingle Creek,NA,NA,41,0,NA,NA,n/a,NA,NA,NS,unknown,F,S,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,315,51.8,Sockeye
+Deadpitch,11/10/2020,Week 7,20350411,Shingle Creek,NA,NA,39,0,NA,NA,n/a,NA,NA,NS,unknown,F,S,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,315,49.3,Sockeye
+Deadpitch,11/10/2020,Week 7,20350412,Shingle Creek,NA,NA,37,0,NA,NA,n/a,NA,NA,NS,unknown,M,n/a,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,315,46.8,Sockeye
+Deadpitch,11/10/2020,Week 7,20350413,Shingle Creek,NA,NA,39.5,0,NA,NA,n/a,NA,NA,NS,unknown,M,n/a,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,315,49.9,Sockeye
+Deadpitch,11/10/2020,Week 7,20350414,Shingle Creek,NA,NA,36,0,NA,NA,n/a,NA,NA,NS,unknown,M,n/a,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,315,45.5,Sockeye
+Deadpitch,11/10/2020,Week 7,20350415,Shingle Creek,NA,NA,38,0,NA,NA,n/a,NA,NA,NS,unknown,M,n/a,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,315,48,Sockeye
+Deadpitch,11/10/2020,Week 7,20350416,Shingle Creek,NA,NA,37.5,0,NA,NA,n/a,NA,NA,NS,unknown,F,S,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,315,47.4,Sockeye
+Deadpitch,11/10/2020,Week 7,20350417,Shingle Creek,NA,NA,39.5,0,NA,NA,n/a,NA,NA,NS,unknown,M,n/a,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,315,49.9,Sockeye
+Deadpitch,11/10/2020,Week 7,20350418,Shingle Creek,NA,NA,39,0,NA,NA,n/a,NA,NA,NS,unknown,F,P,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,315,49.3,Sockeye
+Deadpitch,11/10/2020,Week 7,20350419,Shingle Creek,NA,NA,38,0,NA,NA,n/a,NA,NA,NS,unknown,M,n/a,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,315,48,Sockeye
+Deadpitch,11/10/2020,Week 7,20350420,Shingle Creek,NA,NA,35.5,0,NA,NA,n/a,NA,NA,NS,unknown,M,n/a,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,315,44.9,Sockeye
+Deadpitch,11/10/2020,Week 7,20350421,Shingle Creek,NA,NA,41,0,NA,NA,n/a,NA,NA,NS,unknown,M,n/a,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,315,51.8,Sockeye
+Deadpitch,11/10/2020,Week 7,20350422,Shingle Creek,NA,NA,38.5,0,NA,NA,n/a,NA,NA,NS,unknown,M,n/a,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,315,48.6,Sockeye
+Deadpitch,11/10/2020,Week 7,20350423,Shingle Creek,NA,NA,38.5,0,NA,NA,n/a,NA,NA,NS,unknown,F,S,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,315,48.6,Sockeye
+Deadpitch,11/10/2020,Week 7,20350424,Shingle Creek,NA,NA,37,0,NA,NA,n/a,NA,NA,NS,unknown,F,S,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,315,46.8,Sockeye
+Deadpitch,11/10/2020,Week 7,20350425,Shingle Creek,NA,NA,41,0,NA,NA,n/a,NA,NA,NS,unknown,M,n/a,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,315,51.8,Sockeye
+Deadpitch,11/10/2020,Week 7,20350426,Shingle Creek,NA,NA,37.5,0,NA,NA,n/a,NA,NA,NS,unknown,M,n/a,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,315,47.4,Sockeye
+Deadpitch,11/10/2020,Week 7,20350427,Shingle Creek,NA,NA,37,0,NA,NA,n/a,NA,NA,NS,unknown,M,n/a,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,315,46.8,Sockeye
+Deadpitch,11/10/2020,Week 7,20350428,Shingle Creek,NA,NA,38,0,NA,NA,n/a,NA,NA,NS,unknown,M,n/a,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,315,48,Sockeye
+Deadpitch,11/10/2020,Week 7,20350429,Shingle Creek,NA,NA,40,0,NA,NA,n/a,NA,NA,NS,unknown,F,S,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,315,50.5,Sockeye
+Deadpitch,11/10/2020,Week 7,20350430,Shingle Creek,NA,NA,29.5,0,NA,NA,n/a,NA,NA,NS,unknown,M,n/a,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,315,37.3,Sockeye
+Deadpitch,11/10/2020,Week 7,20350431,Shingle Creek,NA,NA,34.5,0,NA,NA,n/a,NA,NA,NS,unknown,F,S,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,315,43.6,Sockeye
+Deadpitch,11/10/2020,Week 7,20350432,Shingle Creek,NA,NA,38,0,NA,NA,n/a,NA,NA,NS,unknown,F,S,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,315,48,Sockeye
+Deadpitch,11/10/2020,Week 7,20350433,Shingle Creek,NA,NA,37.5,0,NA,NA,n/a,NA,NA,NS,unknown,M,n/a,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,315,47.4,Sockeye
+Deadpitch,11/10/2020,Week 7,20350434,Shingle Creek,NA,NA,39,0,NA,NA,n/a,NA,NA,NS,unknown,M,n/a,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,315,49.3,Sockeye
+Deadpitch,11/10/2020,Week 7,20350435,Shingle Creek,NA,NA,37.5,0,NA,NA,n/a,NA,NA,NS,unknown,M,n/a,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,315,47.4,Sockeye
+Deadpitch,11/10/2020,Week 7,20350436,Shingle Creek,NA,NA,39.5,0,NA,NA,n/a,NA,NA,NS,unknown,M,n/a,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,315,49.9,Sockeye
+Deadpitch,11/10/2020,Week 7,20350437,Shingle Creek,NA,NA,37.5,0,NA,NA,n/a,NA,NA,NS,unknown,F,P,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,315,47.4,Sockeye
+Deadpitch,11/10/2020,Week 7,20350438,Shingle Creek,NA,NA,39,0,NA,NA,n/a,NA,NA,NS,unknown,M,n/a,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,315,49.3,Sockeye
+Deadpitch,11/10/2020,Week 7,20350439,Shingle Creek,NA,NA,43.5,0,NA,NA,n/a,NA,NA,NS,unknown,F,N,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,315,55,Sockeye
+Deadpitch,11/10/2020,Week 7,20350440,Shingle Creek,NA,NA,40,0,NA,NA,n/a,NA,NA,NS,unknown,F,N,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,315,50.5,Sockeye
+Deadpitch,11/10/2020,Week 7,20350441,Shingle Creek,NA,NA,37,0,NA,NA,n/a,NA,NA,NS,unknown,M,n/a,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,315,46.8,Sockeye
+Deadpitch,11/10/2020,Week 7,20350442,Shingle Creek,NA,NA,42,0,NA,NA,n/a,NA,NA,NS,unknown,M,n/a,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,315,53.1,Sockeye
+Deadpitch,11/10/2020,Week 7,20350443,Shingle Creek,NA,NA,43.5,0,NA,NA,n/a,NA,NA,NS,unknown,F,S,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,315,55,Sockeye
+Deadpitch,11/10/2020,Week 7,20350444,Shingle Creek,NA,NA,37.5,0,NA,NA,n/a,NA,NA,NS,unknown,F,P,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,315,47.4,Sockeye
+Deadpitch,11/10/2020,Week 7,20350445,Shingle Creek,NA,NA,39,0,NA,NA,n/a,NA,NA,NS,unknown,F,S,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,315,49.3,Sockeye
+Deadpitch,11/10/2020,Week 7,20350446,Shingle Creek,NA,NA,36.5,0,NA,NA,n/a,NA,NA,NS,unknown,F,S,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,315,46.1,Sockeye
+Deadpitch,11/10/2020,Week 7,20350447,Shingle Creek,NA,NA,38,0,NA,NA,n/a,NA,NA,NS,unknown,M,n/a,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,315,48,Sockeye
+Deadpitch,11/10/2020,Week 7,20350448,Shingle Creek,NA,NA,39,0,NA,NA,n/a,NA,NA,NS,unknown,F,S,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,315,49.3,Sockeye
+Deadpitch,11/10/2020,Week 7,20350449,Shingle Creek,NA,NA,38.5,0,NA,NA,n/a,NA,NA,NS,unknown,M,n/a,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,315,48.6,Sockeye
+Deadpitch,11/10/2020,Week 7,20350450,Shingle Creek,NA,NA,36,0,NA,NA,n/a,NA,NA,NS,unknown,M,n/a,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,315,45.5,Sockeye
+Deadpitch,11/10/2020,Week 7,20350451,Shingle Creek,NA,NA,38.5,0,NA,NA,n/a,NA,NA,NS,unknown,F,S,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,315,48.6,Sockeye
+Deadpitch,11/10/2020,Week 7,20350452,Shingle Creek,NA,NA,41,0,NA,NA,n/a,NA,NA,NS,unknown,M,n/a,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,315,51.8,Sockeye
+Deadpitch,11/10/2020,Week 7,20350453,Shingle Creek,NA,NA,39,0,NA,NA,n/a,NA,NA,NS,unknown,F,S,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,315,49.3,Sockeye
+Deadpitch,11/10/2020,Week 7,20350454,Shingle Creek,NA,NA,38.5,0,NA,NA,n/a,NA,NA,NS,unknown,F,S,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,315,48.6,Sockeye
+Deadpitch,11/10/2020,Week 7,20350455,Shingle Creek,NA,NA,38,0,NA,NA,n/a,NA,NA,NS,unknown,F,S,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,315,48,Sockeye
+Deadpitch,11/10/2020,Week 7,20350456,Shingle Creek,NA,NA,41,0,NA,NA,n/a,NA,NA,NS,unknown,M,n/a,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,315,51.8,Sockeye
+Deadpitch,11/10/2020,Week 7,20350457,Shingle Creek,NA,NA,38,0,NA,NA,n/a,NA,NA,NS,unknown,M,n/a,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,315,48,Sockeye
+Deadpitch,11/10/2020,Week 7,20350458,Shingle Creek,NA,NA,39,0,NA,NA,n/a,NA,NA,NS,unknown,F,S,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,315,49.3,Sockeye
+Deadpitch,11/10/2020,Week 7,20350459,Shingle Creek,NA,NA,37.5,0,NA,NA,n/a,NA,NA,NS,unknown,M,n/a,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,315,47.4,Sockeye
+Deadpitch,11/10/2020,Week 7,20350460,Shingle Creek,NA,NA,38,0,NA,NA,n/a,NA,NA,NS,unknown,M,n/a,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,315,48,Sockeye
+Deadpitch,11/10/2020,Week 7,20350461,Shingle Creek,NA,NA,39,0,NA,NA,n/a,NA,NA,NS,unknown,M,n/a,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,315,49.3,Sockeye
+Deadpitch,11/10/2020,Week 7,20350462,Shingle Creek,NA,NA,41,0,NA,NA,n/a,NA,NA,NS,unknown,F,P,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,315,51.8,Sockeye
+Deadpitch,11/10/2020,Week 7,20350463,Shingle Creek,NA,NA,35,0,NA,NA,n/a,NA,NA,NS,unknown,F,P,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,315,44.2,Sockeye
+Deadpitch,11/10/2020,Week 7,20350464,Shingle Creek,NA,NA,41,0,NA,NA,n/a,NA,NA,NS,unknown,M,n/a,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,315,51.8,Sockeye
+Deadpitch,11/10/2020,Week 7,20350465,Shingle Creek,NA,NA,37.5,0,NA,NA,n/a,NA,NA,NS,unknown,M,n/a,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,315,47.4,Sockeye
+Deadpitch,11/10/2020,Week 7,20350466,Shingle Creek,NA,NA,40,0,NA,NA,n/a,NA,NA,NS,unknown,F,S,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,315,50.5,Sockeye
+Deadpitch,11/10/2020,Week 7,20350467,Shingle Creek,NA,NA,34.5,0,NA,NA,n/a,NA,NA,NS,unknown,F,S,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,315,43.6,Sockeye
+Deadpitch,11/10/2020,Week 7,20350468,Shingle Creek,NA,NA,33.5,0,NA,NA,n/a,NA,NA,NS,unknown,M,n/a,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,315,42.3,Sockeye
+Deadpitch,11/10/2020,Week 7,20350469,Shingle Creek,NA,NA,33,0,NA,NA,n/a,NA,NA,NS,unknown,M,n/a,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,315,41.7,Sockeye
+Deadpitch,11/10/2020,Week 7,20350470,Shingle Creek,NA,NA,36.5,0,NA,NA,n/a,NA,NA,NS,unknown,M,n/a,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,315,46.1,Sockeye
+Deadpitch,11/10/2020,Week 7,20350471,Shingle Creek,NA,NA,38,0,NA,NA,n/a,NA,NA,NS,unknown,F,P,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,315,48,Sockeye
+Deadpitch,11/10/2020,Week 7,20350472,Shingle Creek,NA,NA,37.5,0,NA,NA,n/a,NA,NA,NS,unknown,M,n/a,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,315,47.4,Sockeye
+Deadpitch,11/10/2020,Week 7,20350473,Shingle Creek,NA,NA,38,0,NA,NA,n/a,NA,NA,NS,unknown,F,S,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,315,48,Sockeye
+Deadpitch,11/10/2020,Week 7,20350474,Shingle Creek,NA,NA,42,0,NA,NA,n/a,NA,NA,NS,unknown,F,S,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,315,53.1,Sockeye
+Deadpitch,11/10/2020,Week 7,20350475,Shingle Creek,NA,NA,39,0,NA,NA,n/a,NA,NA,NS,unknown,F,P,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,315,49.3,Sockeye
+Deadpitch,11/10/2020,Week 7,20350476,Shingle Creek,NA,NA,38,0,NA,NA,n/a,NA,NA,NS,unknown,F,N,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,315,48,Sockeye
+Deadpitch,11/10/2020,Week 7,20350477,Shingle Creek,NA,NA,41.5,0,NA,NA,n/a,NA,NA,NS,unknown,F,N,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,315,52.4,Sockeye
+Deadpitch,11/10/2020,Week 7,20350478,Shingle Creek,NA,NA,40,0,NA,NA,n/a,NA,NA,NS,unknown,M,n/a,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,315,50.5,Sockeye
+Deadpitch,11/10/2020,Week 7,20350479,Shingle Creek,NA,NA,40,0,NA,NA,n/a,NA,NA,NS,unknown,F,P,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,315,50.5,Sockeye
+Deadpitch,11/10/2020,Week 7,20350480,Shingle Creek,NA,NA,39,0,NA,NA,n/a,NA,NA,NS,unknown,M,n/a,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,315,49.3,Sockeye
+Deadpitch,11/10/2020,Week 7,20350481,Shingle Creek,NA,NA,39,0,NA,NA,n/a,NA,NA,NS,unknown,F,S,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,315,49.3,Sockeye
+Deadpitch,11/10/2020,Week 7,20350482,Shingle Creek,NA,NA,39.5,0,NA,NA,n/a,NA,NA,NS,unknown,M,n/a,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,315,49.9,Sockeye
+Deadpitch,11/10/2020,Week 7,20350483,Shingle Creek,NA,NA,40.5,0,NA,NA,n/a,NA,NA,NS,unknown,M,n/a,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,315,51.2,Sockeye
+Deadpitch,11/10/2020,Week 7,20350484,Shingle Creek,NA,NA,39,0,NA,NA,n/a,NA,NA,NS,unknown,M,n/a,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,315,49.3,Sockeye
+Deadpitch,11/10/2020,Week 7,20350485,Shingle Creek,NA,NA,36.5,0,NA,NA,n/a,NA,NA,NS,unknown,M,n/a,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,315,46.1,Sockeye
+Deadpitch,11/10/2020,Week 7,20350486,Shingle Creek,NA,NA,41,0,NA,NA,n/a,NA,NA,NS,unknown,F,P,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,315,51.8,Sockeye
+Deadpitch,11/10/2020,Week 7,20350487,Shingle Creek,NA,NA,40,0,NA,NA,n/a,NA,NA,NS,unknown,F,S,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,315,50.5,Sockeye
+Deadpitch,11/10/2020,Week 7,20350488,Shingle Creek,NA,NA,34.5,0,NA,NA,n/a,NA,NA,NS,unknown,M,n/a,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,315,43.6,Sockeye
+Deadpitch,11/10/2020,Week 7,20350489,Shingle Creek,NA,NA,36,0,NA,NA,n/a,NA,NA,NS,unknown,F,S,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,315,45.5,Sockeye
+Deadpitch,11/10/2020,Week 7,20350490,Shingle Creek,NA,NA,42,0,NA,NA,n/a,NA,NA,NS,unknown,F,P,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,315,53.1,Sockeye
+Deadpitch,11/10/2020,Week 7,20350491,Shingle Creek,NA,NA,38,0,NA,NA,n/a,NA,NA,NS,unknown,F,N,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,315,48,Sockeye
+Deadpitch,11/10/2020,Week 7,20350492,Shingle Creek,NA,NA,39,0,NA,NA,n/a,NA,NA,NS,unknown,M,n/a,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,315,49.3,Sockeye
+Deadpitch,11/10/2020,Week 7,20350493,Shingle Creek,NA,NA,39,0,NA,NA,n/a,NA,NA,NS,unknown,F,S,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,315,49.3,Sockeye
+Deadpitch,11/10/2020,Week 7,20350494,Shingle Creek,NA,NA,36,0,NA,NA,n/a,NA,NA,NS,unknown,M,n/a,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,315,45.5,Sockeye
+Deadpitch,11/10/2020,Week 7,20350495,Shingle Creek,NA,NA,38,0,NA,NA,n/a,NA,NA,NS,unknown,F,P,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,315,48,Sockeye
+Deadpitch,11/10/2020,Week 7,20350496,Shingle Creek,NA,NA,36.5,0,NA,NA,n/a,NA,NA,NS,unknown,F,P,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,315,46.1,Sockeye
+Deadpitch,11/10/2020,Week 7,20350497,Shingle Creek,NA,NA,40.5,0,NA,NA,n/a,NA,NA,NS,unknown,M,n/a,n/a,N,n/a,NA,N,n/a,n/a,NA,2020,315,51.2,Sockeye
