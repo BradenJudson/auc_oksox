@@ -15,10 +15,11 @@ ui <- fluidPage(
   # App title ----
   titlePanel("Salmon area-under-the-curve spawner abundance estimation"),
   
-  fluidRow("test"),
-  
-  fluidRow(
+    fluidRow(
     # Panel 1: Input count data.
+      
+    column(width = 12,
+           textOutput(outputId = "AUC")),
     
     # Frame is 12 pts wide. 
     # First 1/4 is input sliders. 
@@ -128,7 +129,7 @@ server <- function(input, output, session) {
                  # Difference between survey dates (in days).
                  tdiff = doy - lag(doy),
                  # Exclude negatives (shouldn't happen anyway).
-                 tdiff = replace(tdiff, which(tdiff <0), NA),
+                 tdiff = replace(tdiff, which(tdiff < 0), NA),
                  # Average fish count between dates.
                  xbar  = (Fish + lag(Fish))/2,
                  # Average fish count multiplied by time elapsed.
@@ -148,20 +149,23 @@ server <- function(input, output, session) {
         dplyr::tibble(type = "Right tail",
                       # Take the last date in the series. 
                       doy = yday(mod_df$x$Date[nrow(mod_df$x)]),
-                      tdiff = NA,
-                      xbar = NA,
+                      tdiff = NA, xbar = NA,
                       # Count on the last date multiplied by half of the residency time.
                       fishdays = as.numeric(mod_df$x[nrow(mod_df$x),2])*(11/2))
       ) %>%  
+      mutate(summ = fcumsum(fishdays)) %>% 
       # Renaming columns for presentation.
-      `colnames<-`(., c(" ", "Day\n(Julian)", "ΔTime\n(days)", "x̄", "Fish days"))
+      `colnames<-`(., c(" ", "Day\n(Julian)", "ΔTime\n(days)", "x̄", "Fish days", "summ"))
     
   })
 
   output$auc_calcs <- DT::renderDataTable(
-    aucdat(), 
+    aucdat() %>% select(-c("summ")), 
     options = list(dom = 't'))
   
+  
+  output$AUC <- renderText(paste("Area under the curve = ",
+                                 max(aucdat()$summ )))
   
 }
 
