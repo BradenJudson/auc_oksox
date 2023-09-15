@@ -111,60 +111,56 @@ server <- function(input, output, session) {
     
   })
  
-  # AUC table. 
-  output$auc_calcs <- DT::renderDataTable(
+  aucdat <- reactive({
     
-    # Establish as DT format. 
-    datatable(
-      # First tail - lowest non-zero count times 11/2. 
-      # Empty values for tdiff and xbar - not relevant here.
-      dplyr::tibble(type = "Left tail",
-                    doy = yday(mod_df$x$Date[1]),
-                    tdiff = NA,
-                    xbar = NA,
-                    # Count on first day multiplied by residency time/2.
-                    fishdays = as.numeric(mod_df$x[1,2])*(11/2)) %>% 
-        # Now for the "center" of the trapezoid. 
-        dplyr::bind_rows(
-                mod_df$x %>% 
-                # Take first dataframe and add components. 
-                # Calculate Julian date.
-                mutate(doy = lubridate::yday(Date),
-                       # Difference between survey dates (in days).
-                       tdiff = doy - lag(doy),
-                       # Exclude negatives (shouldn't happen anyway).
-                       tdiff = replace(tdiff, which(tdiff <0), NA),
-                       # Average fish count between dates.
-                       xbar  = (Fish + lag(Fish))/2,
-                       # Average fish count multiplied by time elapsed.
-                       fishdays = case_when(
-                         is.na(xbar) ~ Fish * (11/2),
-                         !is.na(xbar) ~ tdiff*xbar
-                       ),
-                       # Specify these are the non-tail calculations.
-                       type = "Trapezoid") %>% 
-                  # Remove NAs. Helps tidy DT.
-                  filter(!is.na(tdiff)) %>% 
-                # Select relevant columns.
-                select(c("type","doy", "tdiff", "xbar", "fishdays"))) %>% 
-                # Add terminal tail estimate. 
-                dplyr::bind_rows(
-                  # Right-most tail.
-                  dplyr::tibble(type = "Right tail",
-                                # Take the last date in the series. 
-                                doy = yday(mod_df$x$Date[nrow(mod_df$x)]),
-                                tdiff = NA,
-                                xbar = NA,
-                                # Count on the last date multiplied by half of the residency time.
-                                fishdays = as.numeric(mod_df$x[nrow(mod_df$x),2])*(11/2))
-                ) %>%  
-        # Renaming columns for presentation.
-        `colnames<-`(., c(" ", "Day\n(Julian)", "ΔTime\n(days)", "x̄", "Fish days")),
-              # Excludes the "Show # entries" selector.
-              options = list(dom = 't'))
-  )
-  
-  
+    dplyr::tibble(type = "Left tail",
+                  doy = yday(mod_df$x$Date[1]),
+                  tdiff = NA,
+                  xbar = NA,
+                  # Count on first day multiplied by residency time/2.
+                  fishdays = as.numeric(mod_df$x[1,2])*(11/2)) %>% 
+      # Now for the "center" of the trapezoid. 
+      dplyr::bind_rows(
+        mod_df$x %>% 
+          # Take first dataframe and add components. 
+          # Calculate Julian date.
+          mutate(doy = lubridate::yday(Date),
+                 # Difference between survey dates (in days).
+                 tdiff = doy - lag(doy),
+                 # Exclude negatives (shouldn't happen anyway).
+                 tdiff = replace(tdiff, which(tdiff <0), NA),
+                 # Average fish count between dates.
+                 xbar  = (Fish + lag(Fish))/2,
+                 # Average fish count multiplied by time elapsed.
+                 fishdays = case_when(
+                   is.na(xbar) ~ Fish * (11/2),
+                   !is.na(xbar) ~ tdiff*xbar
+                 ),
+                 # Specify these are the non-tail calculations.
+                 type = "Trapezoid") %>% 
+          # Remove NAs. Helps tidy DT.
+          filter(!is.na(tdiff)) %>% 
+          # Select relevant columns.
+          select(c("type","doy", "tdiff", "xbar", "fishdays"))) %>% 
+      # Add terminal tail estimate. 
+      dplyr::bind_rows(
+        # Right-most tail.
+        dplyr::tibble(type = "Right tail",
+                      # Take the last date in the series. 
+                      doy = yday(mod_df$x$Date[nrow(mod_df$x)]),
+                      tdiff = NA,
+                      xbar = NA,
+                      # Count on the last date multiplied by half of the residency time.
+                      fishdays = as.numeric(mod_df$x[nrow(mod_df$x),2])*(11/2))
+      ) %>%  
+      # Renaming columns for presentation.
+      `colnames<-`(., c(" ", "Day\n(Julian)", "ΔTime\n(days)", "x̄", "Fish days"))
+    
+  })
+
+  output$auc_calcs <- DT::renderDataTable(
+    aucdat(), 
+    options = list(dom = 't'))
   
   
 }
