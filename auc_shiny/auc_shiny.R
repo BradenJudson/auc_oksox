@@ -9,27 +9,32 @@ df <- dplyr::tibble(Date = NA, Fish = NA)
 
 # -------------------------------------------------------------------------
 
-
-
+# User interface.
 ui <- fluidPage(
   
   # App title ----
-  title = "title",
+  titlePanel("Salmon area-under-the-curve spawner abundance estimation"),
+  
+  fluidRow("test"),
   
   fluidRow(
     # Panel 1: Input count data.
     
-    # Would be nice to remove "Show # rows" thing.
-    # Try to add border or better theme/style.
-    
+    # Frame is 12 pts wide. 
+    # First 1/4 is input sliders. 
     column(width = 3, offset = 0.1,
+           # Header.
            "Table 1. Input data",
+           # Pad from top of frame only.
            style = 'padding:10px',
+           # Date input - select from Calendar dropdown.
            shiny::dateInput(inputId    = "date",
                             label      = "Date:"),
+           # How many fish? Pick a positive value.
            shiny::numericInput("fish",   "Fish:",
                                value   = 0, 
                                min     = 0),
+           # Operators to add/remove rows. 
            shiny::actionButton(inputId = "add", 
                                label   = "Add"),
            shiny::selectInput(inputId  = "remove_row",
@@ -44,9 +49,10 @@ ui <- fluidPage(
            DTOutput(outputId = "enum")),
     
     # Panel 3: ATU Calculations.
-    column(4, 'Table 3.',
+    # Slightly wider than other two panels. 
+    column(4, 'Table 3. AUC Calculations',
            style = 'padding:10px',
-           DTOutput(outputId = 'aucs'))
+           DTOutput(outputId = 'auc_calcs'))
     
   ))
   
@@ -57,25 +63,29 @@ ui <- fluidPage(
 # -------------------------------------------------------------------------
 
 
-
+# Server - operations. 
 server <- function(input, output, session) {
   
   # Table 2: Enumerations.
-  
+  # Start with blank DF defined above. 
   mod_df <- shiny::reactiveValues(x = df)
   
+  # Render as DT without (show x entries).
   output$enum <- DT::renderDataTable(
     
     datatable(mod_df$x, options = list(dom = 't'))
     
     )
   
+  # Operators for removing rows. 
   shiny::observe({
     shiny::updateSelectInput(session, 
                              inputId = "remove_row",
                              choices = 1:nrow(mod_df$x))
   })
   
+  # For adding values and updating table without 
+  # leaving original NA columns. 
   shiny::observeEvent(input$add, {
     
     mod_df$x <- mod_df$x %>%
@@ -93,6 +103,7 @@ server <- function(input, output, session) {
     
   })
   
+  # For automatically updating enumerations table.
   proxy <- DT::dataTableProxy('enum')
   shiny::observe({
     
@@ -100,37 +111,59 @@ server <- function(input, output, session) {
     
   })
  
-  
-  output$aucs <- DT::renderDataTable(
+  # AUC table. 
+  output$auc_calcs <- DT::renderDataTable(
     
+    # Establish as DT format. 
     datatable(
+      # First tail - lowest non-zero count times 11/2. 
+      # Empty values for tdiff and xbar - not relevant here.
       dplyr::tibble(type = "Left tail",
                     doy = yday(mod_df$x$Date[1]),
                     tdiff = NA,
                     xbar = NA,
+                    # Count on first day multiplied by residency time/2.
                     fishdays = as.numeric(mod_df$x[1,2])*(11/2)) %>% 
+        # Now for the "center" of the trapezoid. 
         dplyr::bind_rows(
                 mod_df$x %>% 
+                # Take first dataframe and add components. 
+                # Calculate Julian date.
                 mutate(doy = lubridate::yday(Date),
+                       # Difference between survey dates (in days).
                        tdiff = doy - lag(doy),
+                       # Exclude negatives (shouldn't happen anyway).
                        tdiff = replace(tdiff, which(tdiff <0), NA),
+                       # Average fish count between dates.
                        xbar  = (Fish + lag(Fish))/2,
+                       # Average fish count multiplied by time elapsed.
                        fishdays = case_when(
                          is.na(xbar) ~ Fish * (11/2),
                          !is.na(xbar) ~ tdiff*xbar
                        ),
+                       # Specify these are the non-tail calculations.
                        type = "Trapezoid") %>% 
+                  # Remove NAs. Helps tidy DT.
                   filter(!is.na(tdiff)) %>% 
+                # Select relevant columns.
                 select(c("type","doy", "tdiff", "xbar", "fishdays"))) %>% 
+                # Add terminal tail estimate. 
                 dplyr::bind_rows(
+                  # Right-most tail.
                   dplyr::tibble(type = "Right tail",
+                                # Take the last date in the series. 
                                 doy = yday(mod_df$x$Date[nrow(mod_df$x)]),
                                 tdiff = NA,
                                 xbar = NA,
+                                # Count on the last date multiplied by half of the residency time.
                                 fishdays = as.numeric(mod_df$x[nrow(mod_df$x),2])*(11/2))
-                ), 
+                ) %>%  
+        # Renaming columns for presentation.
+        `colnames<-`(., c(" ", "Day\n(Julian)", "ΔTime\n(days)", "x̄", "Fish days")),
+              # Excludes the "Show # entries" selector.
               options = list(dom = 't'))
   )
+  
   
   
   
