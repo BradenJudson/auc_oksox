@@ -16,10 +16,13 @@ ui <- fluidPage(
   titlePanel("Salmon area-under-the-curve spawner abundance estimation"),
   
     fluidRow(
-    # Panel 1: Input count data.
-      
+    # Make bigger and bold output value.
+    # see https://stackoverflow.com/questions/39985307/shiny-r-rendertext-paste-new-line-and-bold
     column(width = 12,
            textOutput(outputId = "AUC")),
+        
+    column(width = 12,
+           plotOutput("auc_plot")),
     
     # Frame is 12 pts wide. 
     # First 1/4 is input sliders. 
@@ -111,13 +114,14 @@ server <- function(input, output, session) {
     DT::replaceData(proxy, mod_df$x)
     
   })
- 
+  
+  
   aucdat <- reactive({
     
     dplyr::tibble(type = "Left tail",
-                  doy = yday(mod_df$x$Date[1]),
+                  doy  = yday(mod_df$x$Date[1]),
                   tdiff = NA,
-                  xbar = NA,
+                  xbar  = NA,
                   # Count on first day multiplied by residency time/2.
                   fishdays = as.numeric(mod_df$x[1,2])*(11/2)) %>% 
       # Now for the "center" of the trapezoid. 
@@ -142,7 +146,7 @@ server <- function(input, output, session) {
           # Remove NAs. Helps tidy DT.
           filter(!is.na(tdiff)) %>% 
           # Select relevant columns.
-          select(c("type","doy", "tdiff", "xbar", "fishdays"))) %>% 
+          select(c("type","doy", "tdiff", "xbar", "fishdays", "Fish"))) %>% 
       # Add terminal tail estimate. 
       dplyr::bind_rows(
         # Right-most tail.
@@ -151,22 +155,54 @@ server <- function(input, output, session) {
                       doy = yday(mod_df$x$Date[nrow(mod_df$x)]),
                       tdiff = NA, xbar = NA,
                       # Count on the last date multiplied by half of the residency time.
-                      fishdays = as.numeric(mod_df$x[nrow(mod_df$x),2])*(11/2))
+                      fishdays = as.numeric(mod_df$x[nrow(mod_df$x), 2])*(11/2))
       ) %>%  
-      mutate(summ = fcumsum(fishdays)) %>% 
+      mutate(summ = fcumsum(fishdays))  
       # Renaming columns for presentation.
-      `colnames<-`(., c(" ", "Day\n(Julian)", "ΔTime\n(days)", "x̄", "Fish days", "summ"))
+ 
     
   })
 
   output$auc_calcs <- DT::renderDataTable(
-    aucdat() %>% select(-c("summ")), 
+    aucdat() %>% select(-c("summ", "Fish")) %>% 
+      `colnames<-`(., c(" ", "Day\n(Julian)", 
+                        "ΔTime\n(days)", "x̄", 
+                        "Fish*days")), 
     options = list(dom = 't'))
   
   
   output$AUC <- renderText(paste("Area under the curve = ",
                                  max(aucdat()$summ )))
   
+  
+  
+  counts <- reactive({
+    dplyr::tibble(date = mod_df$x$Date,
+                  fish = mod_df$x$Fish)
+  })
+  
+  
+  output$auc_plot <- renderPlot({
+    ggplot(data = counts(),
+           aes(x = date, y = fish)) +
+      theme_bw() +
+      labs(x = NULL,y = "Fish") +
+      geom_area(aes(y = fish), 
+                fill   = "gray",   alpha = 1/4) +
+      geom_point(color = "black",  shape = 21, 
+                 fill  = "gray99", size = 2) +
+      geom_hline(yintercept = 0,   color = "deepskyblue3",
+                 linewidth  = 1/2, linetype = "dashed") 
+  })
+  
+  
+  
+  
+  
+  
 }
 
 shinyApp(ui, server)
+
+# https://debruine.github.io/shinyintro/sharing.html
+

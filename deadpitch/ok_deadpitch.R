@@ -271,3 +271,32 @@ ggsave("lwr_deadpitch_ridgeline_bins.png",
 
 
 
+
+# -------------------------------------------------------------------------
+
+# sex ratio.
+
+(oso <- read.csv("OSO_SOX_deadpitch_data_tidy.csv") %>%
+  # Chuck out Shingle Creek and other tributaries for now.
+  filter(section == "Lower Okanagan") %>% 
+  filter(fish == "sockeye") %>% 
+  filter(year %in% 2000:2016) %>% 
+  filter((sex != "jack") %>% 
+           replace_na(TRUE)) %>% 
+   filter((thermal_mark != "Hatchery") %>% 
+            replace_na(TRUE)) %>% 
+  group_by(year) %>% 
+  count(sex) %>% 
+  spread(sex, n, fill = 0) %>% 
+  mutate(fmratio = round(f/m, 2))) 
+
+
+unique(oso$year)
+summary(oso$fmratio); sd(oso$fmratio)
+
+write.csv(oso,
+          "oso_sex_ratios.csv",
+          row.names = FALSE)
+
+
+
