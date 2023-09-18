@@ -2,9 +2,9 @@
 
 ## Step 1: Estimate the abundance of spawning _O. nerka_ by year and location
 
-Use `auc_func.R` to compute and visualize the Trapezoidal Area-under-the-curve (TAUC) and apply to Sockeye counts at 1) the Lower Okanagan River, and 2) Penticton Channel.
+Use `auc_func.R` to compute and visualize the Trapezoidal Area-under-the-curve (TAUC) and apply to Sockeye counts at four study sites: i) the lower Okanagan River (above Osoyoos Lake), ii) the middle Okanagan River (above McIntyre Dam), iii) Penticton Channel, and iv) Shingle Creek. Also included is an [AUC calculator shiny app](https://bradenjudson.shinyapps.io/auc_calculator/) to expedite and standardize the AUC calculation process. 
 
-Note that this script estimates the abundance of _O. nerka_, and thus additional biometric data are required to estimate the relative proportions of anadromous Sockeye and non-anadromous Kokanee. These aggregate estimates are then written to their respective subdirectory (`pen_channel` and  `osoyoos`) and are further processed there using the biometric data obtained from analyses conducted in the directory `deadpitch`. 
+Note that this script estimates the abundance of _O. nerka_, and thus additional biometric data are required to estimate the relative proportions of anadromous Sockeye and non-anadromous Kokanee. These aggregate estimates are then written to their respective subdirectory (e.g., `pen_channel` and  `osoyoos`) and are further processed there using the biometric data obtained from analyses conducted in the directory `deadpitch`. 
 
 ## Step 2: Estimate the composition of spawning _O. nerka_ by year and location
 
