@@ -18,9 +18,10 @@ ui <- fluidPage(
     fluidRow(
     # Make bigger and bold output value.
     # see https://stackoverflow.com/questions/39985307/shiny-r-rendertext-paste-new-line-and-bold
-    column(width = 12,
-           textOutput(outputId = "AUC")),
-        
+    
+    column(width = 6, verbatimTextOutput(output="AUC")),
+
+   
     column(width = 12,
            plotOutput("auc_plot")),
     
@@ -60,9 +61,6 @@ ui <- fluidPage(
     
   ))
   
-  
-
-
 
 # -------------------------------------------------------------------------
 
@@ -171,9 +169,11 @@ server <- function(input, output, session) {
     options = list(dom = 't'))
   
   
-  output$AUC <- renderText(paste("Area under the curve = ",
-                                 max(aucdat()$summ )))
-  
+  output$AUC <- renderText(paste(" Area under the curve = ", 
+                                 max(aucdat()$summ),
+                                 "\n", "Abundance of spawners = ",
+                                 round(max(aucdat()$summ)/11, 1)))
+
   
   
   counts <- reactive({
@@ -203,6 +203,4 @@ server <- function(input, output, session) {
 }
 
 shinyApp(ui, server)
-
-# https://debruine.github.io/shinyintro/sharing.html
 

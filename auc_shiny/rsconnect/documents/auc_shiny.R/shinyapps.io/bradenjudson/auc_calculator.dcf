@@ -1,0 +1,12 @@
+name: auc_calculator
+title: auc_calculator
+username: bradenjudson
+account: bradenjudson
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 9902228
+bundleId: 7698746
+url: https://bradenjudson.shinyapps.io/auc_calculator/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
