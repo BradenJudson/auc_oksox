@@ -136,3 +136,55 @@ save_as_docx(x = ft,
              path = paste0(getwd(), 
              "./tables/oso_summary.docx"))
 
+
+
+
+
+
+
+
+
+
+# sizes -------------------------------------------------------------------
+
+soko <- read.csv("OSO_SOX_deadpitch_data_tidy.csv") %>% 
+  filter(section == "Lower Okanagan") %>% 
+  filter(FL_reg >= 350) %>% 
+  filter(sex == "f") %>% 
+  filter(!is.na(fish)) %>% 
+  group_by(year, fish) %>% 
+  filter(year %in% 2000:2016)
+
+summary(soko$FL_reg)
+hist(soko$FL_reg)
+soko$year <- as.factor(soko$year)
+ggplot(data = soko, aes(x = FL_reg, 
+                        fill = year,
+                        group = year)) +
+  geom_histogram(
+                 color = "black") + theme_bw() +
+  labs(y = NULL, x = "Fork length (mm)") + 
+  scale_x_continuous(breaks = seq(200, 1000, 100),
+                     limits = c(600, 800)) +
+  theme(legend.title = element_blank())
+
+quantile(soko$FL_reg, probs = c(0.9, 0.95, 0.99, 0.999))
+
+sexprop <- soko %>%
+  filter(sex == "f" | sex == "m") %>% 
+  group_by(year, sex) %>% tally() %>% 
+  summarise(proportion = round(n/sum(n), 3)) %>% 
+  mutate(sex = c("f", "m"))
+
+write.csv(sexprop,
+          "sockeye_sex_proportions_2000to2016.csv",
+          row.names = FALSE)
+
+
+
+
+
+
+
+
+

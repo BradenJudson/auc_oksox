@@ -144,7 +144,7 @@ server <- function(input, output, session) {
           # Remove NAs. Helps tidy DT.
           filter(!is.na(tdiff)) %>% 
           # Select relevant columns.
-          select(c("type","doy", "tdiff", "xbar", "fishdays", "Fish"))) %>% 
+          select(c("type", "doy", "tdiff", "xbar", "fishdays", "Fish"))) %>% 
       # Add terminal tail estimate. 
       dplyr::bind_rows(
         # Right-most tail.
@@ -172,7 +172,7 @@ server <- function(input, output, session) {
   output$AUC <- renderText(paste(" Area under the curve = ", 
                                  max(aucdat()$summ),
                                  "\n", "Abundance of spawners = ",
-                                 round(max(aucdat()$summ)/11, 1)))
+                                 round(max(aucdat()$summ)/11, 0)))
 
   
   
@@ -194,9 +194,6 @@ server <- function(input, output, session) {
       geom_hline(yintercept = 0,   color = "deepskyblue3",
                  linewidth  = 1/2, linetype = "dashed") 
   })
-  
-  
-  
   
   
   
